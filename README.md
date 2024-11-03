@@ -7,11 +7,9 @@
 
 </div>
 
-<div align="center">
-
-# 🌸 My Recent AniList Activity
-
-</div>
+<details>
+<summary><div align="center"># 🌸 My Recent AniList Activity</div></summary>
+    
 <!-- ANILIST_ACTIVITY:start -->
 
 -   📖 Completed [The Wife I Loved Dearly](https://anilist.co/manga/139540) (10:07 24 August 2024)
@@ -21,3 +19,4 @@
 -   📺 Completed [Attack on Titan Final Season THE FINAL CHAPTERS Special 2](https://anilist.co/anime/162314) (21:50 05 November 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
+</details>
