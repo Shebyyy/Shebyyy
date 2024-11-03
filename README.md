@@ -9,7 +9,7 @@
 
 <div align="center">
 <details>
-<summary># 🌸 My recent AniList activity</summary>
+<summary> # 🌸 My recent AniList activity </summary>
 </div>
   
 <!-- ANILIST_ACTIVITY:start -->
