@@ -8,16 +8,14 @@
 </div>
 
 <div align="center">
-<details>
-<summary> # 🌸 My recent AniList activity </summary>
+
+# 🌸 My Recent AniList Activity
+
+- 📺 Watched episode 1 - 4 of [Shangri-La Frontier Season 2](https://anilist.co/anime/176508) (13:28 03 November 2024)
+- 📺 Watched episode 1 - 6 of [Demon Lord, Retry! R](https://anilist.co/anime/168500) (10:04 03 November 2024)
+- 📺 Watched episode 1 - 5 of [BLUE LOCK Season 2](https://anilist.co/anime/163146) (09:51 03 November 2024)
+- 📺 Watched episode 1 of [One Piece Log: Fish-Man Island Saga](https://anilist.co/anime/183423) (08:31 03 November 2024)
+- 📺 Watched episode 1 - 5 of [BLEACH: Thousand-Year Blood War - The Conflict](https://anilist.co/anime/169755) (20:03 02 November 2024)
+
 </div>
-<!-- ANILIST_ACTIVITY:start -->
 
--   📺 Watched episode 1 - 4 of [Shangri-La Frontier Season 2](https://anilist.co/anime/176508) (13:28 03 November 2024)
--   📺 Watched episode 1 - 6 of [Demon Lord, Retry! R](https://anilist.co/anime/168500) (10:04 03 November 2024)
--   📺 Watched episode 1 - 5 of [BLUE LOCK Season 2](https://anilist.co/anime/163146) (09:51 03 November 2024)
--   📺 Watched episode 1 of [One Piece Log: Fish-Man Island Saga](https://anilist.co/anime/183423) (08:31 03 November 2024)
--   📺 Watched episode 1 - 5 of [BLEACH: Thousand-Year Blood War - The Conflict](https://anilist.co/anime/169755) (20:03 02 November 2024)
-
-<!-- ANILIST_ACTIVITY:end -->
-</details>
