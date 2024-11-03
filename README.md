@@ -11,6 +11,10 @@
 <summary style="cursor: pointer; font-weight: bold;">🌸 My Recent AniList Activity</summary>
 
 <div align="center">
+
+# 🌸 My Recent AniList Activity
+
+</div>
     
 <!-- ANILIST_ACTIVITY:start -->
 
