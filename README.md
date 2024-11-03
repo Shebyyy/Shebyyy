@@ -32,10 +32,10 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 - 6 of [Let This Grieving Soul Retire](https://anilist.co/anime/175019) (22:36 03 November 2024)
 -   📺 Watched episode 1 - 4 of [Shangri-La Frontier Season 2](https://anilist.co/anime/176508) (13:28 03 November 2024)
 -   📺 Watched episode 1 - 6 of [Demon Lord, Retry! R](https://anilist.co/anime/168500) (10:04 03 November 2024)
 -   📺 Watched episode 1 - 5 of [BLUE LOCK Season 2](https://anilist.co/anime/163146) (09:51 03 November 2024)
 -   📺 Watched episode 1 of [One Piece Log: Fish-Man Island Saga](https://anilist.co/anime/183423) (08:31 03 November 2024)
--   📺 Watched episode 1 - 5 of [BLEACH: Thousand-Year Blood War - The Conflict](https://anilist.co/anime/169755) (20:03 02 November 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
