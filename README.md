@@ -6,3 +6,21 @@
 </a>
 
 </div>
+
+<div align="center">
+
+# Anilist Activity
+</div>
+<details>
+  <summary>🌸 My recent AniList activity</summary>
+  
+<!-- ANILIST_ACTIVITY:start -->
+
+-   📖 Completed [The Wife I Loved Dearly](https://anilist.co/manga/139540) (10:07 24 August 2024)
+-   📖 Read chapter 114 - 116 of [Chainsaw Man](https://anilist.co/manga/105778) (06:17 15 August 2024)
+-   📖 Read chapter 4 of [Kagurabachi](https://anilist.co/manga/169355) (17:25 13 August 2024)
+-   📺 Completed [Big Mac® to, Susume!](https://anilist.co/anime/166058) (16:10 11 August 2024)
+-   📺 Completed [Attack on Titan Final Season THE FINAL CHAPTERS Special 2](https://anilist.co/anime/162314) (21:50 05 November 2023)
+
+<!-- ANILIST_ACTIVITY:end -->
+</details>
