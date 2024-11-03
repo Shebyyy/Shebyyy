@@ -23,7 +23,7 @@
 
 
 <a href="https://t.me/your_telegram_username" title="Telegram Profile">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/Telegram_logo.svg" width="30" alt="Telegram Logo" />
+    <img src="https://www.freepnglogos.com/images/telegram-png-21801.html" width="30" alt="Telegram Logo" />
 
 
 </div>
