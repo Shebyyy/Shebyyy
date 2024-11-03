@@ -14,15 +14,11 @@
     <img src="https://discord.c99.nl/widget/theme-3/612532963938271232.png" alt="Discord Profile">
 </a><br>
 
-<a href="https://www.instagram.com/_.sheby/" title="Instagram Profile">
-    <img src="https://www.freepnglogos.com/uploads/logo-ig-png/logo-ig-instagram-new-logo-vector-download-13.png" width="30" alt="Instagram Logo" />
-
-
 <a href="https://www.snapchat.com/add/a.sheby" title="Snapchat Profile">
     <img src="https://www.freepnglogos.com/uploads/snapchat-logo-png-0.png" width="35" alt="Snapchat Logo" />
 
 
-<a href="https://t.me/your_telegram_username" title="Telegram Profile">
+<a href="https://t.me/ASheby" title="Telegram Profile">
     <img src="https://www.freepnglogos.com/uploads/telegram-logo-png-0.png" width="30" alt="Telegram Logo" />
 
 
@@ -36,10 +32,10 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Watched episode 1 - 4 of [Shangri-La Frontier Season 2](https://anilist.co/anime/176508) (13:28 03 November 2024)
--   📺 Watched episode 1 - 6 of [Demon Lord, Retry! R](https://anilist.co/anime/168500) (10:04 03 November 2024)
--   📺 Watched episode 1 - 5 of [BLUE LOCK Season 2](https://anilist.co/anime/163146) (09:51 03 November 2024)
--   📺 Watched episode 1 of [One Piece Log: Fish-Man Island Saga](https://anilist.co/anime/183423) (08:31 03 November 2024)
--   📺 Watched episode 1 - 5 of [BLEACH: Thousand-Year Blood War - The Conflict](https://anilist.co/anime/169755) (20:03 02 November 2024)
+- 📺 Watched episode 1 of [One Piece Log: Fish-Man Island Saga](https://anilist.co/anime/183423) (16:41 03 November 2024)
+- 📺 Watched episode 1 - 8 of [Suicide Squad ISEKAI](https://anilist.co/anime/166710) (06:19 01 November 2024)
+- 📺 Watched episode 2 - 8 of [BOFURI: I Don't Want to Get Hurt, so I'll Max Out My Defense.](https://anilist.co/anime/106479) (06:11 01 November 2024)
+- 📺 Watched episode 1 - 11 of [Beyond the Boundary](https://anilist.co/anime/18153) (07:26 31 October 2024)
+- 📺 Watched episode 1 - 4 of [Vampire in the Garden](https://anilist.co/anime/108357) (07:07 31 October 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
