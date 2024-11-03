@@ -5,6 +5,11 @@
     <img alt="typograssy" src="https://typograssy.deno.dev/api?text=%E3%82%88%E3%81%86%E3%81%93%E3%81%9D%E3%81%BF%E3%81%AA%E3%81%95%E3%82%93%20-%20Itsmechinmoy--&&l0=none&l1=82d9d0&l2=027353&l3=038c4c&l4=01402e&bg=none&frame=none&speed=100&comment=" width="421.99">
 </a>
 
+</div>
+
+<div align="center">
+
+# Social Media Profiles
 <a href="https://discordapp.com/users/612532963938271232">
     <img src="https://discord.c99.nl/widget/theme-3/612532963938271232.png" alt="Discord Profile">
 </a>
@@ -14,6 +19,9 @@
 </a>
 <a href="https://www.snapchat.com/add/a.sheby" title="Snapchat Profile">
     <img src="https://www.freepnglogos.com/uploads/snapchat-logo-png-0.png" width="39" alt="Snapchat Logo" />
+</a>
+<a href="https://t.me/ASheby" title="Telegram Profile">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/Telegram_logo.svg" width="30" alt="Telegram Logo" />
 </a>
 
 </div>
