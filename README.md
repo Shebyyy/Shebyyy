@@ -19,11 +19,11 @@
 
 
 <a href="https://www.snapchat.com/add/a.sheby" title="Snapchat Profile">
-    <img src="https://www.freepnglogos.com/uploads/snapchat-logo-png-0.png" width="39" alt="Snapchat Logo" />
+    <img src="https://www.freepnglogos.com/uploads/snapchat-logo-png-0.png" width="30" alt="Snapchat Logo" />
 
 
 <a href="https://t.me/your_telegram_username" title="Telegram Profile">
-    <img src="https://www.freepnglogos.com/images/telegram-png-21801.html" width="30" alt="Telegram Logo" />
+    <img src="https://www.freepnglogos.com/uploads/telegram-logo-png-0.png" width="30" alt="Telegram Logo" />
 
 
 </div>
