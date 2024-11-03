@@ -8,7 +8,9 @@
 </div>
 
 <details>
-<summary><div align="center"># 🌸 My Recent AniList Activity</div></summary>
+<summary style="cursor: pointer; font-weight: bold;">🌸 My Recent AniList Activity</summary>
+
+<div align="center">
     
 <!-- ANILIST_ACTIVITY:start -->
 
