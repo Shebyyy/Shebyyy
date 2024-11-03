@@ -14,7 +14,8 @@
     <img src="https://discord.c99.nl/widget/theme-3/612532963938271232.png" alt="Discord Profile">
 </a><br>
 
-[![Discord Presence](https://api.lanyard.rest/v1/users/612532963938271232)
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/94490510688792576?theme=light&bg=809ecf&animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20doing%20something%20else...)](https://discord.com/users/94490510688792576)
+
 
 <a href="https://www.snapchat.com/add/a.sheby" title="Snapchat Profile">
     <img src="https://www.freepnglogos.com/uploads/snapchat-logo-png-0.png" width="35" alt="Snapchat Logo" />
