@@ -10,7 +10,6 @@
 
 # 🌸 My Recent AniList Activity
 
-</div>
     
 <!-- ANILIST_ACTIVITY:start -->
 
@@ -21,4 +20,3 @@
 -   📺 Watched episode 1 - 5 of [BLEACH: Thousand-Year Blood War - The Conflict](https://anilist.co/anime/169755) (20:03 02 November 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
-<details>
