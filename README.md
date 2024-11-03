@@ -6,7 +6,7 @@
 </a>
 
 <details>
-<summary>🌸 My Recent AniList Activity</summary>
+<summary> **🌸 My Recent AniList Activity**</summary>
 
 <div align="center">
 
