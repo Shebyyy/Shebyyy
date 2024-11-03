@@ -10,8 +10,6 @@
 
 <div style="text-align: center; font-size: 2em; font-weight: bold;">
 🌸 My Recent AniList Activity
-</div>
-
     
 <!-- ANILIST_ACTIVITY:start -->
 
