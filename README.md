@@ -8,7 +8,7 @@
 <details>
 <summary style="cursor: pointer; font-weight: bold;">🌸 My Recent AniList Activity 🎭</summary>
 
-<div style="text-align: center; font-size: 2em; font-weight: bold;">
+<div style="text-align: center; font-size: 2 em; font-weight: bold;">
 🌸 My Recent AniList Activity
     
 <!-- ANILIST_ACTIVITY:start -->
