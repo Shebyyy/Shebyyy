@@ -9,8 +9,8 @@
 <details>
 <summary style="cursor: pointer; font-weight: bold; font-size: 1.5em;">🌸 My Recent AniList Activity 🎭</summary>
 
-<div style="text-align: center; font-size: 1.5 em; font-weight: bold;">
-🎭 My Recent AniList Activity 🎭
+<div 
+# 🎭 My Recent AniList Activity 🎭
 </div>
 <!-- ANILIST_ACTIVITY:start -->
 
