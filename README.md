@@ -8,8 +8,6 @@
 <div align="center">
 
 # 🌸 My Recent AniList Activity
-
-</div>
     
 <!-- ANILIST_ACTIVITY:start -->
 
