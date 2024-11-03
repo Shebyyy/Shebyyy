@@ -16,15 +16,15 @@
 
 <a href="https://www.instagram.com/_.sheby/" title="Instagram Profile">
     <img src="https://www.freepnglogos.com/uploads/logo-ig-png/logo-ig-instagram-new-logo-vector-download-13.png" width="30" alt="Instagram Logo" />
-</a> Instagram Profile
+
 
 <a href="https://www.snapchat.com/add/a.sheby" title="Snapchat Profile">
     <img src="https://www.freepnglogos.com/uploads/snapchat-logo-png-0.png" width="39" alt="Snapchat Logo" />
-</a> Snapchat Profile
+
 
 <a href="https://t.me/your_telegram_username" title="Telegram Profile">
     <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/Telegram_logo.svg" width="30" alt="Telegram Logo" />
-</a> Telegram Profile
+
 
 </div>
 
