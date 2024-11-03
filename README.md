@@ -7,11 +7,14 @@
 
 
 <details>
-<summary style="cursor: pointer; font-weight: bold; font-size: 1.5em;">🌸 My Recent AniList Activity 🎭</summary>
+<summary>🌸 My Recent AniList Activity</summary>
 
-<div 
-# 🎭 My Recent AniList Activity 🎭
+<div align="center">
+
+# 🌸 My Recent AniList Activity
+
 </div>
+
 <!-- ANILIST_ACTIVITY:start -->
 
 - 📺 Watched episode 1 - 4 of [Shangri-La Frontier Season 2](https://anilist.co/anime/176508) (13:28 03 November 2024)
