@@ -9,7 +9,6 @@
 
 # 🎭 My Recent AniList Activity 🎭
 
-</div>
     
 <!-- ANILIST_ACTIVITY:start -->
 
@@ -20,4 +19,3 @@
 -   📺 Completed [Attack on Titan Final Season THE FINAL CHAPTERS Special 2](https://anilist.co/anime/162314) (21:50 05 November 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
-</details>
