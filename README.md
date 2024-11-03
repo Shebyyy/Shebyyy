@@ -7,7 +7,7 @@
 
 
 <details>
-<summary>🌸 My Recent AniList Activity</summary>
+<summary style="cursor: pointer;">🌸 My Recent AniList Activity</summary>
 
 <div align="center">
 
