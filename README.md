@@ -8,7 +8,7 @@
 </div>
 
 <details>
-<summary style="cursor: pointer; font-weight: bold; font-size: 1.5em; text-align: center;">🌸 My Recent AniList Activity 🎭</summary>
+<summary style="cursor: pointer; font-weight: bold; font-size: 1.5 em; text-align: center;">🎭 My Recent AniList Activity 🎭</summary>
 
 <div align="center">
 
