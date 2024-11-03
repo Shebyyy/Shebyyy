@@ -14,6 +14,8 @@
     <img src="https://discord.c99.nl/widget/theme-3/612532963938271232.png" alt="Discord Profile">
 </a><br>
 
+[![Discord Presence](https://lanyard.cnrad.dev/api/612532963938271232)](https://discord.com/users/612532963938271232)
+
 <a href="https://www.snapchat.com/add/a.sheby" title="Snapchat Profile">
     <img src="https://www.freepnglogos.com/uploads/snapchat-logo-png-0.png" width="35" alt="Snapchat Logo" />
 
