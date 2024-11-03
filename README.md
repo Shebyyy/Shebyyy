@@ -12,17 +12,19 @@
 # Social Media Profiles
 <a href="https://discordapp.com/users/612532963938271232">
     <img src="https://discord.c99.nl/widget/theme-3/612532963938271232.png" alt="Discord Profile">
-</a>
+</a><br>
 
 <a href="https://www.instagram.com/_.sheby/" title="Instagram Profile">
     <img src="https://www.freepnglogos.com/uploads/logo-ig-png/logo-ig-instagram-new-logo-vector-download-13.png" width="30" alt="Instagram Logo" />
-</a>
+</a> Instagram Profile<br>
+
 <a href="https://www.snapchat.com/add/a.sheby" title="Snapchat Profile">
     <img src="https://www.freepnglogos.com/uploads/snapchat-logo-png-0.png" width="39" alt="Snapchat Logo" />
-</a>
-<a href="https://t.me/ASheby" title="Telegram Profile">
+</a> Snapchat Profile<br>
+
+<a href="https://t.me/your_telegram_username" title="Telegram Profile">
     <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/Telegram_logo.svg" width="30" alt="Telegram Logo" />
-</a>
+</a> Telegram Profile
 
 </div>
 
