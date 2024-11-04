@@ -32,10 +32,10 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 - 5 of [Yakuza Fiancé: Raise wa Tanin ga Ii](https://anilist.co/anime/170468) (19:34 04 November 2024)
 -   📺 Watched episode 1 - 5 of [Seirei Gensouki: Spirit Chronicles Season 2](https://anilist.co/anime/141182) (17:22 04 November 2024)
 -   📺 Watched episode 1 - 5 of [Natsume's Book of Friends Season 7](https://anilist.co/anime/166611) (17:09 04 November 2024)
 -   📺 Watched episode 1 - 4 of [Arifureta: From Commonplace to World's Strongest Season 3](https://anilist.co/anime/154473) (16:29 04 November 2024)
 -   📺 Watched episode 1 - 6 of [The Most Notorious "Talker" Runs the World's Greatest Clan](https://anilist.co/anime/177104) (16:06 04 November 2024)
--   📺 Watched episode 1 - 5 of [Nina the Starry Bride](https://anilist.co/anime/171038) (15:52 04 November 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
