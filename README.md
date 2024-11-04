@@ -32,10 +32,10 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 - 5 of [HAIGAKURA](https://anilist.co/anime/168537) (14:24 04 November 2024)
 -   📺 Watched episode 16 - 19 of [The Apothecary Diaries](https://anilist.co/anime/161645) (11:41 04 November 2024)
 -   📺 Completed [DON'T TOY WITH ME, MISS NAGATORO 2nd Attack](https://anilist.co/anime/140596) (11:04 04 November 2024)
 -   📺 Watched episode 1 - 5 of [Touhai: Ura Rate Mahjong Touhai Roku](https://anilist.co/anime/173263) (05:05 04 November 2024)
 -   📺 Watched episode 1 - 5 of [MF GHOST Season 2](https://anilist.co/anime/171642) (23:19 03 November 2024)
--   📺 Watched episode 1 - 5 of [As a Reincarnated Aristocrat, I'll Use My Appraisal Skill to Rise in the World Season 2](https://anilist.co/anime/178434) (22:56 03 November 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
