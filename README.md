@@ -32,10 +32,10 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 - 4 of [Arifureta: From Commonplace to World's Strongest Season 3](https://anilist.co/anime/154473) (16:29 04 November 2024)
 -   📺 Watched episode 1 - 6 of [The Most Notorious "Talker" Runs the World's Greatest Clan](https://anilist.co/anime/177104) (16:06 04 November 2024)
 -   📺 Watched episode 1 - 5 of [Nina the Starry Bride](https://anilist.co/anime/171038) (15:52 04 November 2024)
 -   📺 Watched episode 1 - 5 of [Ron Kamonohashi’s Forbidden Deductions Season 2](https://anilist.co/anime/172355) (15:27 04 November 2024)
 -   📺 Watched episode 1 - 5 of [HAIGAKURA](https://anilist.co/anime/168537) (14:24 04 November 2024)
--   📺 Watched episode 16 - 19 of [The Apothecary Diaries](https://anilist.co/anime/161645) (11:41 04 November 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
