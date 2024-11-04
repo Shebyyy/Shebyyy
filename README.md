@@ -32,10 +32,10 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Completed [DON'T TOY WITH ME, MISS NAGATORO 2nd Attack](https://anilist.co/anime/140596) (11:04 04 November 2024)
 -   📺 Watched episode 1 - 5 of [Touhai: Ura Rate Mahjong Touhai Roku](https://anilist.co/anime/173263) (05:05 04 November 2024)
 -   📺 Watched episode 1 - 5 of [MF GHOST Season 2](https://anilist.co/anime/171642) (23:19 03 November 2024)
 -   📺 Watched episode 1 - 5 of [As a Reincarnated Aristocrat, I'll Use My Appraisal Skill to Rise in the World Season 2](https://anilist.co/anime/178434) (22:56 03 November 2024)
 -   📺 Watched episode 1 - 6 of [Let This Grieving Soul Retire](https://anilist.co/anime/175019) (22:36 03 November 2024)
--   📺 Watched episode 1 - 4 of [Shangri-La Frontier Season 2](https://anilist.co/anime/176508) (13:28 03 November 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
