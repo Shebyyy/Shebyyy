@@ -32,10 +32,10 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 23 - 58 of [Tunshi Xingkong 4](https://anilist.co/anime/166219) (11:58 05 November 2024)
 -   📺 Plans to watch [Patema Inverted](https://anilist.co/anime/12477) (21:32 04 November 2024)
 -   📺 Completed [Bubble](https://anilist.co/anime/142455) (21:30 04 November 2024)
 -   📺 Watched episode 1 - 5 of [Yakuza Fiancé: Raise wa Tanin ga Ii](https://anilist.co/anime/170468) (19:34 04 November 2024)
 -   📺 Watched episode 1 - 5 of [Seirei Gensouki: Spirit Chronicles Season 2](https://anilist.co/anime/141182) (17:22 04 November 2024)
--   📺 Watched episode 1 - 5 of [Natsume's Book of Friends Season 7](https://anilist.co/anime/166611) (17:09 04 November 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
