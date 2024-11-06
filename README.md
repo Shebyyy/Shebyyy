@@ -32,10 +32,10 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 - 10 of [Murai In Love](https://anilist.co/anime/150930) (23:30 06 November 2024)
+-   📺 Watched episode 1 - 10 of [Delico's Nursery](https://anilist.co/anime/167991) (23:23 06 November 2024)
 -   📺 Watched episode 1 - 5 of [A Terrified Teacher at Ghoul School!](https://anilist.co/anime/171545) (18:03 06 November 2024)
 -   📺 Watched episode 1 - 5 of [The Do-Over Damsel Conquers the Dragon Emperor](https://anilist.co/anime/164299) (17:43 06 November 2024)
 -   📺 Watched episode 1 - 6 of [I’ll Become a Villainess Who Goes Down in History](https://anilist.co/anime/168139) (08:55 06 November 2024)
--   📺 Plans to watch [The Beginning After the End](https://anilist.co/anime/183161) (13:26 05 November 2024)
--   📺 Watched episode 23 - 58 of [Tunshi Xingkong 4](https://anilist.co/anime/166219) (11:58 05 November 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
