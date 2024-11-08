@@ -32,10 +32,10 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 - 7 of [Blue Box](https://anilist.co/anime/170942) (14:35 08 November 2024)
+-   📺 Watched episode 1 - 19 of [2.5 Dimensional Seduction](https://anilist.co/anime/158559) (14:20 08 November 2024)
 -   📺 Watched episode 1 - 6 of [Mecha Ude: Mechanical Arms](https://anilist.co/anime/154673) (14:01 08 November 2024)
 -   📺 Watched episode 1 - 6 of [DAN DA DAN](https://anilist.co/anime/171018) (17:09 07 November 2024)
 -   📺 Watched episode 1 - 6 of [Is It Wrong To Try To Pick Up Girls in a Dungeon? V](https://anilist.co/anime/170732) (17:02 07 November 2024)
--   📺 Watched episode 1 - 7 of [Loner Life in Another World](https://anilist.co/anime/173693) (16:37 07 November 2024)
--   📺 Watched episode 1 - 6 of [Negative Positive Angler](https://anilist.co/anime/179919) (15:20 07 November 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
