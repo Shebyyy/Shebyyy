@@ -32,10 +32,10 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 - 6 of [Mecha Ude: Mechanical Arms](https://anilist.co/anime/154673) (14:01 08 November 2024)
 -   📺 Watched episode 1 - 6 of [DAN DA DAN](https://anilist.co/anime/171018) (17:09 07 November 2024)
 -   📺 Watched episode 1 - 6 of [Is It Wrong To Try To Pick Up Girls in a Dungeon? V](https://anilist.co/anime/170732) (17:02 07 November 2024)
 -   📺 Watched episode 1 - 7 of [Loner Life in Another World](https://anilist.co/anime/173693) (16:37 07 November 2024)
 -   📺 Watched episode 1 - 6 of [Negative Positive Angler](https://anilist.co/anime/179919) (15:20 07 November 2024)
--   📺 Watched episode 1 - 10 of [Murai In Love](https://anilist.co/anime/150930) (23:30 06 November 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
