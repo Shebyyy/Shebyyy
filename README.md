@@ -32,10 +32,10 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Plans to watch [Inazuma Eleven: Soushuuhen - Densetsu no Kickoff](https://anilist.co/anime/180804) (17:32 08 November 2024)
+-   📺 Plans to watch [Suu-funkan no Yell wo](https://anilist.co/anime/173935) (17:31 08 November 2024)
+-   📺 Plans to watch [Chainsaw Man – The Movie: Reze Arc](https://anilist.co/anime/171627) (17:24 08 November 2024)
 -   📺 Completed [LOOK BACK](https://anilist.co/anime/174788) (17:23 08 November 2024)
 -   📺 Watched episode 68 - 106 of [Shen Yin Wangzuo 2](https://anilist.co/anime/153499) (16:14 08 November 2024)
--   📺 Watched episode 1 - 7 of [Blue Box](https://anilist.co/anime/170942) (14:35 08 November 2024)
--   📺 Watched episode 1 - 19 of [2.5 Dimensional Seduction](https://anilist.co/anime/158559) (14:20 08 November 2024)
--   📺 Watched episode 1 - 6 of [Mecha Ude: Mechanical Arms](https://anilist.co/anime/154673) (14:01 08 November 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
