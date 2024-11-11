@@ -32,10 +32,10 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 - 6 of [HAIGAKURA](https://anilist.co/anime/168537) (16:35 11 November 2024)
 -   📺 Completed [DRIFTERS OVA](https://anilist.co/anime/97988) (11:36 11 November 2024)
 -   📺 Completed [DRIFTERS](https://anilist.co/anime/21123) (11:34 11 November 2024)
 -   📺 Watched episode 1 - 6 of [MF GHOST Season 2](https://anilist.co/anime/171642) (18:17 10 November 2024)
 -   📺 Watched episode 1 - 6 of [As a Reincarnated Aristocrat, I'll Use My Appraisal Skill to Rise in the World Season 2](https://anilist.co/anime/178434) (18:01 10 November 2024)
--   📺 Watched episode 1 - 7 of [Let This Grieving Soul Retire](https://anilist.co/anime/175019) (17:19 10 November 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
