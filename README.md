@@ -32,10 +32,10 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Watched episode 1 - 7 of [Demon Lord, Retry! R](https://anilist.co/anime/168500) (17:40 09 November 2024)
--   📺 Watched episode 1 - 6 of [BLEACH: Thousand-Year Blood War - The Conflict](https://anilist.co/anime/169755) (17:23 09 November 2024)
--   📺 Watched episode 1 - 4 of [Blue Miburo](https://anilist.co/anime/169258) (15:57 09 November 2024)
--   📺 Watched episode 1 - 15 of [Fruits Basket (2019)](https://anilist.co/anime/105334) (13:26 09 November 2024)
--   📺 Plans to watch [Inazuma Eleven: Soushuuhen - Densetsu no Kickoff](https://anilist.co/anime/180804) (17:32 08 November 2024)
+-   📺 Watched episode 1 - 6 of [MF GHOST Season 2](https://anilist.co/anime/171642) (18:17 10 November 2024)
+-   📺 Watched episode 1 - 6 of [As a Reincarnated Aristocrat, I'll Use My Appraisal Skill to Rise in the World Season 2](https://anilist.co/anime/178434) (18:01 10 November 2024)
+-   📺 Watched episode 1 - 7 of [Let This Grieving Soul Retire](https://anilist.co/anime/175019) (17:19 10 November 2024)
+-   📺 Plans to watch [Fruits Basket Season 2](https://anilist.co/anime/111762) (16:12 10 November 2024)
+-   📺 Completed [Fruits Basket (2019)](https://anilist.co/anime/105334) (16:11 10 November 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
