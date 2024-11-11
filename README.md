@@ -32,10 +32,10 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 - 6 of [Ron Kamonohashi’s Forbidden Deductions Season 2](https://anilist.co/anime/172355) (18:21 11 November 2024)
+-   📺 Watched episode 1 - 7 of [The Most Notorious "Talker" Runs the World's Greatest Clan](https://anilist.co/anime/177104) (18:00 11 November 2024)
 -   📺 Watched episode 1 - 6 of [Nina the Starry Bride](https://anilist.co/anime/171038) (17:42 11 November 2024)
 -   📺 Watched episode 1 - 6 of [Natsume's Book of Friends Season 7](https://anilist.co/anime/166611) (17:17 11 November 2024)
 -   📺 Watched episode 1 - 5 of [Arifureta: From Commonplace to World's Strongest Season 3](https://anilist.co/anime/154473) (16:57 11 November 2024)
--   📺 Watched episode 1 - 6 of [HAIGAKURA](https://anilist.co/anime/168537) (16:35 11 November 2024)
--   📺 Completed [DRIFTERS OVA](https://anilist.co/anime/97988) (11:36 11 November 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
