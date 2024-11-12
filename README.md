@@ -32,10 +32,10 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 - 7 of [Tying the Knot with an Amagami Sister](https://anilist.co/anime/164172) (18:14 12 November 2024)
+-   📺 Watched episode 1 - 6 of [A Terrified Teacher at Ghoul School!](https://anilist.co/anime/171545) (18:00 12 November 2024)
 -   📺 Watched episode 1 - 7 of [I’ll Become a Villainess Who Goes Down in History](https://anilist.co/anime/168139) (17:39 12 November 2024)
 -   📺 Plans to watch [GUNDAM: Requiem for Vengeance](https://anilist.co/anime/166703) (12:23 12 November 2024)
 -   📺 Watched episode 1 - 6 of [Touhai: Ura Rate Mahjong Touhai Roku](https://anilist.co/anime/173263) (19:45 11 November 2024)
--   📺 Watched episode 1 - 6 of [Tying the Knot with an Amagami Sister](https://anilist.co/anime/164172) (19:28 11 November 2024)
--   📺 Watched episode 1 - 6 of [Seirei Gensouki: Spirit Chronicles Season 2](https://anilist.co/anime/141182) (19:10 11 November 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
