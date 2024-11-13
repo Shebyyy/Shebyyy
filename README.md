@@ -32,10 +32,10 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Completed [PSYCHO-PASS Sinners of the System: Case.1 Crime and Punishment](https://anilist.co/anime/102649) (17:04 13 November 2024)
+-   📺 Watched episode 23 - 59 of [Tunshi Xingkong 4](https://anilist.co/anime/166219) (17:03 13 November 2024)
 -   📺 Watched episode 1 - 11 of [Murai In Love](https://anilist.co/anime/150930) (16:16 13 November 2024)
 -   📺 Watched episode 1 - 6 of [The Do-Over Damsel Conquers the Dragon Emperor](https://anilist.co/anime/164299) (16:10 13 November 2024)
 -   📺 Completed [PSYCHO-PASS: The Movie](https://anilist.co/anime/20514) (12:12 13 November 2024)
--   📺 Completed [PSYCHO-PASS 2](https://anilist.co/anime/20513) (11:25 13 November 2024)
--   📺 Completed [PSYCHO-PASS](https://anilist.co/anime/13601) (21:54 12 November 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
