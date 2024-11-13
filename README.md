@@ -32,10 +32,10 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Completed [PSYCHO-PASS 2](https://anilist.co/anime/20513) (11:25 13 November 2024)
 -   📺 Completed [PSYCHO-PASS](https://anilist.co/anime/13601) (21:54 12 November 2024)
 -   📺 Watched episode 1 - 22 of [PSYCHO-PASS](https://anilist.co/anime/13601) (21:53 12 November 2024)
 -   📺 Watched episode 1 - 7 of [Tying the Knot with an Amagami Sister](https://anilist.co/anime/164172) (18:14 12 November 2024)
 -   📺 Watched episode 1 - 6 of [A Terrified Teacher at Ghoul School!](https://anilist.co/anime/171545) (18:00 12 November 2024)
--   📺 Watched episode 1 - 7 of [I’ll Become a Villainess Who Goes Down in History](https://anilist.co/anime/168139) (17:39 12 November 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
