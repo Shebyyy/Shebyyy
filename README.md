@@ -32,10 +32,10 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 - 7 of [The Prince of Tennis II U-17 World Cup Semifinal](https://anilist.co/anime/165810) (09:38 14 November 2024)
 -   📺 Watched episode 1 - 11 of [Delico's Nursery](https://anilist.co/anime/167991) (05:52 14 November 2024)
 -   📺 Completed [PSYCHO-PASS Sinners of the System: Case.1 Crime and Punishment](https://anilist.co/anime/102649) (17:04 13 November 2024)
 -   📺 Watched episode 23 - 59 of [Tunshi Xingkong 4](https://anilist.co/anime/166219) (17:03 13 November 2024)
 -   📺 Watched episode 1 - 11 of [Murai In Love](https://anilist.co/anime/150930) (16:16 13 November 2024)
--   📺 Watched episode 1 - 6 of [The Do-Over Damsel Conquers the Dragon Emperor](https://anilist.co/anime/164299) (16:10 13 November 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
