@@ -32,10 +32,10 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 2 of [Yao Shen Ji 8](https://anilist.co/anime/178351) (22:46 15 November 2024)
 -   📺 Watched episode 68 - 107 of [Shen Yin Wangzuo 2](https://anilist.co/anime/153499) (22:30 15 November 2024)
 -   📺 Watched episode 1 - 10 of [The Café Terrace and Its Goddesses](https://anilist.co/anime/154412) (21:13 15 November 2024)
 -   📺 Watched episode 1 - 20 of [2.5 Dimensional Seduction](https://anilist.co/anime/158559) (15:32 15 November 2024)
 -   📺 Watched episode 1 - 7 of [Negative Positive Angler](https://anilist.co/anime/179919) (13:28 15 November 2024)
--   📺 Watched episode 1 - 7 of [Is It Wrong To Try To Pick Up Girls in a Dungeon? V](https://anilist.co/anime/170732) (13:28 15 November 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
