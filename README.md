@@ -32,7 +32,7 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Watched episode 2 - 6 of [Yao Shen Ji 8](https://anilist.co/anime/178351) (23:06 15 November 2024)
+-   📺 Watched episode 2 - 9 of [Yao Shen Ji 8](https://anilist.co/anime/178351) (23:25 15 November 2024)
 -   📺 Watched episode 68 - 107 of [Shen Yin Wangzuo 2](https://anilist.co/anime/153499) (22:30 15 November 2024)
 -   📺 Watched episode 1 - 10 of [The Café Terrace and Its Goddesses](https://anilist.co/anime/154412) (21:13 15 November 2024)
 -   📺 Watched episode 1 - 20 of [2.5 Dimensional Seduction](https://anilist.co/anime/158559) (15:32 15 November 2024)
