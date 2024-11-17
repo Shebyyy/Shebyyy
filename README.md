@@ -32,10 +32,10 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 - 7 of [You are Ms. Servant](https://anilist.co/anime/172190) (05:33 17 November 2024)
 -   📺 Watched episode 1 - 7 of [The Healer Who Was Banished From His Party, Is, in Fact, the Strongest](https://anilist.co/anime/174043) (05:15 17 November 2024)
 -   📺 Watched episode 1 - 8 of [Demon Lord, Retry! R](https://anilist.co/anime/168500) (04:50 17 November 2024)
 -   📺 Watched episode 1 - 5 of [Blue Miburo](https://anilist.co/anime/169258) (04:50 17 November 2024)
 -   📺 Watched episode 2 - 24 of [Yao Shen Ji 8](https://anilist.co/anime/178351) (14:57 16 November 2024)
--   📺 Watched episode 68 - 107 of [Shen Yin Wangzuo 2](https://anilist.co/anime/153499) (22:30 15 November 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
