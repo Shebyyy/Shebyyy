@@ -32,10 +32,10 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Plans to watch [Mairimashita! Iruma-kun 4](https://anilist.co/anime/184492) (14:15 17 November 2024)
 -   📺 Watched episode 2 - 32 of [Yao Shen Ji 8](https://anilist.co/anime/178351) (13:46 17 November 2024)
 -   📺 Watched episode 1 - 6 of [Shangri-La Frontier Season 2](https://anilist.co/anime/176508) (13:42 17 November 2024)
 -   📺 Watched episode 1 - 7 of [Touhai: Ura Rate Mahjong Touhai Roku](https://anilist.co/anime/173263) (13:21 17 November 2024)
 -   📺 Watched episode 1 - 7 of [BLUE LOCK Season 2](https://anilist.co/anime/163146) (13:00 17 November 2024)
--   📺 Watched episode 1 - 7 of [BLEACH: Thousand-Year Blood War - The Conflict](https://anilist.co/anime/169755) (12:44 17 November 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
