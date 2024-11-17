@@ -32,10 +32,10 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 - 7 of [Touhai: Ura Rate Mahjong Touhai Roku](https://anilist.co/anime/173263) (13:21 17 November 2024)
 -   📺 Watched episode 1 - 7 of [BLUE LOCK Season 2](https://anilist.co/anime/163146) (13:00 17 November 2024)
 -   📺 Watched episode 1 - 7 of [BLEACH: Thousand-Year Blood War - The Conflict](https://anilist.co/anime/169755) (12:44 17 November 2024)
 -   📺 Watched episode 1 - 3 of [One Piece Log: Fish-Man Island Saga](https://anilist.co/anime/183423) (05:52 17 November 2024)
 -   📺 Watched episode 1 - 7 of [You are Ms. Servant](https://anilist.co/anime/172190) (05:33 17 November 2024)
--   📺 Watched episode 1 - 7 of [The Healer Who Was Banished From His Party, Is, in Fact, the Strongest](https://anilist.co/anime/174043) (05:15 17 November 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
