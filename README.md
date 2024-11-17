@@ -32,10 +32,10 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 - 7 of [MF GHOST Season 2](https://anilist.co/anime/171642) (17:29 17 November 2024)
 -   📺 Watched episode 1 - 8 of [Let This Grieving Soul Retire](https://anilist.co/anime/175019) (16:18 17 November 2024)
 -   📺 Watched episode 1 - 7 of [As a Reincarnated Aristocrat, I'll Use My Appraisal Skill to Rise in the World Season 2](https://anilist.co/anime/178434) (15:55 17 November 2024)
 -   📺 Completed [Yao Shen Ji 8](https://anilist.co/anime/178351) (15:33 17 November 2024)
 -   📺 Watched episode 2 - 52 of [Yao Shen Ji 8](https://anilist.co/anime/178351) (15:33 17 November 2024)
--   📺 Plans to watch [Mairimashita! Iruma-kun 4](https://anilist.co/anime/184492) (14:15 17 November 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
