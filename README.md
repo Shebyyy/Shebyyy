@@ -32,10 +32,10 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 - 6 of [Arifureta: From Commonplace to World's Strongest Season 3](https://anilist.co/anime/154473) (17:36 18 November 2024)
 -   📺 Watched episode 1 - 7 of [Nina the Starry Bride](https://anilist.co/anime/171038) (17:12 18 November 2024)
 -   📺 Watched episode 1 - 7 of [Ron Kamonohashi’s Forbidden Deductions Season 2](https://anilist.co/anime/172355) (16:52 18 November 2024)
 -   📺 Watched episode 1 - 7 of [HAIGAKURA](https://anilist.co/anime/168537) (15:15 18 November 2024)
 -   📺 Watched episode 1 - 9 of [Black Cat](https://anilist.co/anime/68) (10:31 18 November 2024)
--   📺 Watched episode 1 - 7 of [Re:ZERO -Starting Life in Another World- Season 3](https://anilist.co/anime/163134) (20:53 17 November 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
