@@ -32,10 +32,10 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 - 7 of [Nina the Starry Bride](https://anilist.co/anime/171038) (17:12 18 November 2024)
+-   📺 Watched episode 1 - 7 of [Ron Kamonohashi’s Forbidden Deductions Season 2](https://anilist.co/anime/172355) (16:52 18 November 2024)
 -   📺 Watched episode 1 - 7 of [HAIGAKURA](https://anilist.co/anime/168537) (15:15 18 November 2024)
 -   📺 Watched episode 1 - 9 of [Black Cat](https://anilist.co/anime/68) (10:31 18 November 2024)
 -   📺 Watched episode 1 - 7 of [Re:ZERO -Starting Life in Another World- Season 3](https://anilist.co/anime/163134) (20:53 17 November 2024)
--   📺 Watched episode 1 - 7 of [MF GHOST Season 2](https://anilist.co/anime/171642) (17:29 17 November 2024)
--   📺 Watched episode 1 - 8 of [Let This Grieving Soul Retire](https://anilist.co/anime/175019) (16:18 17 November 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
