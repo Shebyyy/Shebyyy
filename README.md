@@ -32,7 +32,7 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Watched episode 1 - 6 of [Ling Wu Dalu](https://anilist.co/anime/179916) (19:10 19 November 2024)
+-   📺 Watched episode 1 - 9 of [Ling Wu Dalu](https://anilist.co/anime/179916) (10:22 20 November 2024)
 -   📺 Watched episode 1 - 8 of [I’ll Become a Villainess Who Goes Down in History](https://anilist.co/anime/168139) (18:29 19 November 2024)
 -   📺 Watched episode 1 - 7 of [Yakuza Fiancé: Raise wa Tanin ga Ii](https://anilist.co/anime/170468) (19:01 18 November 2024)
 -   📺 Watched episode 1 - 7 of [Seirei Gensouki: Spirit Chronicles Season 2](https://anilist.co/anime/141182) (18:56 18 November 2024)
