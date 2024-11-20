@@ -32,10 +32,10 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Completed [Murai In Love](https://anilist.co/anime/150930) (14:47 20 November 2024)
+-   📺 Watched episode 1 - 12 of [Murai In Love](https://anilist.co/anime/150930) (14:47 20 November 2024)
 -   📺 Watched episode 1 - 19 of [Ling Wu Dalu](https://anilist.co/anime/179916) (14:09 20 November 2024)
 -   📺 Watched episode 1 - 8 of [I’ll Become a Villainess Who Goes Down in History](https://anilist.co/anime/168139) (18:29 19 November 2024)
 -   📺 Watched episode 1 - 7 of [Yakuza Fiancé: Raise wa Tanin ga Ii](https://anilist.co/anime/170468) (19:01 18 November 2024)
--   📺 Watched episode 1 - 7 of [Seirei Gensouki: Spirit Chronicles Season 2](https://anilist.co/anime/141182) (18:56 18 November 2024)
--   📺 Watched episode 1 - 7 of [Natsume's Book of Friends Season 7](https://anilist.co/anime/166611) (18:38 18 November 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
