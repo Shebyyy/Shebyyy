@@ -32,9 +32,9 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 - 20 of [Ling Wu Dalu](https://anilist.co/anime/179916) (15:05 20 November 2024)
 -   📺 Completed [Murai In Love](https://anilist.co/anime/150930) (14:47 20 November 2024)
 -   📺 Watched episode 1 - 12 of [Murai In Love](https://anilist.co/anime/150930) (14:47 20 November 2024)
--   📺 Watched episode 1 - 19 of [Ling Wu Dalu](https://anilist.co/anime/179916) (14:09 20 November 2024)
 -   📺 Watched episode 1 - 8 of [I’ll Become a Villainess Who Goes Down in History](https://anilist.co/anime/168139) (18:29 19 November 2024)
 -   📺 Watched episode 1 - 7 of [Yakuza Fiancé: Raise wa Tanin ga Ii](https://anilist.co/anime/170468) (19:01 18 November 2024)
 
