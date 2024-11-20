@@ -32,10 +32,10 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 - 59 of [Xianwu Dizun](https://anilist.co/anime/132472) (19:15 20 November 2024)
 -   📺 Watched episode 1 - 8 of [Re:ZERO -Starting Life in Another World- Season 3](https://anilist.co/anime/163134) (15:54 20 November 2024)
 -   📺 Watched episode 1 - 7 of [The Do-Over Damsel Conquers the Dragon Emperor](https://anilist.co/anime/164299) (15:29 20 November 2024)
 -   📺 Watched episode 1 - 20 of [Ling Wu Dalu](https://anilist.co/anime/179916) (15:05 20 November 2024)
 -   📺 Completed [Murai In Love](https://anilist.co/anime/150930) (14:47 20 November 2024)
--   📺 Watched episode 1 - 12 of [Murai In Love](https://anilist.co/anime/150930) (14:47 20 November 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
