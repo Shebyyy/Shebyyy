@@ -32,10 +32,10 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Watched episode 1 - 112 of [Xianwu Dizun](https://anilist.co/anime/132472) (15:26 22 November 2024)
--   📺 Watched episode 1 - 8 of [DAN DA DAN](https://anilist.co/anime/171018) (12:00 22 November 2024)
--   📺 Watched episode 1 - 9 of [Loner Life in Another World](https://anilist.co/anime/173693) (09:58 22 November 2024)
--   📺 Watched episode 1 - 9 of [Blue Box](https://anilist.co/anime/170942) (09:01 22 November 2024)
--   📺 Watched episode 1 - 8 of [Negative Positive Angler](https://anilist.co/anime/179919) (15:13 21 November 2024)
+-   📺 Watched episode 23 - 60 of [Tunshi Xingkong 4](https://anilist.co/anime/166219) (16:15 22 November 2024)
+-   📺 Watched episode 68 - 108 of [Shen Yin Wangzuo 2](https://anilist.co/anime/153499) (16:14 22 November 2024)
+-   📺 Watched episode 1 - 12 of [Delico's Nursery](https://anilist.co/anime/167991) (16:13 22 November 2024)
+-   📺 Watched episode 1 - 8 of [Is It Wrong To Try To Pick Up Girls in a Dungeon? V](https://anilist.co/anime/170732) (16:01 22 November 2024)
+-   📺 Watched episode 1 - 21 of [2.5 Dimensional Seduction](https://anilist.co/anime/158559) (16:01 22 November 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
