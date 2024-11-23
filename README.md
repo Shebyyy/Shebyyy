@@ -32,7 +32,7 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Watched episode 3 - 7 of [Yishi Du Zun](https://anilist.co/anime/166223) (12:23 23 November 2024)
+-   📺 Watched episode 3 - 8 of [Yishi Du Zun](https://anilist.co/anime/166223) (14:14 23 November 2024)
 -   📺 Watched episode 23 - 60 of [Tunshi Xingkong 4](https://anilist.co/anime/166219) (16:15 22 November 2024)
 -   📺 Watched episode 68 - 108 of [Shen Yin Wangzuo 2](https://anilist.co/anime/153499) (16:14 22 November 2024)
 -   📺 Watched episode 1 - 12 of [Delico's Nursery](https://anilist.co/anime/167991) (16:13 22 November 2024)
