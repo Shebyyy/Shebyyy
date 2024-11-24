@@ -32,10 +32,10 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 - 8 of [The Healer Who Was Banished From His Party, Is, in Fact, the Strongest](https://anilist.co/anime/174043) (05:45 24 November 2024)
+-   📺 Watched episode 1 - 8 of [You are Ms. Servant](https://anilist.co/anime/172190) (05:32 24 November 2024)
 -   📺 Watched episode 3 - 10 of [Yishi Du Zun](https://anilist.co/anime/166223) (16:56 23 November 2024)
 -   📺 Watched episode 1 - 9 of [Demon Lord, Retry! R](https://anilist.co/anime/168500) (15:51 23 November 2024)
 -   📺 Watched episode 1 - 8 of [BLEACH: Thousand-Year Blood War - The Conflict](https://anilist.co/anime/169755) (15:34 23 November 2024)
--   📺 Watched episode 1 - 6 of [Blue Miburo](https://anilist.co/anime/169258) (15:09 23 November 2024)
--   📺 Watched episode 23 - 60 of [Tunshi Xingkong 4](https://anilist.co/anime/166219) (16:15 22 November 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
