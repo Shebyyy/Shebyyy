@@ -32,10 +32,10 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Completed [The Duke of Death and His Maid Season 2](https://anilist.co/anime/139435) (17:03 24 November 2024)
+-   📺 Watched episode 2 - 12 of [The Duke of Death and His Maid Season 2](https://anilist.co/anime/139435) (17:03 24 November 2024)
 -   📺 Watched episode 1 - 7 of [Shangri-La Frontier Season 2](https://anilist.co/anime/176508) (11:03 24 November 2024)
 -   📺 Watched episode 1 - 4 of [One Piece Log: Fish-Man Island Saga](https://anilist.co/anime/183423) (05:56 24 November 2024)
 -   📺 Watched episode 1 - 8 of [The Healer Who Was Banished From His Party, Is, in Fact, the Strongest](https://anilist.co/anime/174043) (05:45 24 November 2024)
--   📺 Watched episode 1 - 8 of [You are Ms. Servant](https://anilist.co/anime/172190) (05:32 24 November 2024)
--   📺 Watched episode 3 - 10 of [Yishi Du Zun](https://anilist.co/anime/166223) (16:56 23 November 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
