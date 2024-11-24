@@ -32,10 +32,10 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 - 9 of [Let This Grieving Soul Retire](https://anilist.co/anime/175019) (17:39 24 November 2024)
 -   📺 Completed [The Duke of Death and His Maid Season 2](https://anilist.co/anime/139435) (17:03 24 November 2024)
 -   📺 Watched episode 2 - 12 of [The Duke of Death and His Maid Season 2](https://anilist.co/anime/139435) (17:03 24 November 2024)
 -   📺 Watched episode 1 - 7 of [Shangri-La Frontier Season 2](https://anilist.co/anime/176508) (11:03 24 November 2024)
 -   📺 Watched episode 1 - 4 of [One Piece Log: Fish-Man Island Saga](https://anilist.co/anime/183423) (05:56 24 November 2024)
--   📺 Watched episode 1 - 8 of [The Healer Who Was Banished From His Party, Is, in Fact, the Strongest](https://anilist.co/anime/174043) (05:45 24 November 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
