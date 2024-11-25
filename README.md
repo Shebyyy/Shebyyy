@@ -32,7 +32,7 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Watched episode 1 - 25 of [Ling Wu Dalu](https://anilist.co/anime/179916) (22:29 25 November 2024)
+-   📺 Watched episode 1 - 28 of [Ling Wu Dalu](https://anilist.co/anime/179916) (22:47 25 November 2024)
 -   📺 Watched episode 1 - 8 of [Seirei Gensouki: Spirit Chronicles Season 2](https://anilist.co/anime/141182) (20:44 25 November 2024)
 -   📺 Watched episode 1 - 8 of [Natsume's Book of Friends Season 7](https://anilist.co/anime/166611) (16:53 25 November 2024)
 -   📺 Watched episode 1 - 8 of [Nina the Starry Bride](https://anilist.co/anime/171038) (16:34 25 November 2024)
