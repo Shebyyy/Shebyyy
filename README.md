@@ -32,10 +32,10 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 - 22 of [Ling Wu Dalu](https://anilist.co/anime/179916) (09:32 25 November 2024)
 -   📺 Completed [The Duke of Death and His Maid Season 3](https://anilist.co/anime/169584) (21:52 24 November 2024)
 -   📺 Watched episode 1 - 12 of [The Duke of Death and His Maid Season 3](https://anilist.co/anime/169584) (21:52 24 November 2024)
 -   📺 Watched episode 1 - 8 of [MF GHOST Season 2](https://anilist.co/anime/171642) (18:11 24 November 2024)
 -   📺 Watched episode 1 - 8 of [As a Reincarnated Aristocrat, I'll Use My Appraisal Skill to Rise in the World Season 2](https://anilist.co/anime/178434) (17:57 24 November 2024)
--   📺 Watched episode 1 - 9 of [Let This Grieving Soul Retire](https://anilist.co/anime/175019) (17:39 24 November 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
