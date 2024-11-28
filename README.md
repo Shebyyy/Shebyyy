@@ -32,10 +32,10 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Completed [Delico's Nursery](https://anilist.co/anime/167991) (11:48 28 November 2024)
+-   📺 Watched episode 1 - 13 of [Delico's Nursery](https://anilist.co/anime/167991) (11:48 28 November 2024)
 -   📺 Watched episode 1 - 8 of [The Do-Over Damsel Conquers the Dragon Emperor](https://anilist.co/anime/164299) (06:59 28 November 2024)
 -   📺 Watched episode 1 - 50 of [Soul Land 2: The Peerless Tang Clan](https://anilist.co/anime/137683) (06:45 28 November 2024)
 -   📺 Watched episode 1 - 8 of [Touhai: Ura Rate Mahjong Touhai Roku](https://anilist.co/anime/173263) (12:04 27 November 2024)
--   📺 Watched episode 1 - 9 of [I’ll Become a Villainess Who Goes Down in History](https://anilist.co/anime/168139) (09:03 27 November 2024)
--   📺 Watched episode 1 - 39 of [Ling Wu Dalu](https://anilist.co/anime/179916) (11:55 26 November 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
