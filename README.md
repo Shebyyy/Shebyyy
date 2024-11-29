@@ -32,10 +32,10 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 - 10 of [Blue Box](https://anilist.co/anime/170942) (05:24 29 November 2024)
 -   📺 Completed [Delico's Nursery](https://anilist.co/anime/167991) (11:48 28 November 2024)
 -   📺 Watched episode 1 - 13 of [Delico's Nursery](https://anilist.co/anime/167991) (11:48 28 November 2024)
 -   📺 Watched episode 1 - 8 of [The Do-Over Damsel Conquers the Dragon Emperor](https://anilist.co/anime/164299) (06:59 28 November 2024)
 -   📺 Watched episode 1 - 50 of [Soul Land 2: The Peerless Tang Clan](https://anilist.co/anime/137683) (06:45 28 November 2024)
--   📺 Watched episode 1 - 8 of [Touhai: Ura Rate Mahjong Touhai Roku](https://anilist.co/anime/173263) (12:04 27 November 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
