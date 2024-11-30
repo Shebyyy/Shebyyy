@@ -32,10 +32,10 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 - 9 of [The Healer Who Was Banished From His Party, Is, in Fact, the Strongest](https://anilist.co/anime/174043) (21:35 30 November 2024)
 -   📺 Watched episode 1 - 7 of [Blue Miburo](https://anilist.co/anime/169258) (11:46 30 November 2024)
 -   📺 Watched episode 1 - 70 of [Soul Land 2: The Peerless Tang Clan](https://anilist.co/anime/137683) (20:47 29 November 2024)
 -   📺 Watched episode 1 - 22 of [2.5 Dimensional Seduction](https://anilist.co/anime/158559) (16:53 29 November 2024)
 -   📺 Watched episode 1 - 10 of [Loner Life in Another World](https://anilist.co/anime/173693) (07:24 29 November 2024)
--   📺 Watched episode 1 - 9 of [Negative Positive Angler](https://anilist.co/anime/179919) (07:08 29 November 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
