@@ -32,10 +32,10 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 - 10 of [Let This Grieving Soul Retire](https://anilist.co/anime/175019) (19:33 01 December 2024)
 -   📺 Watched episode 1 - 8 of [Shangri-La Frontier Season 2](https://anilist.co/anime/176508) (19:13 01 December 2024)
 -   📺 Watched episode 1 - 5 of [One Piece Log: Fish-Man Island Saga](https://anilist.co/anime/183423) (05:40 01 December 2024)
 -   📺 Watched episode 1 - 9 of [You are Ms. Servant](https://anilist.co/anime/172190) (05:29 01 December 2024)
 -   📺 Watched episode 1 - 9 of [BLEACH: Thousand-Year Blood War - The Conflict](https://anilist.co/anime/169755) (05:11 01 December 2024)
--   📺 Watched episode 1 - 9 of [The Healer Who Was Banished From His Party, Is, in Fact, the Strongest](https://anilist.co/anime/174043) (21:35 30 November 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
