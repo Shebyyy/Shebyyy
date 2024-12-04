@@ -32,10 +32,10 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 - 9 of [Natsume's Book of Friends Season 7](https://anilist.co/anime/166611) (01:30 04 December 2024)
 -   📺 Watched episode 1 - 10 of [The Most Notorious "Talker" Runs the World's Greatest Clan](https://anilist.co/anime/177104) (14:26 03 December 2024)
 -   📺 Watched episode 1 - 9 of [Touhai: Ura Rate Mahjong Touhai Roku](https://anilist.co/anime/173263) (08:10 02 December 2024)
 -   📺 Watched episode 1 - 9 of [MF GHOST Season 2](https://anilist.co/anime/171642) (20:20 01 December 2024)
 -   📺 Watched episode 1 - 9 of [As a Reincarnated Aristocrat, I'll Use My Appraisal Skill to Rise in the World Season 2](https://anilist.co/anime/178434) (20:20 01 December 2024)
--   📺 Watched episode 1 - 10 of [Let This Grieving Soul Retire](https://anilist.co/anime/175019) (19:33 01 December 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
