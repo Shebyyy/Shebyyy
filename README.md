@@ -32,10 +32,10 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 - 8 of [Arifureta: From Commonplace to World's Strongest Season 3](https://anilist.co/anime/154473) (20:20 04 December 2024)
 -   📺 Watched episode 1 - 10 of [I’ll Become a Villainess Who Goes Down in History](https://anilist.co/anime/168139) (13:37 04 December 2024)
 -   📺 Watched episode 1 - 9 of [Natsume's Book of Friends Season 7](https://anilist.co/anime/166611) (01:30 04 December 2024)
 -   📺 Watched episode 1 - 10 of [The Most Notorious "Talker" Runs the World's Greatest Clan](https://anilist.co/anime/177104) (14:26 03 December 2024)
 -   📺 Watched episode 1 - 9 of [Touhai: Ura Rate Mahjong Touhai Roku](https://anilist.co/anime/173263) (08:10 02 December 2024)
--   📺 Watched episode 1 - 9 of [MF GHOST Season 2](https://anilist.co/anime/171642) (20:20 01 December 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
