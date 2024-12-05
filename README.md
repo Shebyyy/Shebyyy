@@ -32,7 +32,7 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Watched episode 1 - 7 of [Chihayafuru](https://anilist.co/anime/10800) (12:24 05 December 2024)
+-   📺 Watched episode 1 - 8 of [Chihayafuru](https://anilist.co/anime/10800) (15:04 05 December 2024)
 -   📺 Plans to watch [Chihayafuru](https://anilist.co/anime/10800) (20:51 04 December 2024)
 -   📺 Watched episode 1 - 9 of [The Do-Over Damsel Conquers the Dragon Emperor](https://anilist.co/anime/164299) (20:42 04 December 2024)
 -   📺 Watched episode 1 - 8 of [Arifureta: From Commonplace to World's Strongest Season 3](https://anilist.co/anime/154473) (20:20 04 December 2024)
