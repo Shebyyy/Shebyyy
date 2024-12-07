@@ -32,7 +32,7 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Watched episode 1 of [Chihayafuru 2](https://anilist.co/anime/14397) (12:45 07 December 2024)
+-   📺 Watched episode 1 - 2 of [Chihayafuru 2](https://anilist.co/anime/14397) (13:23 07 December 2024)
 -   📺 Plans to watch [Chihayafuru 2](https://anilist.co/anime/14397) (12:26 07 December 2024)
 -   📺 Completed [Chihayafuru](https://anilist.co/anime/10800) (12:18 07 December 2024)
 -   📺 Watched episode 1 - 24 of [Chihayafuru](https://anilist.co/anime/10800) (19:37 06 December 2024)
