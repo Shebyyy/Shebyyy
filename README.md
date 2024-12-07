@@ -32,10 +32,10 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 - 8 of [Blue Miburo](https://anilist.co/anime/169258) (16:08 07 December 2024)
 -   📺 Watched episode 1 - 9 of [Is It Wrong To Try To Pick Up Girls in a Dungeon? V](https://anilist.co/anime/170732) (15:48 07 December 2024)
 -   📺 Watched episode 1 - 7 of [Chihayafuru 2](https://anilist.co/anime/14397) (15:04 07 December 2024)
 -   📺 Plans to watch [Chihayafuru 2](https://anilist.co/anime/14397) (12:26 07 December 2024)
 -   📺 Completed [Chihayafuru](https://anilist.co/anime/10800) (12:18 07 December 2024)
--   📺 Watched episode 1 - 24 of [Chihayafuru](https://anilist.co/anime/10800) (19:37 06 December 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
