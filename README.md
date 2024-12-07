@@ -32,10 +32,10 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 of [Chihayafuru 2](https://anilist.co/anime/14397) (12:45 07 December 2024)
+-   📺 Plans to watch [Chihayafuru 2](https://anilist.co/anime/14397) (12:26 07 December 2024)
+-   📺 Completed [Chihayafuru](https://anilist.co/anime/10800) (12:18 07 December 2024)
 -   📺 Watched episode 1 - 24 of [Chihayafuru](https://anilist.co/anime/10800) (19:37 06 December 2024)
 -   📖 Read chapter 1 of [One Piece](https://anilist.co/manga/30013) (02:36 06 December 2024)
--   📺 Watched episode 1 - 10 of [Negative Positive Angler](https://anilist.co/anime/179919) (19:40 05 December 2024)
--   📺 Plans to watch [Chihayafuru](https://anilist.co/anime/10800) (20:51 04 December 2024)
--   📺 Watched episode 1 - 9 of [The Do-Over Damsel Conquers the Dragon Emperor](https://anilist.co/anime/164299) (20:42 04 December 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
