@@ -32,7 +32,7 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Watched episode 1 - 6 of [Chihayafuru 3](https://anilist.co/anime/101215) (20:03 08 December 2024)
+-   📺 Watched episode 1 - 8 of [Chihayafuru 3](https://anilist.co/anime/101215) (20:37 08 December 2024)
 -   📺 Watched episode 1 - 10 of [MF GHOST Season 2](https://anilist.co/anime/171642) (17:36 08 December 2024)
 -   📺 Watched episode 1 - 10 of [As a Reincarnated Aristocrat, I'll Use My Appraisal Skill to Rise in the World Season 2](https://anilist.co/anime/178434) (17:18 08 December 2024)
 -   📺 Watched episode 1 - 11 of [Let This Grieving Soul Retire](https://anilist.co/anime/175019) (17:00 08 December 2024)
