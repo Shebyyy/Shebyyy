@@ -32,10 +32,10 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 - 11 of [Let This Grieving Soul Retire](https://anilist.co/anime/175019) (17:00 08 December 2024)
 -   📺 Plans to watch [Chihayafuru 3](https://anilist.co/anime/101215) (16:10 08 December 2024)
 -   📺 Completed [Chihayafuru 2](https://anilist.co/anime/14397) (16:06 08 December 2024)
 -   📺 Watched episode 1 - 24 of [Chihayafuru 2](https://anilist.co/anime/14397) (15:46 08 December 2024)
 -   📺 Watched episode 1 - 22 of [Chihayafuru 2](https://anilist.co/anime/14397) (15:31 08 December 2024)
--   📺 Watched episode 1 - 9 of [Nina the Starry Bride](https://anilist.co/anime/171038) (11:48 08 December 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
