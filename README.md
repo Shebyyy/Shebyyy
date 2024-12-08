@@ -32,10 +32,10 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 - 9 of [Nina the Starry Bride](https://anilist.co/anime/171038) (11:48 08 December 2024)
 -   📺 Watched episode 1 - 6 of [One Piece Log: Fish-Man Island Saga](https://anilist.co/anime/183423) (11:28 08 December 2024)
 -   📺 Watched episode 1 - 9 of [Shangri-La Frontier Season 2](https://anilist.co/anime/176508) (11:20 08 December 2024)
 -   📺 Watched episode 1 - 10 of [BLEACH: Thousand-Year Blood War - The Conflict](https://anilist.co/anime/169755) (11:12 08 December 2024)
 -   📺 Watched episode 1 - 10 of [You are Ms. Servant](https://anilist.co/anime/172190) (04:44 08 December 2024)
--   📺 Watched episode 1 - 10 of [The Healer Who Was Banished From His Party, Is, in Fact, the Strongest](https://anilist.co/anime/174043) (04:34 08 December 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
