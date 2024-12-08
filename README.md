@@ -32,10 +32,10 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 - 10 of [You are Ms. Servant](https://anilist.co/anime/172190) (04:44 08 December 2024)
+-   📺 Watched episode 1 - 10 of [The Healer Who Was Banished From His Party, Is, in Fact, the Strongest](https://anilist.co/anime/174043) (04:34 08 December 2024)
 -   📺 Watched episode 1 - 10 of [Touhai: Ura Rate Mahjong Touhai Roku](https://anilist.co/anime/173263) (04:22 08 December 2024)
 -   📺 Watched episode 1 - 11 of [Loner Life in Another World](https://anilist.co/anime/173693) (04:02 08 December 2024)
 -   📺 Watched episode 1 - 11 of [Blue Box](https://anilist.co/anime/170942) (16:50 07 December 2024)
--   📺 Watched episode 1 - 23 of [2.5 Dimensional Seduction](https://anilist.co/anime/158559) (16:28 07 December 2024)
--   📺 Watched episode 1 - 8 of [Blue Miburo](https://anilist.co/anime/169258) (16:08 07 December 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
