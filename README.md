@@ -32,10 +32,10 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 68 - 110 of [Shen Yin Wangzuo 2](https://anilist.co/anime/153499) (12:47 09 December 2024)
 -   📺 Completed [Chihayafuru 3](https://anilist.co/anime/101215) (10:45 09 December 2024)
 -   📺 Watched episode 1 - 23 of [Chihayafuru 3](https://anilist.co/anime/101215) (10:36 09 December 2024)
 -   📺 Watched episode 1 - 11 of [Chihayafuru 3](https://anilist.co/anime/101215) (09:42 09 December 2024)
 -   📺 Watched episode 1 - 10 of [MF GHOST Season 2](https://anilist.co/anime/171642) (17:36 08 December 2024)
--   📺 Watched episode 1 - 10 of [As a Reincarnated Aristocrat, I'll Use My Appraisal Skill to Rise in the World Season 2](https://anilist.co/anime/178434) (17:18 08 December 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
