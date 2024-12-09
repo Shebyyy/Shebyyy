@@ -32,10 +32,10 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 - 11 of [The Most Notorious "Talker" Runs the World's Greatest Clan](https://anilist.co/anime/177104) (16:21 09 December 2024)
 -   📺 Watched episode 68 - 110 of [Shen Yin Wangzuo 2](https://anilist.co/anime/153499) (12:47 09 December 2024)
 -   📺 Completed [Chihayafuru 3](https://anilist.co/anime/101215) (10:45 09 December 2024)
 -   📺 Watched episode 1 - 23 of [Chihayafuru 3](https://anilist.co/anime/101215) (10:36 09 December 2024)
 -   📺 Watched episode 1 - 11 of [Chihayafuru 3](https://anilist.co/anime/101215) (09:42 09 December 2024)
--   📺 Watched episode 1 - 10 of [MF GHOST Season 2](https://anilist.co/anime/171642) (17:36 08 December 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
