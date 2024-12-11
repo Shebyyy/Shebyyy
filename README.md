@@ -32,10 +32,10 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 - 7 of [A Terrified Teacher at Ghoul School!](https://anilist.co/anime/171545) (06:31 11 December 2024)
 -   📺 Watched episode 1 - 11 of [I’ll Become a Villainess Who Goes Down in History](https://anilist.co/anime/168139) (00:12 11 December 2024)
 -   📺 Watched episode 1 - 11 of [Demon Lord, Retry! R](https://anilist.co/anime/168500) (13:39 10 December 2024)
 -   📺 Watched episode 1 - 10 of [Natsume's Book of Friends Season 7](https://anilist.co/anime/166611) (16:50 09 December 2024)
 -   📺 Watched episode 1 - 9 of [Arifureta: From Commonplace to World's Strongest Season 3](https://anilist.co/anime/154473) (16:38 09 December 2024)
--   📺 Watched episode 1 - 11 of [The Most Notorious "Talker" Runs the World's Greatest Clan](https://anilist.co/anime/177104) (16:21 09 December 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
