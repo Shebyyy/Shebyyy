@@ -32,10 +32,10 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Completed [Loner Life in Another World](https://anilist.co/anime/173693) (18:30 12 December 2024)
+-   📺 Watched episode 1 - 12 of [Loner Life in Another World](https://anilist.co/anime/173693) (18:30 12 December 2024)
+-   📺 Watched episode 1 - 10 of [Is It Wrong To Try To Pick Up Girls in a Dungeon? V](https://anilist.co/anime/170732) (18:04 12 December 2024)
 -   📺 Watched episode 1 - 10 of [The Do-Over Damsel Conquers the Dragon Emperor](https://anilist.co/anime/164299) (17:09 11 December 2024)
 -   📺 Watched episode 1 - 10 of [Nina the Starry Bride](https://anilist.co/anime/171038) (12:48 11 December 2024)
--   📺 Watched episode 1 - 10 of [Seirei Gensouki: Spirit Chronicles Season 2](https://anilist.co/anime/141182) (12:27 11 December 2024)
--   📺 Watched episode 1 - 7 of [A Terrified Teacher at Ghoul School!](https://anilist.co/anime/171545) (06:31 11 December 2024)
--   📺 Watched episode 1 - 11 of [I’ll Become a Villainess Who Goes Down in History](https://anilist.co/anime/168139) (00:12 11 December 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
