@@ -32,10 +32,10 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Plans to watch [2.5-jigen no Ririsa 2nd Season](https://anilist.co/anime/185515) (14:57 13 December 2024)
 -   📺 Watched episode 1 - 12 of [Blue Box](https://anilist.co/anime/170942) (20:02 12 December 2024)
 -   📺 Completed [Loner Life in Another World](https://anilist.co/anime/173693) (18:30 12 December 2024)
 -   📺 Watched episode 1 - 12 of [Loner Life in Another World](https://anilist.co/anime/173693) (18:30 12 December 2024)
 -   📺 Watched episode 1 - 10 of [Is It Wrong To Try To Pick Up Girls in a Dungeon? V](https://anilist.co/anime/170732) (18:04 12 December 2024)
--   📺 Watched episode 1 - 10 of [The Do-Over Damsel Conquers the Dragon Emperor](https://anilist.co/anime/164299) (17:09 11 December 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
