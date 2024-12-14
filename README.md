@@ -32,10 +32,10 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 - 11 of [Touhai: Ura Rate Mahjong Touhai Roku](https://anilist.co/anime/173263) (15:48 14 December 2024)
 -   📺 Watched episode 1 - 9 of [Blue Miburo](https://anilist.co/anime/169258) (14:06 14 December 2024)
 -   📺 Completed [2.5 Dimensional Seduction](https://anilist.co/anime/158559) (15:19 13 December 2024)
 -   📺 Watched episode 1 - 24 of [2.5 Dimensional Seduction](https://anilist.co/anime/158559) (15:19 13 December 2024)
 -   📺 Plans to watch [2.5-jigen no Ririsa 2nd Season](https://anilist.co/anime/185515) (14:57 13 December 2024)
--   📺 Watched episode 1 - 12 of [Blue Box](https://anilist.co/anime/170942) (20:02 12 December 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
