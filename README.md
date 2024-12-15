@@ -32,10 +32,10 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Plans to watch [Nozomanu Fushi no Boukensha 2nd Season](https://anilist.co/anime/185543) (13:52 15 December 2024)
 -   📺 Plans to watch [Gaikotsu Kishi-sama, Tadaima Isekai e Odekakechuu 2nd Season](https://anilist.co/anime/185542) (13:37 15 December 2024)
 -   📺 Watched episode 1 - 10 of [Shangri-La Frontier Season 2](https://anilist.co/anime/176508) (11:07 15 December 2024)
 -   📺 Completed [Demon Lord, Retry! R](https://anilist.co/anime/168500) (10:55 15 December 2024)
 -   📺 Watched episode 1 - 12 of [Demon Lord, Retry! R](https://anilist.co/anime/168500) (10:54 15 December 2024)
--   📺 Watched episode 1 - 7 of [One Piece Log: Fish-Man Island Saga](https://anilist.co/anime/183423) (05:36 15 December 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
