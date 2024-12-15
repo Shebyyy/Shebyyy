@@ -32,10 +32,10 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 - 10 of [Shangri-La Frontier Season 2](https://anilist.co/anime/176508) (11:07 15 December 2024)
+-   📺 Completed [Demon Lord, Retry! R](https://anilist.co/anime/168500) (10:55 15 December 2024)
+-   📺 Watched episode 1 - 12 of [Demon Lord, Retry! R](https://anilist.co/anime/168500) (10:54 15 December 2024)
 -   📺 Watched episode 1 - 7 of [One Piece Log: Fish-Man Island Saga](https://anilist.co/anime/183423) (05:36 15 December 2024)
 -   📺 Watched episode 1 - 11 of [You are Ms. Servant](https://anilist.co/anime/172190) (05:26 15 December 2024)
--   📺 Watched episode 1 - 11 of [The Healer Who Was Banished From His Party, Is, in Fact, the Strongest](https://anilist.co/anime/174043) (05:14 15 December 2024)
--   📺 Watched episode 1 - 11 of [Negative Positive Angler](https://anilist.co/anime/179919) (19:04 14 December 2024)
--   📺 Watched episode 1 - 11 of [Touhai: Ura Rate Mahjong Touhai Roku](https://anilist.co/anime/173263) (15:48 14 December 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
