@@ -32,10 +32,10 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 - 11 of [You are Ms. Servant](https://anilist.co/anime/172190) (05:26 15 December 2024)
+-   📺 Watched episode 1 - 11 of [The Healer Who Was Banished From His Party, Is, in Fact, the Strongest](https://anilist.co/anime/174043) (05:14 15 December 2024)
 -   📺 Watched episode 1 - 11 of [Negative Positive Angler](https://anilist.co/anime/179919) (19:04 14 December 2024)
 -   📺 Watched episode 1 - 11 of [Touhai: Ura Rate Mahjong Touhai Roku](https://anilist.co/anime/173263) (15:48 14 December 2024)
 -   📺 Watched episode 1 - 9 of [Blue Miburo](https://anilist.co/anime/169258) (14:06 14 December 2024)
--   📺 Completed [2.5 Dimensional Seduction](https://anilist.co/anime/158559) (15:19 13 December 2024)
--   📺 Watched episode 1 - 24 of [2.5 Dimensional Seduction](https://anilist.co/anime/158559) (15:19 13 December 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
