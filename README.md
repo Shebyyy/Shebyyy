@@ -32,10 +32,10 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Completed [The Most Notorious "Talker" Runs the World's Greatest Clan](https://anilist.co/anime/177104) (16:58 16 December 2024)
 -   📺 Watched episode 1 - 11 of [MF GHOST Season 2](https://anilist.co/anime/171642) (17:48 15 December 2024)
 -   📺 Watched episode 1 - 11 of [As a Reincarnated Aristocrat, I'll Use My Appraisal Skill to Rise in the World Season 2](https://anilist.co/anime/178434) (16:32 15 December 2024)
 -   📺 Watched episode 1 - 12 of [Let This Grieving Soul Retire](https://anilist.co/anime/175019) (16:12 15 December 2024)
 -   📺 Plans to watch [Nozomanu Fushi no Boukensha 2nd Season](https://anilist.co/anime/185543) (13:52 15 December 2024)
--   📺 Plans to watch [Gaikotsu Kishi-sama, Tadaima Isekai e Odekakechuu 2nd Season](https://anilist.co/anime/185542) (13:37 15 December 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
