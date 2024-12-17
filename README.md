@@ -32,10 +32,10 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Plans to watch [Virgin Punk](https://anilist.co/anime/181449) (14:53 17 December 2024)
 -   📺 Completed [Suu-funkan no Yell wo](https://anilist.co/anime/173935) (14:11 17 December 2024)
 -   📺 Watched episode 1 - 11 of [Nina the Starry Bride](https://anilist.co/anime/171038) (19:38 16 December 2024)
 -   📺 Watched episode 1 - 11 of [Seirei Gensouki: Spirit Chronicles Season 2](https://anilist.co/anime/141182) (18:55 16 December 2024)
 -   📺 Watched episode 1 - 11 of [Natsume's Book of Friends Season 7](https://anilist.co/anime/166611) (18:11 16 December 2024)
--   📺 Completed [The Most Notorious "Talker" Runs the World's Greatest Clan](https://anilist.co/anime/177104) (16:58 16 December 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
