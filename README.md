@@ -32,10 +32,10 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 - 2 of [To Your Eternity](https://anilist.co/anime/114535) (14:36 18 December 2024)
 -   📺 Watched episode 1 - 12 of [I’ll Become a Villainess Who Goes Down in History](https://anilist.co/anime/168139) (12:15 18 December 2024)
 -   📺 Plans to watch [Virgin Punk](https://anilist.co/anime/181449) (14:53 17 December 2024)
 -   📺 Completed [Suu-funkan no Yell wo](https://anilist.co/anime/173935) (14:11 17 December 2024)
 -   📺 Watched episode 1 - 11 of [Nina the Starry Bride](https://anilist.co/anime/171038) (19:38 16 December 2024)
--   📺 Watched episode 1 - 11 of [Seirei Gensouki: Spirit Chronicles Season 2](https://anilist.co/anime/141182) (18:55 16 December 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
