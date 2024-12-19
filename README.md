@@ -32,10 +32,10 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Completed [Negative Positive Angler](https://anilist.co/anime/179919) (21:04 19 December 2024)
+-   📺 Watched episode 1 - 12 of [Negative Positive Angler](https://anilist.co/anime/179919) (21:04 19 December 2024)
 -   📺 Watched episode 1 - 11 of [The Do-Over Damsel Conquers the Dragon Emperor](https://anilist.co/anime/164299) (20:47 18 December 2024)
 -   📺 Watched episode 1 - 8 of [To Your Eternity](https://anilist.co/anime/114535) (15:47 18 December 2024)
 -   📺 Watched episode 1 - 12 of [I’ll Become a Villainess Who Goes Down in History](https://anilist.co/anime/168139) (12:15 18 December 2024)
--   📺 Plans to watch [Virgin Punk](https://anilist.co/anime/181449) (14:53 17 December 2024)
--   📺 Completed [Suu-funkan no Yell wo](https://anilist.co/anime/173935) (14:11 17 December 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
