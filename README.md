@@ -32,10 +32,10 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Plans to watch [The Daily Life of a Middle-Aged Online Shopper in Another World](https://anilist.co/anime/180292) (17:47 22 December 2024)
+-   📺 Plans to watch [Sono Bisque Doll wa Koi wo Suru 2nd Season](https://anilist.co/anime/154768) (17:47 22 December 2024)
 -   📺 Plans to watch [Chotto dake Ai ga Omoi Dark Elf ga Isekai kara Oikakete Kita](https://anilist.co/anime/180829) (17:46 22 December 2024)
 -   📺 Completed [Let This Grieving Soul Retire](https://anilist.co/anime/175019) (17:06 22 December 2024)
 -   📺 Watched episode 1 - 13 of [Let This Grieving Soul Retire](https://anilist.co/anime/175019) (17:06 22 December 2024)
--   📺 Completed [As a Reincarnated Aristocrat, I'll Use My Appraisal Skill to Rise in the World Season 2](https://anilist.co/anime/178434) (16:43 22 December 2024)
--   📺 Watched episode 1 - 11 of [Shangri-La Frontier Season 2](https://anilist.co/anime/176508) (15:21 22 December 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
