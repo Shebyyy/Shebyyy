@@ -32,10 +32,10 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Completed [Let This Grieving Soul Retire](https://anilist.co/anime/175019) (17:06 22 December 2024)
+-   📺 Watched episode 1 - 13 of [Let This Grieving Soul Retire](https://anilist.co/anime/175019) (17:06 22 December 2024)
 -   📺 Completed [As a Reincarnated Aristocrat, I'll Use My Appraisal Skill to Rise in the World Season 2](https://anilist.co/anime/178434) (16:43 22 December 2024)
 -   📺 Watched episode 1 - 11 of [Shangri-La Frontier Season 2](https://anilist.co/anime/176508) (15:21 22 December 2024)
 -   📺 Watched episode 1 - 8 of [One Piece Log: Fish-Man Island Saga](https://anilist.co/anime/183423) (11:07 22 December 2024)
--   📺 Completed [You are Ms. Servant](https://anilist.co/anime/172190) (05:55 22 December 2024)
--   📺 Watched episode 1 - 12 of [You are Ms. Servant](https://anilist.co/anime/172190) (05:55 22 December 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
