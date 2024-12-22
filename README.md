@@ -32,10 +32,10 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Completed [You are Ms. Servant](https://anilist.co/anime/172190) (05:55 22 December 2024)
+-   📺 Watched episode 1 - 12 of [You are Ms. Servant](https://anilist.co/anime/172190) (05:55 22 December 2024)
 -   📺 Completed [The Healer Who Was Banished From His Party, Is, in Fact, the Strongest](https://anilist.co/anime/174043) (05:40 22 December 2024)
 -   📺 Watched episode 1 - 12 of [The Healer Who Was Banished From His Party, Is, in Fact, the Strongest](https://anilist.co/anime/174043) (05:39 22 December 2024)
 -   📺 Watched episode 1 - 11 of [Is It Wrong To Try To Pick Up Girls in a Dungeon? V](https://anilist.co/anime/170732) (11:49 21 December 2024)
--   📺 Watched episode 1 - 10 of [Blue Miburo](https://anilist.co/anime/169258) (11:47 21 December 2024)
--   📺 Completed [Negative Positive Angler](https://anilist.co/anime/179919) (21:04 19 December 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
