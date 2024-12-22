@@ -32,10 +32,10 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 - 2 of [ORESUKI: Are you the only one who loves me?](https://anilist.co/anime/104464) (19:30 22 December 2024)
 -   📺 Plans to watch [Tensei Kizoku, Kantei Skill de Nariagaru 3rd Season](https://anilist.co/anime/185756) (18:04 22 December 2024)
 -   📺 Plans to watch [The Daily Life of a Middle-Aged Online Shopper in Another World](https://anilist.co/anime/180292) (17:47 22 December 2024)
 -   📺 Plans to watch [Sono Bisque Doll wa Koi wo Suru 2nd Season](https://anilist.co/anime/154768) (17:47 22 December 2024)
 -   📺 Plans to watch [Chotto dake Ai ga Omoi Dark Elf ga Isekai kara Oikakete Kita](https://anilist.co/anime/180829) (17:46 22 December 2024)
--   📺 Completed [Let This Grieving Soul Retire](https://anilist.co/anime/175019) (17:06 22 December 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
