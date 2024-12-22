@@ -32,10 +32,10 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 - 11 of [Shangri-La Frontier Season 2](https://anilist.co/anime/176508) (15:21 22 December 2024)
 -   📺 Watched episode 1 - 8 of [One Piece Log: Fish-Man Island Saga](https://anilist.co/anime/183423) (11:07 22 December 2024)
 -   📺 Completed [You are Ms. Servant](https://anilist.co/anime/172190) (05:55 22 December 2024)
 -   📺 Watched episode 1 - 12 of [You are Ms. Servant](https://anilist.co/anime/172190) (05:55 22 December 2024)
 -   📺 Completed [The Healer Who Was Banished From His Party, Is, in Fact, the Strongest](https://anilist.co/anime/174043) (05:40 22 December 2024)
--   📺 Watched episode 1 - 12 of [The Healer Who Was Banished From His Party, Is, in Fact, the Strongest](https://anilist.co/anime/174043) (05:39 22 December 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
