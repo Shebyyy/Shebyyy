@@ -32,10 +32,10 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 - 9 of [Ron Kamonohashi’s Forbidden Deductions Season 2](https://anilist.co/anime/172355) (06:28 23 December 2024)
 -   📺 Plans to watch [0-saiji Start Dash Monogatari Season 2](https://anilist.co/anime/185462) (20:41 22 December 2024)
 -   📺 Completed [0 Saiji Start Dash Monogatari](https://anilist.co/anime/177879) (20:41 22 December 2024)
 -   📺 Watched episode 1 - 4 of [ORESUKI: Are you the only one who loves me?](https://anilist.co/anime/104464) (20:05 22 December 2024)
 -   📺 Plans to watch [Tensei Kizoku, Kantei Skill de Nariagaru 3rd Season](https://anilist.co/anime/185756) (18:04 22 December 2024)
--   📺 Plans to watch [The Daily Life of a Middle-Aged Online Shopper in Another World](https://anilist.co/anime/180292) (17:47 22 December 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
