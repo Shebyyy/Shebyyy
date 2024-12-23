@@ -32,10 +32,10 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Completed [Nina the Starry Bride](https://anilist.co/anime/171038) (21:17 23 December 2024)
+-   📺 Watched episode 1 - 12 of [Nina the Starry Bride](https://anilist.co/anime/171038) (21:17 23 December 2024)
+-   📺 Completed [Seirei Gensouki: Spirit Chronicles Season 2](https://anilist.co/anime/141182) (21:05 23 December 2024)
+-   📺 Watched episode 1 - 12 of [Seirei Gensouki: Spirit Chronicles Season 2](https://anilist.co/anime/141182) (21:05 23 December 2024)
 -   📺 Completed [Natsume's Book of Friends Season 7](https://anilist.co/anime/166611) (19:42 23 December 2024)
--   📺 Watched episode 1 - 12 of [Natsume's Book of Friends Season 7](https://anilist.co/anime/166611) (19:42 23 December 2024)
--   📺 Watched episode 1 - 10 of [Arifureta: From Commonplace to World's Strongest Season 3](https://anilist.co/anime/154473) (19:17 23 December 2024)
--   📺 Watched episode 1 - 12 of [Ron Kamonohashi’s Forbidden Deductions Season 2](https://anilist.co/anime/172355) (18:33 23 December 2024)
--   📺 Plans to watch [0-saiji Start Dash Monogatari Season 2](https://anilist.co/anime/185462) (20:41 22 December 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
