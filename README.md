@@ -32,10 +32,10 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Completed [I’ll Become a Villainess Who Goes Down in History](https://anilist.co/anime/168139) (07:04 25 December 2024)
+-   📺 Watched episode 1 - 13 of [I’ll Become a Villainess Who Goes Down in History](https://anilist.co/anime/168139) (07:04 25 December 2024)
 -   📺 Completed [Nina the Starry Bride](https://anilist.co/anime/171038) (21:17 23 December 2024)
 -   📺 Watched episode 1 - 12 of [Nina the Starry Bride](https://anilist.co/anime/171038) (21:17 23 December 2024)
 -   📺 Completed [Seirei Gensouki: Spirit Chronicles Season 2](https://anilist.co/anime/141182) (21:05 23 December 2024)
--   📺 Watched episode 1 - 12 of [Seirei Gensouki: Spirit Chronicles Season 2](https://anilist.co/anime/141182) (21:05 23 December 2024)
--   📺 Completed [Natsume's Book of Friends Season 7](https://anilist.co/anime/166611) (19:42 23 December 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
