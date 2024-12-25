@@ -32,10 +32,10 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Completed [The Do-Over Damsel Conquers the Dragon Emperor](https://anilist.co/anime/164299) (15:14 25 December 2024)
 -   📺 Watched episode 1 - 12 of [Touhai: Ura Rate Mahjong Touhai Roku](https://anilist.co/anime/173263) (12:31 25 December 2024)
 -   📺 Plans to watch [MF Ghost 3rd Season](https://anilist.co/anime/185753) (12:06 25 December 2024)
 -   📺 Completed [MF GHOST Season 2](https://anilist.co/anime/171642) (12:06 25 December 2024)
 -   📺 Watched episode 1 - 12 of [MF GHOST Season 2](https://anilist.co/anime/171642) (12:05 25 December 2024)
--   📺 Completed [I’ll Become a Villainess Who Goes Down in History](https://anilist.co/anime/168139) (07:04 25 December 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
