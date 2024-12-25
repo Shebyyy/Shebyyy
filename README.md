@@ -32,10 +32,10 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 - 12 of [Touhai: Ura Rate Mahjong Touhai Roku](https://anilist.co/anime/173263) (12:31 25 December 2024)
+-   📺 Plans to watch [MF Ghost 3rd Season](https://anilist.co/anime/185753) (12:06 25 December 2024)
+-   📺 Completed [MF GHOST Season 2](https://anilist.co/anime/171642) (12:06 25 December 2024)
+-   📺 Watched episode 1 - 12 of [MF GHOST Season 2](https://anilist.co/anime/171642) (12:05 25 December 2024)
 -   📺 Completed [I’ll Become a Villainess Who Goes Down in History](https://anilist.co/anime/168139) (07:04 25 December 2024)
--   📺 Watched episode 1 - 13 of [I’ll Become a Villainess Who Goes Down in History](https://anilist.co/anime/168139) (07:04 25 December 2024)
--   📺 Completed [Nina the Starry Bride](https://anilist.co/anime/171038) (21:17 23 December 2024)
--   📺 Watched episode 1 - 12 of [Nina the Starry Bride](https://anilist.co/anime/171038) (21:17 23 December 2024)
--   📺 Completed [Seirei Gensouki: Spirit Chronicles Season 2](https://anilist.co/anime/141182) (21:05 23 December 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
