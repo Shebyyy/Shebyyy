@@ -32,10 +32,10 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Watched episode 1 - 11 of [The Prince of Tennis II U-17 World Cup Semifinal](https://anilist.co/anime/165810) (19:31 25 December 2024)
+-   📺 Plans to watch [Bogus Skill <<Fruitmaster>> ~About that time I became able to eat unlimited numbers of Skill Fruits (that kill you)~](https://anilist.co/anime/178100) (19:41 25 December 2024)
+-   📺 Completed [The Prince of Tennis II U-17 World Cup Semifinal](https://anilist.co/anime/165810) (19:38 25 December 2024)
+-   📺 Watched episode 1 - 13 of [The Prince of Tennis II U-17 World Cup Semifinal](https://anilist.co/anime/165810) (19:38 25 December 2024)
 -   📖 Read chapter 1 of [Chuan Shuhou Yu Shi Zun Ersan Shi](https://anilist.co/manga/182428) (17:39 25 December 2024)
 -   📺 Completed [The Do-Over Damsel Conquers the Dragon Emperor](https://anilist.co/anime/164299) (15:14 25 December 2024)
--   📺 Watched episode 1 - 12 of [Touhai: Ura Rate Mahjong Touhai Roku](https://anilist.co/anime/173263) (12:31 25 December 2024)
--   📺 Plans to watch [MF Ghost 3rd Season](https://anilist.co/anime/185753) (12:06 25 December 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
