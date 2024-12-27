@@ -32,10 +32,10 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 - 13 of [Blue Box](https://anilist.co/anime/170942) (04:19 27 December 2024)
 -   📺 Watched episode 68 - 113 of [Shen Yin Wangzuo 2](https://anilist.co/anime/153499) (20:26 26 December 2024)
 -   📺 Plans to watch [Bogus Skill <<Fruitmaster>> ~About that time I became able to eat unlimited numbers of Skill Fruits (that kill you)~](https://anilist.co/anime/178100) (19:41 25 December 2024)
 -   📺 Completed [The Prince of Tennis II U-17 World Cup Semifinal](https://anilist.co/anime/165810) (19:38 25 December 2024)
 -   📺 Watched episode 1 - 13 of [The Prince of Tennis II U-17 World Cup Semifinal](https://anilist.co/anime/165810) (19:38 25 December 2024)
--   📖 Read chapter 1 of [Chuan Shuhou Yu Shi Zun Ersan Shi](https://anilist.co/manga/182428) (17:39 25 December 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
