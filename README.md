@@ -32,10 +32,10 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 - 12 of [Shangri-La Frontier Season 2](https://anilist.co/anime/176508) (11:43 29 December 2024)
 -   📺 Watched episode 1 - 9 of [One Piece Log: Fish-Man Island Saga](https://anilist.co/anime/183423) (10:42 29 December 2024)
 -   📺 Completed [BLUE LOCK Season 2](https://anilist.co/anime/163146) (05:45 29 December 2024)
 -   📺 Watched episode 1 - 13 of [BLUE LOCK Season 2](https://anilist.co/anime/163146) (05:44 29 December 2024)
 -   📺 Watched episode 1 - 11 of [Blue Miburo](https://anilist.co/anime/169258) (14:56 28 December 2024)
--   📺 Watched episode 1 of [Beheneko: The Elf-Girl's Cat is Secretly an S-Ranked Monster!](https://anilist.co/anime/176158) (14:44 28 December 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
