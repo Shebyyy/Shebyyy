@@ -32,10 +32,10 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 - 11 of [Arifureta: From Commonplace to World's Strongest Season 3](https://anilist.co/anime/154473) (15:52 30 December 2024)
 -   📺 Completed [Ron Kamonohashi’s Forbidden Deductions Season 2](https://anilist.co/anime/172355) (15:05 30 December 2024)
 -   📺 Watched episode 1 - 13 of [Ron Kamonohashi’s Forbidden Deductions Season 2](https://anilist.co/anime/172355) (15:05 30 December 2024)
 -   📺 Watched episode 1 - 12 of [Shangri-La Frontier Season 2](https://anilist.co/anime/176508) (11:43 29 December 2024)
 -   📺 Watched episode 1 - 9 of [One Piece Log: Fish-Man Island Saga](https://anilist.co/anime/183423) (10:42 29 December 2024)
--   📺 Completed [BLUE LOCK Season 2](https://anilist.co/anime/163146) (05:45 29 December 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
