@@ -32,10 +32,10 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Plans to watch [Grisaia: Phantom Trigger THE ANIMATION](https://anilist.co/anime/99470) (20:31 01 January 2025)
 -   📺 Watched episode 1 - 2 of [Ameku M.D.: Doctor Detective](https://anilist.co/anime/176642) (19:11 01 January 2025)
 -   📺 Watched episode 1 of [Possibly the Greatest Alchemist of All Time](https://anilist.co/anime/177506) (16:53 01 January 2025)
 -   📺 Watched episode 1 of [Headhunted to Another World: From Salaryman to Big Four!](https://anilist.co/anime/179689) (15:41 01 January 2025)
 -   📺 Plans to watch [Kaoru Hana wa Rin to Saku](https://anilist.co/anime/181444) (11:00 01 January 2025)
--   📺 Watched episode 1 of [Bogus Skill <<Fruitmaster>> ~About that time I became able to eat unlimited numbers of Skill Fruits (that kill you)~](https://anilist.co/anime/178100) (19:33 31 December 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
