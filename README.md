@@ -32,10 +32,10 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 of [Tasokare Hotel](https://anilist.co/anime/178495) (19:57 03 January 2025)
 -   📺 Watched episode 1 of [I'm Getting Married to a Girl I Hate in My Class](https://anilist.co/anime/178462) (19:26 03 January 2025)
 -   📺 Watched episode 1 of [Sorairo Utility (TV)](https://anilist.co/anime/174596) (18:34 03 January 2025)
 -   📺 Watched episode 1 - 14 of [Blue Box](https://anilist.co/anime/170942) (11:48 03 January 2025)
 -   📺 Plans to watch [Grisaia: Phantom Trigger THE ANIMATION](https://anilist.co/anime/99470) (20:31 01 January 2025)
--   📺 Watched episode 1 - 2 of [Ameku M.D.: Doctor Detective](https://anilist.co/anime/176642) (19:11 01 January 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
