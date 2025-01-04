@@ -32,10 +32,10 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 of [Solo Leveling Season 2 -Arise from the Shadow-](https://anilist.co/anime/176496) (16:15 04 January 2025)
 -   📺 Watched episode 1 - 2 of [Beheneko: The Elf-Girl's Cat is Secretly an S-Ranked Monster!](https://anilist.co/anime/176158) (15:45 04 January 2025)
 -   📺 Watched episode 1 - 12 of [Blue Miburo](https://anilist.co/anime/169258) (15:27 04 January 2025)
 -   📺 Watched episode 3 - 11 of [Yishi Du Zun](https://anilist.co/anime/166223) (11:56 04 January 2025)
 -   📺 Watched episode 1 of [Tasokare Hotel](https://anilist.co/anime/178495) (19:57 03 January 2025)
--   📺 Watched episode 1 of [I'm Getting Married to a Girl I Hate in My Class](https://anilist.co/anime/178462) (19:26 03 January 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
