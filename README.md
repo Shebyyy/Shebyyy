@@ -32,7 +32,7 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Watched episode 1 of [Young Black Jack](https://anilist.co/anime/21187) (13:34 05 January 2025)
+-   📺 Watched episode 1 - 2 of [Young Black Jack](https://anilist.co/anime/21187) (13:53 05 January 2025)
 -   📺 Plans to watch [Young Black Jack](https://anilist.co/anime/21187) (11:33 05 January 2025)
 -   📺 Watched episode 1 - 11 of [BLEACH: Thousand-Year Blood War - The Conflict](https://anilist.co/anime/169755) (06:06 05 January 2025)
 -   📺 Watched episode 1 - 10 of [One Piece Log: Fish-Man Island Saga](https://anilist.co/anime/183423) (05:25 05 January 2025)
