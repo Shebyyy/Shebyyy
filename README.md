@@ -32,10 +32,10 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Plans to watch [Young Black Jack](https://anilist.co/anime/21187) (11:33 05 January 2025)
 -   📺 Watched episode 1 - 11 of [BLEACH: Thousand-Year Blood War - The Conflict](https://anilist.co/anime/169755) (06:06 05 January 2025)
 -   📺 Watched episode 1 - 10 of [One Piece Log: Fish-Man Island Saga](https://anilist.co/anime/183423) (05:25 05 January 2025)
 -   📺 Watched episode 1 of [I'm Living With a Otaku NEET Kunoichi?!](https://anilist.co/anime/174654) (16:36 04 January 2025)
 -   📺 Watched episode 1 of [Solo Leveling Season 2 -Arise from the Shadow-](https://anilist.co/anime/176496) (16:15 04 January 2025)
--   📺 Watched episode 1 - 2 of [Beheneko: The Elf-Girl's Cat is Secretly an S-Ranked Monster!](https://anilist.co/anime/176158) (15:45 04 January 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
