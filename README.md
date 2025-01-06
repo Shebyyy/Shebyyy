@@ -32,7 +32,7 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Watched episode 1 - 7 of [Young Black Jack](https://anilist.co/anime/21187) (05:17 06 January 2025)
+-   📺 Watched episode 1 - 8 of [Young Black Jack](https://anilist.co/anime/21187) (05:42 06 January 2025)
 -   📺 Watched episode 1 - 13 of [Shangri-La Frontier Season 2](https://anilist.co/anime/176508) (18:58 05 January 2025)
 -   📺 Watched episode 1 of [I Want to Escape from Princess Lessons](https://anilist.co/anime/170650) (17:52 05 January 2025)
 -   📺 Plans to watch [Young Black Jack](https://anilist.co/anime/21187) (11:33 05 January 2025)
