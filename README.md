@@ -32,10 +32,10 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 of [Kono Kaisha ni Suki na Hito ga Imasu](https://anilist.co/anime/179696) (16:04 06 January 2025)
+-   📺 Watched episode 1 of [Promise of Wizard](https://anilist.co/anime/170916) (16:04 06 January 2025)
+-   📺 Watched episode 1 of [My Happy Marriage Season 2](https://anilist.co/anime/169441) (16:02 06 January 2025)
+-   📺 Watched episode 1 - 2 of [Headhunted to Another World: From Salaryman to Big Four!](https://anilist.co/anime/179689) (16:02 06 January 2025)
 -   📺 Watched episode 1 - 2 of [Black Jack](https://anilist.co/anime/1520) (08:33 06 January 2025)
--   📺 Completed [Young Black Jack](https://anilist.co/anime/21187) (07:00 06 January 2025)
--   📺 Watched episode 1 - 12 of [Young Black Jack](https://anilist.co/anime/21187) (07:00 06 January 2025)
--   📺 Watched episode 1 - 13 of [Shangri-La Frontier Season 2](https://anilist.co/anime/176508) (18:58 05 January 2025)
--   📺 Watched episode 1 of [I Want to Escape from Princess Lessons](https://anilist.co/anime/170650) (17:52 05 January 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
