@@ -32,10 +32,10 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Watched episode 1 - 11 of [Young Black Jack](https://anilist.co/anime/21187) (06:36 06 January 2025)
+-   📺 Completed [Young Black Jack](https://anilist.co/anime/21187) (07:00 06 January 2025)
+-   📺 Watched episode 1 - 12 of [Young Black Jack](https://anilist.co/anime/21187) (07:00 06 January 2025)
 -   📺 Watched episode 1 - 13 of [Shangri-La Frontier Season 2](https://anilist.co/anime/176508) (18:58 05 January 2025)
 -   📺 Watched episode 1 of [I Want to Escape from Princess Lessons](https://anilist.co/anime/170650) (17:52 05 January 2025)
 -   📺 Plans to watch [Young Black Jack](https://anilist.co/anime/21187) (11:33 05 January 2025)
--   📺 Watched episode 1 - 11 of [BLEACH: Thousand-Year Blood War - The Conflict](https://anilist.co/anime/169755) (06:06 05 January 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
