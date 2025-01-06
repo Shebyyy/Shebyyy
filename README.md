@@ -32,7 +32,7 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Watched episode 1 of [Black Jack](https://anilist.co/anime/1520) (07:48 06 January 2025)
+-   📺 Watched episode 1 - 2 of [Black Jack](https://anilist.co/anime/1520) (08:33 06 January 2025)
 -   📺 Completed [Young Black Jack](https://anilist.co/anime/21187) (07:00 06 January 2025)
 -   📺 Watched episode 1 - 12 of [Young Black Jack](https://anilist.co/anime/21187) (07:00 06 January 2025)
 -   📺 Watched episode 1 - 13 of [Shangri-La Frontier Season 2](https://anilist.co/anime/176508) (18:58 05 January 2025)
