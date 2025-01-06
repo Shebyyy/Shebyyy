@@ -32,10 +32,10 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 of [Medaka Kuroiwa is Impervious to My Charms](https://anilist.co/anime/177552) (19:01 06 January 2025)
 -   📺 Watched episode 1 of [Kono Kaisha ni Suki na Hito ga Imasu](https://anilist.co/anime/179696) (16:04 06 January 2025)
 -   📺 Watched episode 1 of [Promise of Wizard](https://anilist.co/anime/170916) (16:04 06 January 2025)
 -   📺 Watched episode 1 of [My Happy Marriage Season 2](https://anilist.co/anime/169441) (16:02 06 January 2025)
 -   📺 Watched episode 1 - 2 of [Headhunted to Another World: From Salaryman to Big Four!](https://anilist.co/anime/179689) (16:02 06 January 2025)
--   📺 Watched episode 1 - 2 of [Black Jack](https://anilist.co/anime/1520) (08:33 06 January 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
