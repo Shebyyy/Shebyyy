@@ -32,10 +32,10 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 of [Magic Maker: How to Make Magic in Another World](https://anilist.co/anime/179297) (17:42 08 January 2025)
 -   📺 Watched episode 1 - 2 of [Possibly the Greatest Alchemist of All Time](https://anilist.co/anime/177506) (17:28 08 January 2025)
 -   📺 Watched episode 1 of [Unnamed Memory Season 2](https://anilist.co/anime/178550) (15:31 08 January 2025)
 -   📺 Watched episode 1 - 2 of [Bogus Skill <<Fruitmaster>> ~About that time I became able to eat unlimited numbers of Skill Fruits (that kill you)~](https://anilist.co/anime/178100) (07:29 08 January 2025)
 -   📺 Watched episode 1 - 3 of [Ameku M.D.: Doctor Detective](https://anilist.co/anime/176642) (15:45 07 January 2025)
--   📺 Watched episode 1 of [Medalist](https://anilist.co/anime/165171) (14:26 07 January 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
