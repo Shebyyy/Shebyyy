@@ -32,10 +32,10 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 of [Übel Blatt](https://anilist.co/anime/175198) (14:33 11 January 2025)
 -   📺 Watched episode 1 - 2 of [Sorairo Utility (TV)](https://anilist.co/anime/174596) (13:24 11 January 2025)
 -   📺 Watched episode 1 - 13 of [Blue Miburo](https://anilist.co/anime/169258) (12:29 11 January 2025)
 -   📺 Watched episode 1 of [Flower and Asura](https://anilist.co/anime/178022) (12:11 10 January 2025)
 -   📺 Watched episode 1 - 15 of [Blue Box](https://anilist.co/anime/170942) (11:42 10 January 2025)
--   📺 Watched episode 1 of [From Bureaucrat to Villainess: Dad's Been Reincarnated!](https://anilist.co/anime/172453) (17:38 09 January 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
