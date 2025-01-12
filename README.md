@@ -32,10 +32,10 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 - 2 of [I Want to Escape from Princess Lessons](https://anilist.co/anime/170650) (16:40 12 January 2025)
 -   📺 Watched episode 1 - 11 of [One Piece Log: Fish-Man Island Saga](https://anilist.co/anime/183423) (14:45 12 January 2025)
 -   📺 Watched episode 1 - 3 of [Beheneko: The Elf-Girl's Cat is Secretly an S-Ranked Monster!](https://anilist.co/anime/176158) (20:45 11 January 2025)
 -   📺 Watched episode 1 of [I Left My A-Rank Party to Help My Former Students Reach the Dungeon Depths!](https://anilist.co/anime/180812) (20:23 11 January 2025)
 -   📺 Watched episode 1 - 2 of [Medalist](https://anilist.co/anime/165171) (20:00 11 January 2025)
--   📺 Watched episode 1 - 2 of [SAKAMOTO DAYS](https://anilist.co/anime/177709) (17:46 11 January 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
