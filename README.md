@@ -32,10 +32,10 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 - 3 of [Possibly the Greatest Alchemist of All Time](https://anilist.co/anime/177506) (21:15 15 January 2025)
 -   📺 Watched episode 1 - 3 of [Bogus Skill <<Fruitmaster>> ~About that time I became able to eat unlimited numbers of Skill Fruits (that kill you)~](https://anilist.co/anime/178100) (12:44 15 January 2025)
 -   📺 Watched episode 1 - 2 of [Flower and Asura](https://anilist.co/anime/178022) (12:25 15 January 2025)
 -   📺 Watched episode 1 of [I May Be a Guild Receptionist, but I’ll Solo Any Boss to Clock Out on Time](https://anilist.co/anime/167143) (03:54 14 January 2025)
 -   📺 Watched episode 1 - 2 of [Tasokare Hotel](https://anilist.co/anime/178495) (03:52 14 January 2025)
--   📺 Watched episode 1 - 3 of [I’m a Noble on the Brink of Ruin, So I Might as Well Try Mastering Magic](https://anilist.co/anime/176063) (01:22 14 January 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
