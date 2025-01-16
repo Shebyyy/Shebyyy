@@ -32,10 +32,10 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 - 2 of [From Bureaucrat to Villainess: Dad's Been Reincarnated!](https://anilist.co/anime/172453) (18:18 16 January 2025)
 -   📺 Watched episode 1 - 2 of [Even Given the Worthless “Appraiser” Class, I’m Actually the Strongest](https://anilist.co/anime/178548) (17:56 16 January 2025)
 -   📺 Watched episode 1 - 2 of [The Daily Life of a Middle-Aged Online Shopper in Another World](https://anilist.co/anime/180292) (17:19 16 January 2025)
 -   📺 Watched episode 1 - 2 of [Magic Maker: How to Make Magic in Another World](https://anilist.co/anime/179297) (12:04 16 January 2025)
 -   📺 Watched episode 1 - 2 of [Honey Lemon Soda](https://anilist.co/anime/175443) (21:35 15 January 2025)
--   📺 Watched episode 1 - 3 of [Possibly the Greatest Alchemist of All Time](https://anilist.co/anime/177506) (21:15 15 January 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
