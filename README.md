@@ -32,10 +32,10 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 - 2 of [Übel Blatt](https://anilist.co/anime/175198) (18:38 17 January 2025)
+-   📺 Watched episode 1 - 2 of [I May Be a Guild Receptionist, but I’ll Solo Any Boss to Clock Out on Time](https://anilist.co/anime/167143) (18:38 17 January 2025)
 -   📺 Watched episode 1 - 3 of [Tasokare Hotel](https://anilist.co/anime/178495) (15:09 17 January 2025)
 -   📺 Watched episode 1 - 2 of [From Bureaucrat to Villainess: Dad's Been Reincarnated!](https://anilist.co/anime/172453) (18:18 16 January 2025)
 -   📺 Watched episode 1 - 2 of [Even Given the Worthless “Appraiser” Class, I’m Actually the Strongest](https://anilist.co/anime/178548) (17:56 16 January 2025)
--   📺 Watched episode 1 - 2 of [The Daily Life of a Middle-Aged Online Shopper in Another World](https://anilist.co/anime/180292) (17:19 16 January 2025)
--   📺 Watched episode 1 - 2 of [Magic Maker: How to Make Magic in Another World](https://anilist.co/anime/179297) (12:04 16 January 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
