@@ -32,10 +32,10 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 - 3 of [Medalist](https://anilist.co/anime/165171) (21:22 18 January 2025)
+-   📺 Watched episode 1 - 2 of [I Left My A-Rank Party to Help My Former Students Reach the Dungeon Depths!](https://anilist.co/anime/180812) (21:21 18 January 2025)
+-   📺 Watched episode 1 - 3 of [SAKAMOTO DAYS](https://anilist.co/anime/177709) (21:21 18 January 2025)
 -   📺 Watched episode 1 - 3 of [Solo Leveling Season 2 -Arise from the Shadow-](https://anilist.co/anime/176496) (18:08 18 January 2025)
 -   📺 Watched episode 1 - 3 of [Sorairo Utility (TV)](https://anilist.co/anime/174596) (04:36 18 January 2025)
--   📺 Watched episode 1 - 2 of [Übel Blatt](https://anilist.co/anime/175198) (18:38 17 January 2025)
--   📺 Watched episode 1 - 2 of [I May Be a Guild Receptionist, but I’ll Solo Any Boss to Clock Out on Time](https://anilist.co/anime/167143) (18:38 17 January 2025)
--   📺 Watched episode 1 - 3 of [Tasokare Hotel](https://anilist.co/anime/178495) (15:09 17 January 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
