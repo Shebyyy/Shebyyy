@@ -32,10 +32,10 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 - 12 of [One Piece Log: Fish-Man Island Saga](https://anilist.co/anime/183423) (05:54 19 January 2025)
 -   📺 Watched episode 1 - 3 of [Medalist](https://anilist.co/anime/165171) (21:22 18 January 2025)
 -   📺 Watched episode 1 - 2 of [I Left My A-Rank Party to Help My Former Students Reach the Dungeon Depths!](https://anilist.co/anime/180812) (21:21 18 January 2025)
 -   📺 Watched episode 1 - 3 of [SAKAMOTO DAYS](https://anilist.co/anime/177709) (21:21 18 January 2025)
 -   📺 Watched episode 1 - 3 of [Solo Leveling Season 2 -Arise from the Shadow-](https://anilist.co/anime/176496) (18:08 18 January 2025)
--   📺 Watched episode 1 - 3 of [Sorairo Utility (TV)](https://anilist.co/anime/174596) (04:36 18 January 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
