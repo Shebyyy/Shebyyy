@@ -32,10 +32,10 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 - 12 of [Arifureta: From Commonplace to World's Strongest Season 3](https://anilist.co/anime/154473) (18:58 20 January 2025)
 -   📺 Watched episode 1 - 3 of [Promise of Wizard](https://anilist.co/anime/170916) (18:40 20 January 2025)
 -   📺 Watched episode 1 - 3 of [I Want to Escape from Princess Lessons](https://anilist.co/anime/170650) (16:31 19 January 2025)
 -   📺 Watched episode 1 - 15 of [Shangri-La Frontier Season 2](https://anilist.co/anime/176508) (16:29 19 January 2025)
 -   📺 Watched episode 1 - 12 of [One Piece Log: Fish-Man Island Saga](https://anilist.co/anime/183423) (05:54 19 January 2025)
--   📺 Watched episode 1 - 3 of [Medalist](https://anilist.co/anime/165171) (21:22 18 January 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
