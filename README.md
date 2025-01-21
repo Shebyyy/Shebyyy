@@ -32,10 +32,10 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 - 16 of [Blue Box](https://anilist.co/anime/170942) (15:26 21 January 2025)
 -   📺 Watched episode 1 - 4 of [I’m a Noble on the Brink of Ruin, So I Might as Well Try Mastering Magic](https://anilist.co/anime/176063) (19:59 20 January 2025)
 -   📺 Watched episode 1 - 4 of [Headhunted to Another World: From Salaryman to Big Four!](https://anilist.co/anime/179689) (19:36 20 January 2025)
 -   📺 Watched episode 1 - 12 of [Arifureta: From Commonplace to World's Strongest Season 3](https://anilist.co/anime/154473) (18:58 20 January 2025)
 -   📺 Watched episode 1 - 3 of [Promise of Wizard](https://anilist.co/anime/170916) (18:40 20 January 2025)
--   📺 Watched episode 1 - 3 of [I Want to Escape from Princess Lessons](https://anilist.co/anime/170650) (16:31 19 January 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
