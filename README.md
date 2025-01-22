@@ -32,10 +32,10 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Completed [Demon Slayer: Kimetsu no Yaiba](https://anilist.co/anime/101922) (20:25 22 January 2025)
 -   📺 Watched episode 1 - 3 of [Honey Lemon Soda](https://anilist.co/anime/175443) (18:21 22 January 2025)
 -   📺 Watched episode 1 - 4 of [Ameku M.D.: Doctor Detective](https://anilist.co/anime/176642) (18:21 22 January 2025)
 -   📺 Watched episode 1 - 4 of [Possibly the Greatest Alchemist of All Time](https://anilist.co/anime/177506) (18:20 22 January 2025)
 -   📺 Watched episode 1 - 3 of [Flower and Asura](https://anilist.co/anime/178022) (12:58 22 January 2025)
--   📺 Watched episode 1 - 4 of [Bogus Skill <<Fruitmaster>> ~About that time I became able to eat unlimited numbers of Skill Fruits (that kill you)~](https://anilist.co/anime/178100) (17:56 21 January 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
