@@ -32,10 +32,10 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 - 14 of [Blue Miburo](https://anilist.co/anime/169258) (18:37 24 January 2025)
 -   📺 Watched episode 1 - 3 of [I May Be a Guild Receptionist, but I’ll Solo Any Boss to Clock Out on Time](https://anilist.co/anime/167143) (18:19 24 January 2025)
 -   📺 Watched episode 1 - 4 of [Sorairo Utility (TV)](https://anilist.co/anime/174596) (18:00 24 January 2025)
 -   📺 Watched episode 1 - 4 of [TASOKARE HOTEL](https://anilist.co/anime/178495) (16:21 24 January 2025)
 -   📺 Watched episode 1 - 3 of [From Bureaucrat to Villainess: Dad's Been Reincarnated!](https://anilist.co/anime/172453) (08:50 24 January 2025)
--   📺 Watched episode 1 - 3 of [Even Given the Worthless “Appraiser” Class, I’m Actually the Strongest](https://anilist.co/anime/178548) (15:29 23 January 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
