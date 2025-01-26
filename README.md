@@ -32,10 +32,10 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 - 15 of [Touhai: Ura Rate Mahjong Touhai Roku](https://anilist.co/anime/173263) (01:41 26 January 2025)
+-   📺 Watched episode 1 - 17 of [Blue Box](https://anilist.co/anime/170942) (01:22 26 January 2025)
+-   📺 Watched episode 1 - 4 of [Medalist](https://anilist.co/anime/165171) (01:01 26 January 2025)
 -   📺 Watched episode 1 - 5 of [Beheneko: The Elf-Girl's Cat is Secretly an S-Ranked Monster!](https://anilist.co/anime/176158) (19:03 25 January 2025)
 -   📺 Watched episode 1 - 3 of [I Left My A-Rank Party to Help My Former Students Reach the Dungeon Depths!](https://anilist.co/anime/180812) (18:35 25 January 2025)
--   📺 Watched episode 1 - 4 of [Solo Leveling Season 2 -Arise from the Shadow-](https://anilist.co/anime/176496) (17:43 25 January 2025)
--   📺 Watched episode 1 - 4 of [SAKAMOTO DAYS](https://anilist.co/anime/177709) (15:54 25 January 2025)
--   📺 Watched episode 1 - 15 of [Blue Miburo](https://anilist.co/anime/169258) (15:14 25 January 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
