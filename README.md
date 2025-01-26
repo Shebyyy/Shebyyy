@@ -32,10 +32,10 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 - 4 of [I Want to Escape from Princess Lessons](https://anilist.co/anime/170650) (18:52 26 January 2025)
 -   📺 Watched episode 1 - 8 of [Wu Dong Qiankun 5](https://anilist.co/anime/185748) (13:25 26 January 2025)
 -   📺 Plans to watch [Wu Dong Qiankun 5](https://anilist.co/anime/185748) (09:37 26 January 2025)
 -   📺 Watched episode 1 - 13 of [One Piece Log: Fish-Man Island Saga](https://anilist.co/anime/183423) (04:37 26 January 2025)
 -   📺 Watched episode 1 - 15 of [Touhai: Ura Rate Mahjong Touhai Roku](https://anilist.co/anime/173263) (01:41 26 January 2025)
--   📺 Watched episode 1 - 17 of [Blue Box](https://anilist.co/anime/170942) (01:22 26 January 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
