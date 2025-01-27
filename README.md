@@ -32,10 +32,10 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 - 16 of [Shangri-La Frontier Season 2](https://anilist.co/anime/176508) (05:04 27 January 2025)
 -   📺 Completed [Wu Dong Qiankun 5](https://anilist.co/anime/185748) (20:42 26 January 2025)
 -   📺 Watched episode 1 - 12 of [Wu Dong Qiankun 5](https://anilist.co/anime/185748) (20:42 26 January 2025)
 -   📺 Watched episode 1 - 4 of [I Want to Escape from Princess Lessons](https://anilist.co/anime/170650) (18:52 26 January 2025)
 -   📺 Plans to watch [Wu Dong Qiankun 5](https://anilist.co/anime/185748) (09:37 26 January 2025)
--   📺 Watched episode 1 - 13 of [One Piece Log: Fish-Man Island Saga](https://anilist.co/anime/183423) (04:37 26 January 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
