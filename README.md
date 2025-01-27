@@ -32,10 +32,10 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Completed [Synduality Noir](https://anilist.co/anime/154643) (23:06 27 January 2025)
+-   📺 Watched episode 1 - 12 of [Synduality Noir](https://anilist.co/anime/154643) (23:06 27 January 2025)
 -   📺 Watched episode 1 - 5 of [I’m a Noble on the Brink of Ruin, So I Might as Well Try Mastering Magic](https://anilist.co/anime/176063) (20:16 27 January 2025)
 -   📺 Watched episode 1 - 13 of [Arifureta: From Commonplace to World's Strongest Season 3](https://anilist.co/anime/154473) (16:06 27 January 2025)
 -   📺 Watched episode 1 - 5 of [Headhunted to Another World: From Salaryman to Big Four!](https://anilist.co/anime/179689) (15:36 27 January 2025)
--   📺 Watched episode 1 - 4 of [Promise of Wizard](https://anilist.co/anime/170916) (15:36 27 January 2025)
--   📺 Watched episode 1 - 16 of [Shangri-La Frontier Season 2](https://anilist.co/anime/176508) (05:04 27 January 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
