@@ -32,10 +32,10 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 - 5 of [Headhunted to Another World: From Salaryman to Big Four!](https://anilist.co/anime/179689) (15:36 27 January 2025)
+-   📺 Watched episode 1 - 4 of [Promise of Wizard](https://anilist.co/anime/170916) (15:36 27 January 2025)
 -   📺 Watched episode 1 - 16 of [Shangri-La Frontier Season 2](https://anilist.co/anime/176508) (05:04 27 January 2025)
 -   📺 Completed [Wu Dong Qiankun 5](https://anilist.co/anime/185748) (20:42 26 January 2025)
 -   📺 Watched episode 1 - 12 of [Wu Dong Qiankun 5](https://anilist.co/anime/185748) (20:42 26 January 2025)
--   📺 Watched episode 1 - 4 of [I Want to Escape from Princess Lessons](https://anilist.co/anime/170650) (18:52 26 January 2025)
--   📺 Plans to watch [Wu Dong Qiankun 5](https://anilist.co/anime/185748) (09:37 26 January 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
