@@ -32,10 +32,10 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 - 4 of [Flower and Asura](https://anilist.co/anime/178022) (18:44 28 January 2025)
 -   📺 Completed [Synduality Noir](https://anilist.co/anime/154643) (23:06 27 January 2025)
 -   📺 Watched episode 1 - 12 of [Synduality Noir](https://anilist.co/anime/154643) (23:06 27 January 2025)
 -   📺 Watched episode 1 - 5 of [I’m a Noble on the Brink of Ruin, So I Might as Well Try Mastering Magic](https://anilist.co/anime/176063) (20:16 27 January 2025)
 -   📺 Watched episode 1 - 13 of [Arifureta: From Commonplace to World's Strongest Season 3](https://anilist.co/anime/154473) (16:06 27 January 2025)
--   📺 Watched episode 1 - 5 of [Headhunted to Another World: From Salaryman to Big Four!](https://anilist.co/anime/179689) (15:36 27 January 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
