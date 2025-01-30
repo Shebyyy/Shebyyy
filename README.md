@@ -32,10 +32,10 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Completed [My Next Life as a Villainess: All Routes Lead to Doom! Movie](https://anilist.co/anime/139359) (18:05 30 January 2025)
 -   📺 Watched episode 1 - 4 of [The Daily Life of a Middle-Aged Online Shopper in Another World](https://anilist.co/anime/180292) (16:58 30 January 2025)
 -   📺 Watched episode 1 - 4 of [Even Given the Worthless “Appraiser” Class, I’m Actually the Strongest](https://anilist.co/anime/178548) (16:20 30 January 2025)
 -   📺 Watched episode 1 - 4 of [Honey Lemon Soda](https://anilist.co/anime/175443) (15:08 30 January 2025)
 -   📖 Read chapter 192 of [Chainsaw Man](https://anilist.co/manga/105778) (13:32 30 January 2025)
--   📺 Watched episode 1 - 5 of [Ameku M.D.: Doctor Detective](https://anilist.co/anime/176642) (04:00 30 January 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
