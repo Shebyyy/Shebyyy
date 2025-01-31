@@ -32,10 +32,10 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 - 2 of [I Have a Crush at Work](https://anilist.co/anime/179696) (17:15 31 January 2025)
 -   📺 Watched episode 1 - 4 of [From Bureaucrat to Villainess: Dad's Been Reincarnated!](https://anilist.co/anime/172453) (12:21 31 January 2025)
 -   📺 Completed [My Next Life as a Villainess: All Routes Lead to Doom! Movie](https://anilist.co/anime/139359) (18:05 30 January 2025)
 -   📺 Watched episode 1 - 4 of [The Daily Life of a Middle-Aged Online Shopper in Another World](https://anilist.co/anime/180292) (16:58 30 January 2025)
 -   📺 Watched episode 1 - 4 of [Even Given the Worthless “Appraiser” Class, I’m Actually the Strongest](https://anilist.co/anime/178548) (16:20 30 January 2025)
--   📺 Watched episode 1 - 4 of [Honey Lemon Soda](https://anilist.co/anime/175443) (15:08 30 January 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
