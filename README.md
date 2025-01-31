@@ -32,7 +32,7 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 2 - 6 of [Xu Ge Yuan Ba! Da Xi](https://anilist.co/manga/89357) (19:15 31 January 2025)
+-   📺 Watched episode 1 - 4 of [I May Be a Guild Receptionist, but I’ll Solo Any Boss to Clock Out on Time](https://anilist.co/anime/167143) (19:22 31 January 2025)
 -   📺 Watched episode 1 - 2 of [I Have a Crush at Work](https://anilist.co/anime/179696) (17:15 31 January 2025)
 -   📺 Watched episode 1 - 4 of [From Bureaucrat to Villainess: Dad's Been Reincarnated!](https://anilist.co/anime/172453) (12:21 31 January 2025)
 -   📺 Completed [My Next Life as a Villainess: All Routes Lead to Doom! Movie](https://anilist.co/anime/139359) (18:05 30 January 2025)
