@@ -32,10 +32,10 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 4 of [Xu Ge Yuan Ba! Da Xi](https://anilist.co/manga/89357) (18:41 31 January 2025)
+-   📺 Watched episode 1 - 2 of [Gun Frontier](https://anilist.co/anime/1706) (18:40 31 January 2025)
+-   📖 Read chapter 1 - 4 of [Solo Leveling](https://anilist.co/manga/105398) (18:37 31 January 2025)
 -   📺 Watched episode 1 of [Steins;Gate](https://anilist.co/anime/9253) (17:49 31 January 2025)
 -   📺 Watched episode 1 - 2 of [I Have a Crush at Work](https://anilist.co/anime/179696) (17:15 31 January 2025)
--   📺 Watched episode 1 - 4 of [From Bureaucrat to Villainess: Dad's Been Reincarnated!](https://anilist.co/anime/172453) (12:21 31 January 2025)
--   📺 Completed [My Next Life as a Villainess: All Routes Lead to Doom! Movie](https://anilist.co/anime/139359) (18:05 30 January 2025)
--   📺 Watched episode 1 - 4 of [The Daily Life of a Middle-Aged Online Shopper in Another World](https://anilist.co/anime/180292) (16:58 30 January 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
