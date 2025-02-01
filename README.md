@@ -32,10 +32,10 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 - 6 of [Beheneko: The Elf-Girl's Cat is Secretly an S-Ranked Monster!](https://anilist.co/anime/176158) (14:27 01 February 2025)
 -   📺 Watched episode 1 - 16 of [Blue Miburo](https://anilist.co/anime/169258) (13:10 01 February 2025)
 -   📺 Watched episode 1 - 5 of [Sorairo Utility (TV)](https://anilist.co/anime/174596) (02:37 01 February 2025)
 -   📺 Watched episode 1 - 4 of [I May Be a Guild Receptionist, but I’ll Solo Any Boss to Clock Out on Time](https://anilist.co/anime/167143) (19:22 31 January 2025)
 -   📺 Watched episode 1 - 2 of [I Have a Crush at Work](https://anilist.co/anime/179696) (17:15 31 January 2025)
--   📺 Watched episode 1 - 4 of [From Bureaucrat to Villainess: Dad's Been Reincarnated!](https://anilist.co/anime/172453) (12:21 31 January 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
