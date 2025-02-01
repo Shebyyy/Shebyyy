@@ -23,4 +23,4 @@ jobs:
           commit_email: anilistcansuckmydick@github.com
           commit_message: "AniList Activity"
           timezone: "Asia/Delhi"
-          date_format: "{h}:{m} • {D} {MW}, {Y}"
+          date_format: "{h}:{m} {A} • {D} {MW}, {Y}"
