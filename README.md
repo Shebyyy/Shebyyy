@@ -32,10 +32,10 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 - 5 of [I Want to Escape from Princess Lessons](https://anilist.co/anime/170650) (13:40 02 February 2025)
 -   📺 Watched episode 1 - 17 of [Shangri-La Frontier Season 2](https://anilist.co/anime/176508) (11:28 02 February 2025)
 -   📺 Watched episode 1 - 18 of [Blue Box](https://anilist.co/anime/170942) (05:44 02 February 2025)
 -   📺 Watched episode 1 - 14 of [One Piece Log: Fish-Man Island Saga](https://anilist.co/anime/183423) (05:16 02 February 2025)
 -   📺 Watched episode 1 - 5 of [Medalist](https://anilist.co/anime/165171) (18:23 01 February 2025)
--   📺 Watched episode 1 - 5 of [Solo Leveling Season 2 -Arise from the Shadow-](https://anilist.co/anime/176496) (17:34 01 February 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
