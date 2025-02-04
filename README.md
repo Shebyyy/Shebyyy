@@ -32,10 +32,10 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 - 6 of [Headhunted to Another World: From Salaryman to Big Four!](https://anilist.co/anime/179689) (08:13 04 February 2025)
 -   📺 Watched episode 1 - 6 of [I’m a Noble on the Brink of Ruin, So I Might as Well Try Mastering Magic](https://anilist.co/anime/176063) (07:46 04 February 2025)
 -   📺 Watched episode 1 - 5 of [Promise of Wizard](https://anilist.co/anime/170916) (22:14 03 February 2025)
 -   📺 Watched episode 1 - 5 of [I Want to Escape from Princess Lessons](https://anilist.co/anime/170650) (13:40 02 February 2025)
 -   📺 Watched episode 1 - 17 of [Shangri-La Frontier Season 2](https://anilist.co/anime/176508) (11:28 02 February 2025)
--   📺 Watched episode 1 - 18 of [Blue Box](https://anilist.co/anime/170942) (05:44 02 February 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
