@@ -32,10 +32,10 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 - 6 of [Ameku M.D.: Doctor Detective](https://anilist.co/anime/176642) (15:13 06 February 2025)
+-   📺 Watched episode 1 - 5 of [Honey Lemon Soda](https://anilist.co/anime/175443) (15:13 06 February 2025)
 -   📺 Watched episode 1 - 6 of [Possibly the Greatest Alchemist of All Time](https://anilist.co/anime/177506) (17:05 05 February 2025)
 -   📺 Watched episode 1 - 9 of [Re:ZERO -Starting Life in Another World- Season 3](https://anilist.co/anime/163134) (16:45 05 February 2025)
 -   📺 Watched episode 1 - 5 of [Flower and Asura](https://anilist.co/anime/178022) (05:12 05 February 2025)
--   📺 Watched episode 1 - 6 of [Bogus Skill <<Fruitmaster>> ~About that time I became able to eat unlimited numbers of Skill Fruits (that kill you)~](https://anilist.co/anime/178100) (17:30 04 February 2025)
--   📺 Watched episode 1 - 14 of [Arifureta: From Commonplace to World's Strongest Season 3](https://anilist.co/anime/154473) (08:33 04 February 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
