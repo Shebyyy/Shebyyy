@@ -32,10 +32,10 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 - 13 of [Is It Wrong To Try To Pick Up Girls in a Dungeon? V](https://anilist.co/anime/170732) (15:36 07 February 2025)
 -   📺 Watched episode 1 - 19 of [Blue Box](https://anilist.co/anime/170942) (19:17 06 February 2025)
 -   📺 Watched episode 1 - 5 of [From Bureaucrat to Villainess: Dad's Been Reincarnated!](https://anilist.co/anime/172453) (17:18 06 February 2025)
 -   📺 Watched episode 1 - 5 of [The Daily Life of a Middle-Aged Online Shopper in Another World](https://anilist.co/anime/180292) (16:28 06 February 2025)
 -   📺 Watched episode 1 - 5 of [Even Given the Worthless “Appraiser” Class, I’m Actually the Strongest](https://anilist.co/anime/178548) (15:52 06 February 2025)
--   📺 Watched episode 1 - 6 of [Ameku M.D.: Doctor Detective](https://anilist.co/anime/176642) (15:13 06 February 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
