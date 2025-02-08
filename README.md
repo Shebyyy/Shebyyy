@@ -32,10 +32,10 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 - 6 of [Solo Leveling Season 2 -Arise from the Shadow-](https://anilist.co/anime/176496) (16:52 08 February 2025)
+-   📺 Watched episode 1 - 6 of [SAKAMOTO DAYS](https://anilist.co/anime/177709) (16:52 08 February 2025)
 -   📺 Watched episode 1 - 17 of [Touhai: Ura Rate Mahjong Touhai Roku](https://anilist.co/anime/173263) (12:30 08 February 2025)
 -   📺 Watched episode 1 - 13 of [Is It Wrong To Try To Pick Up Girls in a Dungeon? V](https://anilist.co/anime/170732) (15:36 07 February 2025)
 -   📺 Watched episode 1 - 19 of [Blue Box](https://anilist.co/anime/170942) (19:17 06 February 2025)
--   📺 Watched episode 1 - 5 of [From Bureaucrat to Villainess: Dad's Been Reincarnated!](https://anilist.co/anime/172453) (17:18 06 February 2025)
--   📺 Watched episode 1 - 5 of [The Daily Life of a Middle-Aged Online Shopper in Another World](https://anilist.co/anime/180292) (16:28 06 February 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
