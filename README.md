@@ -32,10 +32,10 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 - 5 of [I May Be a Guild Receptionist, but I’ll Solo Any Boss to Clock Out on Time](https://anilist.co/anime/167143) (12:55 09 February 2025)
+-   📺 Watched episode 1 - 6 of [Sorairo Utility (TV)](https://anilist.co/anime/174596) (12:55 09 February 2025)
+-   📺 Watched episode 1 - 18 of [Shangri-La Frontier Season 2](https://anilist.co/anime/176508) (12:52 09 February 2025)
 -   📺 Watched episode 1 - 15 of [One Piece Log: Fish-Man Island Saga](https://anilist.co/anime/183423) (08:06 09 February 2025)
 -   📺 Watched episode 1 - 17 of [Blue Miburo](https://anilist.co/anime/169258) (08:05 09 February 2025)
--   📺 Watched episode 1 - 6 of [Medalist](https://anilist.co/anime/165171) (18:57 08 February 2025)
--   📺 Watched episode 1 - 5 of [I Left My A-Rank Party to Help My Former Students Reach the Dungeon Depths!](https://anilist.co/anime/180812) (18:56 08 February 2025)
--   📺 Watched episode 1 - 6 of [Solo Leveling Season 2 -Arise from the Shadow-](https://anilist.co/anime/176496) (16:52 08 February 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
