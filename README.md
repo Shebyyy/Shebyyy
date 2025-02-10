@@ -32,10 +32,10 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 - 15 of [Arifureta: From Commonplace to World's Strongest Season 3](https://anilist.co/anime/154473) (19:55 10 February 2025)
+-   📺 Watched episode 1 - 7 of [I’m a Noble on the Brink of Ruin, So I Might as Well Try Mastering Magic](https://anilist.co/anime/176063) (19:54 10 February 2025)
 -   📺 Watched episode 1 - 7 of [Headhunted to Another World: From Salaryman to Big Four!](https://anilist.co/anime/179689) (15:45 10 February 2025)
 -   📺 Watched episode 1 - 6 of [Promise of Wizard](https://anilist.co/anime/170916) (15:45 10 February 2025)
 -   📺 Watched episode 1 - 28 of [Dou Po Cangqiong: Nian Fan 3](https://anilist.co/anime/168164) (08:29 10 February 2025)
--   📺 Watched episode 1 - 6 of [I Want to Escape from Princess Lessons](https://anilist.co/anime/170650) (17:14 09 February 2025)
--   📺 Watched episode 1 - 5 of [I May Be a Guild Receptionist, but I’ll Solo Any Boss to Clock Out on Time](https://anilist.co/anime/167143) (12:55 09 February 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
