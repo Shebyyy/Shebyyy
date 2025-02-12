@@ -32,10 +32,10 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 - 8 of [Tying the Knot with an Amagami Sister](https://anilist.co/anime/164172) (18:52 12 February 2025)
+-   📺 Watched episode 1 - 6 of [Honey Lemon Soda](https://anilist.co/anime/175443) (18:45 12 February 2025)
 -   📺 Watched episode 1 - 7 of [Possibly the Greatest Alchemist of All Time](https://anilist.co/anime/177506) (17:46 12 February 2025)
 -   📺 Watched episode 1 - 10 of [Re:ZERO -Starting Life in Another World- Season 3](https://anilist.co/anime/163134) (16:31 12 February 2025)
 -   📺 Watched episode 1 - 3 of [Übel Blatt](https://anilist.co/anime/175198) (04:46 12 February 2025)
--   📺 Watched episode 1 - 6 of [Flower and Asura](https://anilist.co/anime/178022) (04:40 12 February 2025)
--   📺 Watched episode 1 - 7 of [Bogus Skill <<Fruitmaster>> ~About that time I became able to eat unlimited numbers of Skill Fruits (that kill you)~](https://anilist.co/anime/178100) (03:49 12 February 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
