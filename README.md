@@ -32,10 +32,10 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Completed [Arifureta: From Commonplace to World's Strongest Season 3](https://anilist.co/anime/154473) (18:17 17 February 2025)
+-   📺 Watched episode 1 - 16 of [Arifureta: From Commonplace to World's Strongest Season 3](https://anilist.co/anime/154473) (18:17 17 February 2025)
+-   📺 Watched episode 1 - 8 of [Headhunted to Another World: From Salaryman to Big Four!](https://anilist.co/anime/179689) (18:16 17 February 2025)
 -   📺 Watched episode 1 - 19 of [Shangri-La Frontier Season 2](https://anilist.co/anime/176508) (05:32 17 February 2025)
 -   📺 Watched episode 1 - 7 of [I Want to Escape from Princess Lessons](https://anilist.co/anime/170650) (15:26 16 February 2025)
--   📺 Watched episode 1 - 18 of [Blue Miburo](https://anilist.co/anime/169258) (03:09 16 February 2025)
--   📺 Watched episode 1 - 16 of [One Piece Log: Fish-Man Island Saga](https://anilist.co/anime/183423) (03:09 16 February 2025)
--   📺 Watched episode 1 - 7 of [Medalist](https://anilist.co/anime/165171) (20:41 15 February 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
