@@ -32,10 +32,10 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 - 7 of [Ameku M.D.: Doctor Detective](https://anilist.co/anime/176642) (12:33 20 February 2025)
 -   📺 Watched episode 1 - 7 of [Honey Lemon Soda](https://anilist.co/anime/175443) (11:47 20 February 2025)
 -   📺 Watched episode 1 - 7 of [Flower and Asura](https://anilist.co/anime/178022) (22:13 18 February 2025)
 -   📺 Watched episode 1 - 18 of [Touhai: Ura Rate Mahjong Touhai Roku](https://anilist.co/anime/173263) (18:01 18 February 2025)
 -   📺 Watched episode 1 - 8 of [Bogus Skill <<Fruitmaster>> ~About that time I became able to eat unlimited numbers of Skill Fruits (that kill you)~](https://anilist.co/anime/178100) (16:57 18 February 2025)
--   📺 Watched episode 1 - 8 of [I’m a Noble on the Brink of Ruin, So I Might as Well Try Mastering Magic](https://anilist.co/anime/176063) (19:12 17 February 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
