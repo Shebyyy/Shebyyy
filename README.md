@@ -32,10 +32,10 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 - 7 of [From Bureaucrat to Villainess: Dad's Been Reincarnated!](https://anilist.co/anime/172453) (19:19 20 February 2025)
 -   📺 Watched episode 1 - 7 of [The Daily Life of a Middle-Aged Online Shopper in Another World](https://anilist.co/anime/180292) (16:42 20 February 2025)
 -   📺 Watched episode 1 - 7 of [Even Given the Worthless “Appraiser” Class, I’m Actually the Strongest](https://anilist.co/anime/178548) (16:42 20 February 2025)
 -   📺 Watched episode 1 - 7 of [Ameku M.D.: Doctor Detective](https://anilist.co/anime/176642) (12:33 20 February 2025)
 -   📺 Watched episode 1 - 7 of [Honey Lemon Soda](https://anilist.co/anime/175443) (11:47 20 February 2025)
--   📺 Watched episode 1 - 7 of [Flower and Asura](https://anilist.co/anime/178022) (22:13 18 February 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
