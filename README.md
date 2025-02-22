@@ -32,10 +32,10 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 - 7 of [I Left My A-Rank Party to Help My Former Students Reach the Dungeon Depths!](https://anilist.co/anime/180812) (18:48 22 February 2025)
 -   📺 Watched episode 1 - 8 of [Solo Leveling Season 2 -Arise from the Shadow-](https://anilist.co/anime/176496) (18:02 22 February 2025)
 -   📺 Watched episode 1 - 8 of [SAKAMOTO DAYS](https://anilist.co/anime/177709) (15:43 22 February 2025)
 -   📺 Watched episode 1 - 7 of [I May Be a Guild Receptionist, but I’ll Solo Any Boss to Clock Out on Time](https://anilist.co/anime/167143) (12:06 22 February 2025)
 -   📺 Watched episode 1 - 21 of [Blue Box](https://anilist.co/anime/170942) (14:44 21 February 2025)
--   📺 Watched episode 1 - 11 of [Re:ZERO -Starting Life in Another World- Season 3](https://anilist.co/anime/163134) (19:37 20 February 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
