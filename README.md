@@ -32,10 +32,10 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 - 20 of [Shangri-La Frontier Season 2](https://anilist.co/anime/176508) (11:56 23 February 2025)
 -   📺 Watched episode 1 - 17 of [One Piece Log: Fish-Man Island Saga](https://anilist.co/anime/183423) (05:30 23 February 2025)
 -   📺 Watched episode 1 - 8 of [Medalist](https://anilist.co/anime/165171) (19:32 22 February 2025)
 -   📺 Watched episode 1 - 7 of [I Left My A-Rank Party to Help My Former Students Reach the Dungeon Depths!](https://anilist.co/anime/180812) (18:48 22 February 2025)
 -   📺 Watched episode 1 - 8 of [Solo Leveling Season 2 -Arise from the Shadow-](https://anilist.co/anime/176496) (18:02 22 February 2025)
--   📺 Watched episode 1 - 8 of [SAKAMOTO DAYS](https://anilist.co/anime/177709) (15:43 22 February 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
