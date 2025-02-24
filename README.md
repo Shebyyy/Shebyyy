@@ -32,10 +32,10 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 - 13 of [Tying the Knot with an Amagami Sister](https://anilist.co/anime/164172) (09:05 24 February 2025)
 -   📺 Watched episode 1 - 8 of [Sorairo Utility (TV)](https://anilist.co/anime/174596) (05:29 24 February 2025)
 -   📺 Watched episode 1 - 8 of [I Want to Escape from Princess Lessons](https://anilist.co/anime/170650) (23:16 23 February 2025)
 -   📺 Watched episode 1 - 20 of [Shangri-La Frontier Season 2](https://anilist.co/anime/176508) (11:56 23 February 2025)
 -   📺 Watched episode 1 - 17 of [One Piece Log: Fish-Man Island Saga](https://anilist.co/anime/183423) (05:30 23 February 2025)
--   📺 Watched episode 1 - 8 of [Medalist](https://anilist.co/anime/165171) (19:32 22 February 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
