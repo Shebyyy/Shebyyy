@@ -32,10 +32,10 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 - 8 of [Honey Lemon Soda](https://anilist.co/anime/175443) (18:41 26 February 2025)
+-   📺 Watched episode 1 - 8 of [Ameku M.D.: Doctor Detective](https://anilist.co/anime/176642) (18:39 26 February 2025)
+-   📺 Watched episode 1 - 12 of [Re:ZERO -Starting Life in Another World- Season 3](https://anilist.co/anime/163134) (18:39 26 February 2025)
 -   📺 Watched episode 1 - 9 of [Possibly the Greatest Alchemist of All Time](https://anilist.co/anime/177506) (16:57 26 February 2025)
 -   📺 Watched episode 1 - 14 of [Is It Wrong To Try To Pick Up Girls in a Dungeon? V](https://anilist.co/anime/170732) (15:15 26 February 2025)
--   📺 Watched episode 1 - 8 of [Flower and Asura](https://anilist.co/anime/178022) (12:06 26 February 2025)
--   📺 Watched episode 1 - 9 of [Bogus Skill <<Fruitmaster>> ~About that time I became able to eat unlimited numbers of Skill Fruits (that kill you)~](https://anilist.co/anime/178100) (17:51 25 February 2025)
--   📺 Watched episode 1 - 9 of [Headhunted to Another World: From Salaryman to Big Four!](https://anilist.co/anime/179689) (17:44 25 February 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
