@@ -32,10 +32,10 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 - 8 of [Flower and Asura](https://anilist.co/anime/178022) (12:06 26 February 2025)
 -   📺 Watched episode 1 - 9 of [Bogus Skill <<Fruitmaster>> ~About that time I became able to eat unlimited numbers of Skill Fruits (that kill you)~](https://anilist.co/anime/178100) (17:51 25 February 2025)
 -   📺 Watched episode 1 - 9 of [Headhunted to Another World: From Salaryman to Big Four!](https://anilist.co/anime/179689) (17:44 25 February 2025)
 -   📺 Watched episode 1 - 9 of [I’m a Noble on the Brink of Ruin, So I Might as Well Try Mastering Magic](https://anilist.co/anime/176063) (15:01 25 February 2025)
 -   📺 Watched episode 1 - 13 of [Tying the Knot with an Amagami Sister](https://anilist.co/anime/164172) (09:05 24 February 2025)
--   📺 Watched episode 1 - 8 of [Sorairo Utility (TV)](https://anilist.co/anime/174596) (05:29 24 February 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
