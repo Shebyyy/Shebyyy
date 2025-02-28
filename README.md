@@ -32,10 +32,10 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 - 8 of [The Daily Life of a Middle-Aged Online Shopper in Another World](https://anilist.co/anime/180292) (11:51 28 February 2025)
 -   📺 Watched episode 1 - 8 of [Even Given the Worthless “Appraiser” Class, I’m Actually the Strongest](https://anilist.co/anime/178548) (16:22 27 February 2025)
 -   📺 Watched episode 1 - 8 of [Honey Lemon Soda](https://anilist.co/anime/175443) (18:41 26 February 2025)
 -   📺 Watched episode 1 - 8 of [Ameku M.D.: Doctor Detective](https://anilist.co/anime/176642) (18:39 26 February 2025)
 -   📺 Watched episode 1 - 12 of [Re:ZERO -Starting Life in Another World- Season 3](https://anilist.co/anime/163134) (18:39 26 February 2025)
--   📺 Watched episode 1 - 9 of [Possibly the Greatest Alchemist of All Time](https://anilist.co/anime/177506) (16:57 26 February 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
