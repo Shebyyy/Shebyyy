@@ -32,10 +32,10 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 - 8 of [I May Be a Guild Receptionist, but I’ll Solo Any Boss to Clock Out on Time](https://anilist.co/anime/167143) (12:35 01 March 2025)
 -   📺 Watched episode 1 - 22 of [Blue Box](https://anilist.co/anime/170942) (14:41 28 February 2025)
 -   📺 Watched episode 1 - 8 of [From Bureaucrat to Villainess: Dad's Been Reincarnated!](https://anilist.co/anime/172453) (12:10 28 February 2025)
 -   📺 Watched episode 1 - 8 of [The Daily Life of a Middle-Aged Online Shopper in Another World](https://anilist.co/anime/180292) (11:51 28 February 2025)
 -   📺 Watched episode 1 - 8 of [Even Given the Worthless “Appraiser” Class, I’m Actually the Strongest](https://anilist.co/anime/178548) (16:22 27 February 2025)
--   📺 Watched episode 1 - 8 of [Honey Lemon Soda](https://anilist.co/anime/175443) (18:41 26 February 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
