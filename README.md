@@ -32,10 +32,10 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 - 9 of [I Want to Escape from Princess Lessons](https://anilist.co/anime/170650) (14:21 02 March 2025)
 -   📺 Watched episode 1 - 18 of [One Piece Log: Fish-Man Island Saga](https://anilist.co/anime/183423) (10:56 02 March 2025)
 -   📺 Watched episode 1 - 9 of [SAKAMOTO DAYS](https://anilist.co/anime/177709) (22:16 01 March 2025)
 -   📺 Watched episode 1 - 9 of [Medalist](https://anilist.co/anime/165171) (21:57 01 March 2025)
 -   📺 Watched episode 1 - 8 of [I Left My A-Rank Party to Help My Former Students Reach the Dungeon Depths!](https://anilist.co/anime/180812) (21:42 01 March 2025)
--   📺 Watched episode 1 - 9 of [Sorairo Utility (TV)](https://anilist.co/anime/174596) (14:06 01 March 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
