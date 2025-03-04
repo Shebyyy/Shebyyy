@@ -32,10 +32,10 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 - 21 of [Shangri-La Frontier Season 2](https://anilist.co/anime/176508) (12:48 04 March 2025)
 -   📺 Watched episode 1 - 10 of [I’m a Noble on the Brink of Ruin, So I Might as Well Try Mastering Magic](https://anilist.co/anime/176063) (20:29 03 March 2025)
 -   📺 Watched episode 1 - 10 of [Headhunted to Another World: From Salaryman to Big Four!](https://anilist.co/anime/179689) (18:27 03 March 2025)
 -   📺 Watched episode 1 - 9 of [I Want to Escape from Princess Lessons](https://anilist.co/anime/170650) (14:21 02 March 2025)
 -   📺 Watched episode 1 - 18 of [One Piece Log: Fish-Man Island Saga](https://anilist.co/anime/183423) (10:56 02 March 2025)
--   📺 Watched episode 1 - 9 of [SAKAMOTO DAYS](https://anilist.co/anime/177709) (22:16 01 March 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
