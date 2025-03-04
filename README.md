@@ -32,10 +32,10 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 - 9 of [Flower and Asura](https://anilist.co/anime/178022) (18:07 04 March 2025)
 -   📺 Watched episode 1 - 10 of [Bogus Skill <<Fruitmaster>> ~About that time I became able to eat unlimited numbers of Skill Fruits (that kill you)~](https://anilist.co/anime/178100) (17:03 04 March 2025)
 -   📺 Watched episode 1 - 21 of [Shangri-La Frontier Season 2](https://anilist.co/anime/176508) (12:48 04 March 2025)
 -   📺 Watched episode 1 - 10 of [I’m a Noble on the Brink of Ruin, So I Might as Well Try Mastering Magic](https://anilist.co/anime/176063) (20:29 03 March 2025)
 -   📺 Watched episode 1 - 10 of [Headhunted to Another World: From Salaryman to Big Four!](https://anilist.co/anime/179689) (18:27 03 March 2025)
--   📺 Watched episode 1 - 9 of [I Want to Escape from Princess Lessons](https://anilist.co/anime/170650) (14:21 02 March 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
