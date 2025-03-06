@@ -32,10 +32,10 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 - 9 of [From Bureaucrat to Villainess: Dad's Been Reincarnated!](https://anilist.co/anime/172453) (19:15 06 March 2025)
 -   📺 Completed [Wangu Kuang Di](https://anilist.co/anime/177444) (18:28 06 March 2025)
 -   📺 Watched episode 1 - 20 of [Wangu Kuang Di](https://anilist.co/anime/177444) (18:28 06 March 2025)
 -   📺 Watched episode 1 - 9 of [The Daily Life of a Middle-Aged Online Shopper in Another World](https://anilist.co/anime/180292) (15:55 06 March 2025)
 -   📺 Watched episode 1 - 9 of [Even Given the Worthless “Appraiser” Class, I’m Actually the Strongest](https://anilist.co/anime/178548) (15:09 06 March 2025)
--   📺 Watched episode 1 - 9 of [Honey Lemon Soda](https://anilist.co/anime/175443) (17:56 05 March 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
