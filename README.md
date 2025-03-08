@@ -32,10 +32,10 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 - 9 of [I Left My A-Rank Party to Help My Former Students Reach the Dungeon Depths!](https://anilist.co/anime/180812) (20:02 08 March 2025)
+-   📺 Watched episode 1 - 10 of [Solo Leveling Season 2 -Arise from the Shadow-](https://anilist.co/anime/176496) (20:02 08 March 2025)
+-   📺 Watched episode 1 - 10 of [Medalist](https://anilist.co/anime/165171) (20:01 08 March 2025)
 -   📺 Watched episode 1 - 10 of [Sorairo Utility (TV)](https://anilist.co/anime/174596) (12:46 08 March 2025)
 -   📺 Watched episode 1 - 21 of [Blue Miburo](https://anilist.co/anime/169258) (12:27 08 March 2025)
--   📺 Watched episode 1 - 9 of [I May Be a Guild Receptionist, but I’ll Solo Any Boss to Clock Out on Time](https://anilist.co/anime/167143) (18:30 07 March 2025)
--   📺 Watched episode 1 - 23 of [Blue Box](https://anilist.co/anime/170942) (15:03 07 March 2025)
--   📺 Watched episode 1 - 9 of [From Bureaucrat to Villainess: Dad's Been Reincarnated!](https://anilist.co/anime/172453) (19:15 06 March 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
