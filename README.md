@@ -32,10 +32,10 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 - 10 of [Sorairo Utility (TV)](https://anilist.co/anime/174596) (12:46 08 March 2025)
 -   📺 Watched episode 1 - 21 of [Blue Miburo](https://anilist.co/anime/169258) (12:27 08 March 2025)
 -   📺 Watched episode 1 - 9 of [I May Be a Guild Receptionist, but I’ll Solo Any Boss to Clock Out on Time](https://anilist.co/anime/167143) (18:30 07 March 2025)
 -   📺 Watched episode 1 - 23 of [Blue Box](https://anilist.co/anime/170942) (15:03 07 March 2025)
 -   📺 Watched episode 1 - 9 of [From Bureaucrat to Villainess: Dad's Been Reincarnated!](https://anilist.co/anime/172453) (19:15 06 March 2025)
--   📺 Completed [Wangu Kuang Di](https://anilist.co/anime/177444) (18:28 06 March 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
