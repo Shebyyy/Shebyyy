@@ -32,10 +32,10 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 - 11 of [Headhunted to Another World: From Salaryman to Big Four!](https://anilist.co/anime/179689) (17:06 10 March 2025)
 -   📺 Watched episode 1 - 22 of [Shangri-La Frontier Season 2](https://anilist.co/anime/176508) (12:01 10 March 2025)
 -   📺 Watched episode 1 - 10 of [SAKAMOTO DAYS](https://anilist.co/anime/177709) (20:19 08 March 2025)
 -   📺 Watched episode 1 - 9 of [I Left My A-Rank Party to Help My Former Students Reach the Dungeon Depths!](https://anilist.co/anime/180812) (20:02 08 March 2025)
 -   📺 Watched episode 1 - 10 of [Solo Leveling Season 2 -Arise from the Shadow-](https://anilist.co/anime/176496) (20:02 08 March 2025)
--   📺 Watched episode 1 - 10 of [Medalist](https://anilist.co/anime/165171) (20:01 08 March 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
