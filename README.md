@@ -32,10 +32,10 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 - 14 of [Re:ZERO -Starting Life in Another World- Season 3](https://anilist.co/anime/163134) (12:43 15 March 2025)
 -   📺 Watched episode 1 - 88 of [Soul Land 2: The Peerless Tang Clan](https://anilist.co/anime/137683) (22:43 14 March 2025)
 -   📺 Watched episode 1 - 11 of [Sorairo Utility (TV)](https://anilist.co/anime/174596) (18:38 14 March 2025)
 -   📺 Watched episode 1 - 10 of [I May Be a Guild Receptionist, but I’ll Solo Any Boss to Clock Out on Time](https://anilist.co/anime/167143) (18:21 14 March 2025)
 -   📺 Watched episode 1 - 24 of [Blue Box](https://anilist.co/anime/170942) (08:48 14 March 2025)
--   📺 Watched episode 1 - 10 of [From Bureaucrat to Villainess: Dad's Been Reincarnated!](https://anilist.co/anime/172453) (19:32 13 March 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
