@@ -32,10 +32,10 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Plans to watch [Guimi Zhi Zhu](https://anilist.co/anime/137667) (19:00 16 March 2025)
 -   📺 Watched episode 1 - 23 of [Shangri-La Frontier Season 2](https://anilist.co/anime/176508) (16:18 16 March 2025)
 -   📺 Watched episode 1 of [Sound! Euphonium 2](https://anilist.co/anime/21460) (10:53 16 March 2025)
 -   📺 Watched episode 1 - 11 of [Medalist](https://anilist.co/anime/165171) (06:05 16 March 2025)
 -   📺 Plans to watch [DAN DA DAN Season 2](https://anilist.co/anime/185660) (05:21 16 March 2025)
--   📺 Watched episode 1 - 19 of [One Piece Log: Fish-Man Island Saga](https://anilist.co/anime/183423) (04:00 16 March 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
