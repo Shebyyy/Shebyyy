@@ -32,10 +32,10 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Completed [Bogus Skill <<Fruitmaster>> ~About that time I became able to eat unlimited numbers of Skill Fruits (that kill you)~](https://anilist.co/anime/178100) (19:27 18 March 2025)
+-   📺 Watched episode 1 - 12 of [Bogus Skill <<Fruitmaster>> ~About that time I became able to eat unlimited numbers of Skill Fruits (that kill you)~](https://anilist.co/anime/178100) (19:27 18 March 2025)
 -   📺 Watched episode 1 - 16 of [Cang Yuan Tu 2](https://anilist.co/anime/185719) (15:09 18 March 2025)
 -   📺 Watched episode 1 - 12 of [I’m a Noble on the Brink of Ruin, So I Might as Well Try Mastering Magic](https://anilist.co/anime/176063) (17:52 17 March 2025)
 -   📺 Completed [Headhunted to Another World: From Salaryman to Big Four!](https://anilist.co/anime/179689) (16:22 17 March 2025)
--   📺 Watched episode 1 - 12 of [Headhunted to Another World: From Salaryman to Big Four!](https://anilist.co/anime/179689) (16:22 17 March 2025)
--   📺 Plans to watch [Guimi Zhi Zhu](https://anilist.co/anime/137667) (19:00 16 March 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
