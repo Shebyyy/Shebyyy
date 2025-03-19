@@ -32,10 +32,10 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 - 15 of [Re:ZERO -Starting Life in Another World- Season 3](https://anilist.co/anime/163134) (19:28 19 March 2025)
 -   📺 Watched episode 1 - 11 of [Honey Lemon Soda](https://anilist.co/anime/175443) (19:16 19 March 2025)
 -   📺 Watched episode 1 - 11 of [Flower and Asura](https://anilist.co/anime/178022) (18:57 19 March 2025)
 -   📺 Watched episode 1 - 10 of [Ameku M.D.: Doctor Detective](https://anilist.co/anime/176642) (17:39 19 March 2025)
 -   📺 Completed [Possibly the Greatest Alchemist of All Time](https://anilist.co/anime/177506) (16:31 19 March 2025)
--   📺 Watched episode 1 - 12 of [Possibly the Greatest Alchemist of All Time](https://anilist.co/anime/177506) (16:31 19 March 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
