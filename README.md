@@ -32,10 +32,10 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 - 10 of [Ameku M.D.: Doctor Detective](https://anilist.co/anime/176642) (17:39 19 March 2025)
 -   📺 Completed [Possibly the Greatest Alchemist of All Time](https://anilist.co/anime/177506) (16:31 19 March 2025)
 -   📺 Watched episode 1 - 12 of [Possibly the Greatest Alchemist of All Time](https://anilist.co/anime/177506) (16:31 19 March 2025)
 -   📺 Completed [Bogus Skill <<Fruitmaster>> ~About that time I became able to eat unlimited numbers of Skill Fruits (that kill you)~](https://anilist.co/anime/178100) (19:27 18 March 2025)
 -   📺 Watched episode 1 - 12 of [Bogus Skill <<Fruitmaster>> ~About that time I became able to eat unlimited numbers of Skill Fruits (that kill you)~](https://anilist.co/anime/178100) (19:27 18 March 2025)
--   📺 Watched episode 1 - 16 of [Cang Yuan Tu 2](https://anilist.co/anime/185719) (15:09 18 March 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
