@@ -32,10 +32,10 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 - 11 of [From Bureaucrat to Villainess: Dad's Been Reincarnated!](https://anilist.co/anime/172453) (14:04 21 March 2025)
 -   📺 Completed [Blue Box](https://anilist.co/anime/170942) (13:01 21 March 2025)
 -   📺 Watched episode 1 - 11 of [Even Given the Worthless “Appraiser” Class, I’m Actually the Strongest](https://anilist.co/anime/178548) (16:33 20 March 2025)
 -   📺 Watched episode 1 - 11 of [The Daily Life of a Middle-Aged Online Shopper in Another World](https://anilist.co/anime/180292) (16:12 20 March 2025)
 -   📺 Watched episode 1 - 15 of [Re:ZERO -Starting Life in Another World- Season 3](https://anilist.co/anime/163134) (19:28 19 March 2025)
--   📺 Watched episode 1 - 11 of [Honey Lemon Soda](https://anilist.co/anime/175443) (19:16 19 March 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
