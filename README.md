@@ -32,10 +32,10 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 - 12 of [Solo Leveling Season 2 -Arise from the Shadow-](https://anilist.co/anime/176496) (16:39 22 March 2025)
 -   📺 Completed [Sorairo Utility (TV)](https://anilist.co/anime/174596) (12:48 22 March 2025)
 -   📺 Watched episode 1 - 12 of [Sorairo Utility (TV)](https://anilist.co/anime/174596) (12:47 22 March 2025)
 -   📺 Watched episode 1 - 11 of [I May Be a Guild Receptionist, but I’ll Solo Any Boss to Clock Out on Time](https://anilist.co/anime/167143) (12:33 22 March 2025)
 -   📺 Watched episode 1 - 11 of [From Bureaucrat to Villainess: Dad's Been Reincarnated!](https://anilist.co/anime/172453) (14:04 21 March 2025)
--   📺 Completed [Blue Box](https://anilist.co/anime/170942) (13:01 21 March 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
