@@ -32,10 +32,10 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 - 24 of [Shangri-La Frontier Season 2](https://anilist.co/anime/176508) (10:08 23 March 2025)
+-   📺 Watched episode 1 - 20 of [One Piece Log: Fish-Man Island Saga](https://anilist.co/anime/183423) (10:05 23 March 2025)
 -   📺 Watched episode 1 - 12 of [Medalist](https://anilist.co/anime/165171) (17:36 22 March 2025)
 -   📺 Watched episode 1 - 10 of [I Left My A-Rank Party to Help My Former Students Reach the Dungeon Depths!](https://anilist.co/anime/180812) (17:14 22 March 2025)
 -   📺 Watched episode 1 - 12 of [Solo Leveling Season 2 -Arise from the Shadow-](https://anilist.co/anime/176496) (16:39 22 March 2025)
--   📺 Completed [Sorairo Utility (TV)](https://anilist.co/anime/174596) (12:48 22 March 2025)
--   📺 Watched episode 1 - 12 of [Sorairo Utility (TV)](https://anilist.co/anime/174596) (12:47 22 March 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
