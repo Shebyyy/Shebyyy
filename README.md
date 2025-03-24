@@ -32,7 +32,7 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Watched episode 16 - 20 of [The Apothecary Diaries](https://anilist.co/anime/161645) (12:25 24 March 2025)
+-   📺 Watched episode 16 - 21 of [The Apothecary Diaries](https://anilist.co/anime/161645) (12:49 24 March 2025)
 -   📺 Watched episode 1 - 24 of [Shangri-La Frontier Season 2](https://anilist.co/anime/176508) (10:08 23 March 2025)
 -   📺 Watched episode 1 - 20 of [One Piece Log: Fish-Man Island Saga](https://anilist.co/anime/183423) (10:05 23 March 2025)
 -   📺 Watched episode 1 - 12 of [Medalist](https://anilist.co/anime/165171) (17:36 22 March 2025)
