@@ -32,10 +32,10 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Completed [I’m a Noble on the Brink of Ruin, So I Might as Well Try Mastering Magic](https://anilist.co/anime/176063) (19:18 24 March 2025)
 -   📺 Watched episode 1 - 3 of [The Apothecary Diaries Season 2](https://anilist.co/anime/176301) (18:25 24 March 2025)
 -   📺 Plans to watch [The Apothecary Diaries Season 2](https://anilist.co/anime/176301) (15:23 24 March 2025)
 -   📺 Completed [The Apothecary Diaries](https://anilist.co/anime/161645) (14:14 24 March 2025)
 -   📺 Watched episode 16 - 23 of [The Apothecary Diaries](https://anilist.co/anime/161645) (13:21 24 March 2025)
--   📺 Watched episode 1 - 24 of [Shangri-La Frontier Season 2](https://anilist.co/anime/176508) (10:08 23 March 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
