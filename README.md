@@ -32,7 +32,7 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Watched episode 1 of [The Apothecary Diaries Season 2](https://anilist.co/anime/176301) (16:13 24 March 2025)
+-   📺 Watched episode 1 - 3 of [The Apothecary Diaries Season 2](https://anilist.co/anime/176301) (18:25 24 March 2025)
 -   📺 Plans to watch [The Apothecary Diaries Season 2](https://anilist.co/anime/176301) (15:23 24 March 2025)
 -   📺 Completed [The Apothecary Diaries](https://anilist.co/anime/161645) (14:14 24 March 2025)
 -   📺 Watched episode 16 - 23 of [The Apothecary Diaries](https://anilist.co/anime/161645) (13:21 24 March 2025)
