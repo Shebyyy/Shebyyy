@@ -32,10 +32,10 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 2 - 3 of [Blue Exorcist -The Blue Night Saga-](https://anilist.co/anime/185880) (16:26 26 March 2025)
+-   📺 Plans to watch [Blue Exorcist -The Blue Night Saga-](https://anilist.co/anime/185880) (15:59 26 March 2025)
 -   📺 Watched episode 1 - 4 of [Sound! Euphonium 2](https://anilist.co/anime/21460) (15:06 26 March 2025)
 -   📺 Watched episode 1 - 8 of [Promise of Wizard](https://anilist.co/anime/170916) (13:10 26 March 2025)
 -   📺 Plans to watch [Sword of the Demon Hunter: Kijin Gentosho](https://anilist.co/anime/143598) (12:30 26 March 2025)
--   📺 Completed [Flower and Asura](https://anilist.co/anime/178022) (18:04 25 March 2025)
--   📺 Watched episode 1 - 12 of [Flower and Asura](https://anilist.co/anime/178022) (18:03 25 March 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
