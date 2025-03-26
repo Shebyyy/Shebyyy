@@ -32,10 +32,10 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 - 11 of [Ameku M.D.: Doctor Detective](https://anilist.co/anime/176642) (20:59 26 March 2025)
 -   📺 Completed [Honey Lemon Soda](https://anilist.co/anime/175443) (20:12 26 March 2025)
 -   📺 Watched episode 1 - 12 of [Honey Lemon Soda](https://anilist.co/anime/175443) (20:12 26 March 2025)
 -   📺 Watched episode 1 - 5 of [Sound! Euphonium 2](https://anilist.co/anime/21460) (17:07 26 March 2025)
 -   📺 Watched episode 2 - 3 of [Blue Exorcist -The Blue Night Saga-](https://anilist.co/anime/185880) (16:26 26 March 2025)
--   📺 Plans to watch [Blue Exorcist -The Blue Night Saga-](https://anilist.co/anime/185880) (15:59 26 March 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
