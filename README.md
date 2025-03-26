@@ -32,10 +32,10 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Plans to watch [Sword of the Demon Hunter: Kijin Gentosho](https://anilist.co/anime/143598) (12:30 26 March 2025)
 -   📺 Completed [Flower and Asura](https://anilist.co/anime/178022) (18:04 25 March 2025)
 -   📺 Watched episode 1 - 12 of [Flower and Asura](https://anilist.co/anime/178022) (18:03 25 March 2025)
 -   📺 Watched episode 1 - 2 of [I'm the Evil Lord of an Intergalactic Empire!](https://anilist.co/anime/183274) (12:32 25 March 2025)
 -   📺 Completed [I’m a Noble on the Brink of Ruin, So I Might as Well Try Mastering Magic](https://anilist.co/anime/176063) (19:18 24 March 2025)
--   📺 Watched episode 1 - 3 of [The Apothecary Diaries Season 2](https://anilist.co/anime/176301) (18:25 24 March 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
