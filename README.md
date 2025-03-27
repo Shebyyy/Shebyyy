@@ -32,10 +32,10 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Completed [From Bureaucrat to Villainess: Dad's Been Reincarnated!](https://anilist.co/anime/172453) (21:49 27 March 2025)
+-   📺 Watched episode 1 - 12 of [From Bureaucrat to Villainess: Dad's Been Reincarnated!](https://anilist.co/anime/172453) (21:48 27 March 2025)
 -   📺 Completed [Even Given the Worthless “Appraiser” Class, I’m Actually the Strongest](https://anilist.co/anime/178548) (15:05 27 March 2025)
 -   📺 Watched episode 1 - 12 of [Even Given the Worthless “Appraiser” Class, I’m Actually the Strongest](https://anilist.co/anime/178548) (15:04 27 March 2025)
 -   📺 Watched episode 1 - 12 of [The Daily Life of a Middle-Aged Online Shopper in Another World](https://anilist.co/anime/180292) (14:20 27 March 2025)
--   📺 Watched episode 68 - 126 of [Shen Yin Wangzuo 2](https://anilist.co/anime/153499) (13:47 27 March 2025)
--   📺 Plans to watch [Re:Zero kara Hajimeru Isekai Seikatsu 4th Season](https://anilist.co/anime/189046) (12:06 27 March 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
