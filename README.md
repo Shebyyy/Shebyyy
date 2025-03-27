@@ -32,10 +32,10 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 - 12 of [The Daily Life of a Middle-Aged Online Shopper in Another World](https://anilist.co/anime/180292) (14:20 27 March 2025)
 -   📺 Watched episode 68 - 126 of [Shen Yin Wangzuo 2](https://anilist.co/anime/153499) (13:47 27 March 2025)
 -   📺 Plans to watch [Re:Zero kara Hajimeru Isekai Seikatsu 4th Season](https://anilist.co/anime/189046) (12:06 27 March 2025)
 -   📺 Completed [Re:ZERO -Starting Life in Another World- Season 3](https://anilist.co/anime/163134) (12:06 27 March 2025)
 -   📺 Watched episode 1 - 16 of [Re:ZERO -Starting Life in Another World- Season 3](https://anilist.co/anime/163134) (12:05 27 March 2025)
--   📺 Watched episode 1 - 11 of [Ameku M.D.: Doctor Detective](https://anilist.co/anime/176642) (20:59 26 March 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
