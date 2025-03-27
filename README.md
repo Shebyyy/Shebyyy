@@ -32,10 +32,10 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Plans to watch [Re:Zero kara Hajimeru Isekai Seikatsu 4th Season](https://anilist.co/anime/189046) (12:06 27 March 2025)
+-   📺 Completed [Re:ZERO -Starting Life in Another World- Season 3](https://anilist.co/anime/163134) (12:06 27 March 2025)
+-   📺 Watched episode 1 - 16 of [Re:ZERO -Starting Life in Another World- Season 3](https://anilist.co/anime/163134) (12:05 27 March 2025)
 -   📺 Watched episode 1 - 11 of [Ameku M.D.: Doctor Detective](https://anilist.co/anime/176642) (20:59 26 March 2025)
 -   📺 Completed [Honey Lemon Soda](https://anilist.co/anime/175443) (20:12 26 March 2025)
--   📺 Watched episode 1 - 12 of [Honey Lemon Soda](https://anilist.co/anime/175443) (20:12 26 March 2025)
--   📺 Watched episode 1 - 5 of [Sound! Euphonium 2](https://anilist.co/anime/21460) (17:07 26 March 2025)
--   📺 Watched episode 2 - 3 of [Blue Exorcist -The Blue Night Saga-](https://anilist.co/anime/185880) (16:26 26 March 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
