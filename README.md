@@ -32,10 +32,10 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Completed [I May Be a Guild Receptionist, but I’ll Solo Any Boss to Clock Out on Time](https://anilist.co/anime/167143) (18:43 28 March 2025)
+-   📺 Watched episode 1 - 12 of [I May Be a Guild Receptionist, but I’ll Solo Any Boss to Clock Out on Time](https://anilist.co/anime/167143) (18:43 28 March 2025)
+-   📺 Completed [Tunshi Xingkong Juchang Ban: Xueluo Dalu](https://anilist.co/anime/185724) (18:25 28 March 2025)
+-   📺 Watched episode 23 - 78 of [Tunshi Xingkong 4](https://anilist.co/anime/166219) (18:18 28 March 2025)
 -   📺 Watched episode 1 - 18 of [Cang Yuan Tu 2](https://anilist.co/anime/185719) (14:39 28 March 2025)
--   📺 Completed [From Bureaucrat to Villainess: Dad's Been Reincarnated!](https://anilist.co/anime/172453) (21:49 27 March 2025)
--   📺 Watched episode 1 - 12 of [From Bureaucrat to Villainess: Dad's Been Reincarnated!](https://anilist.co/anime/172453) (21:48 27 March 2025)
--   📺 Completed [Even Given the Worthless “Appraiser” Class, I’m Actually the Strongest](https://anilist.co/anime/178548) (15:05 27 March 2025)
--   📺 Watched episode 1 - 12 of [Even Given the Worthless “Appraiser” Class, I’m Actually the Strongest](https://anilist.co/anime/178548) (15:04 27 March 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
