@@ -32,10 +32,10 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 - 17 of [Cang Yuan Tu 2](https://anilist.co/anime/185719) (14:19 28 March 2025)
 -   📺 Completed [From Bureaucrat to Villainess: Dad's Been Reincarnated!](https://anilist.co/anime/172453) (21:49 27 March 2025)
 -   📺 Watched episode 1 - 12 of [From Bureaucrat to Villainess: Dad's Been Reincarnated!](https://anilist.co/anime/172453) (21:48 27 March 2025)
 -   📺 Completed [Even Given the Worthless “Appraiser” Class, I’m Actually the Strongest](https://anilist.co/anime/178548) (15:05 27 March 2025)
 -   📺 Watched episode 1 - 12 of [Even Given the Worthless “Appraiser” Class, I’m Actually the Strongest](https://anilist.co/anime/178548) (15:04 27 March 2025)
--   📺 Watched episode 1 - 12 of [The Daily Life of a Middle-Aged Online Shopper in Another World](https://anilist.co/anime/180292) (14:20 27 March 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
