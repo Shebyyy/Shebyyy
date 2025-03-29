@@ -32,10 +32,10 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 - 22 of [Blue Miburo](https://anilist.co/anime/169258) (11:45 29 March 2025)
 -   📺 Completed [I May Be a Guild Receptionist, but I’ll Solo Any Boss to Clock Out on Time](https://anilist.co/anime/167143) (18:43 28 March 2025)
 -   📺 Watched episode 1 - 12 of [I May Be a Guild Receptionist, but I’ll Solo Any Boss to Clock Out on Time](https://anilist.co/anime/167143) (18:43 28 March 2025)
 -   📺 Completed [Tunshi Xingkong Juchang Ban: Xueluo Dalu](https://anilist.co/anime/185724) (18:25 28 March 2025)
 -   📺 Watched episode 23 - 78 of [Tunshi Xingkong 4](https://anilist.co/anime/166219) (18:18 28 March 2025)
--   📺 Watched episode 1 - 18 of [Cang Yuan Tu 2](https://anilist.co/anime/185719) (14:39 28 March 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
