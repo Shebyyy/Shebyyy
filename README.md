@@ -32,10 +32,10 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 - 11 of [I Left My A-Rank Party to Help My Former Students Reach the Dungeon Depths!](https://anilist.co/anime/180812) (17:16 29 March 2025)
 -   📺 Watched episode 1 - 3 of [I'm the Evil Lord of an Intergalactic Empire!](https://anilist.co/anime/183274) (14:19 29 March 2025)
 -   📺 Completed [Blue Miburo](https://anilist.co/anime/169258) (12:40 29 March 2025)
 -   📺 Watched episode 1 - 24 of [Blue Miburo](https://anilist.co/anime/169258) (12:40 29 March 2025)
 -   📺 Completed [I May Be a Guild Receptionist, but I’ll Solo Any Boss to Clock Out on Time](https://anilist.co/anime/167143) (18:43 28 March 2025)
--   📺 Watched episode 1 - 12 of [I May Be a Guild Receptionist, but I’ll Solo Any Boss to Clock Out on Time](https://anilist.co/anime/167143) (18:43 28 March 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
