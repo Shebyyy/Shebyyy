@@ -32,10 +32,10 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Plans to watch [Medalist 2nd Season](https://anilist.co/anime/189275) (17:46 29 March 2025)
+-   📺 Completed [Medalist](https://anilist.co/anime/165171) (17:38 29 March 2025)
+-   📺 Watched episode 1 - 13 of [Medalist](https://anilist.co/anime/165171) (17:37 29 March 2025)
 -   📺 Watched episode 1 - 11 of [I Left My A-Rank Party to Help My Former Students Reach the Dungeon Depths!](https://anilist.co/anime/180812) (17:16 29 March 2025)
 -   📺 Watched episode 1 - 3 of [I'm the Evil Lord of an Intergalactic Empire!](https://anilist.co/anime/183274) (14:19 29 March 2025)
--   📺 Completed [Blue Miburo](https://anilist.co/anime/169258) (12:40 29 March 2025)
--   📺 Watched episode 1 - 24 of [Blue Miburo](https://anilist.co/anime/169258) (12:40 29 March 2025)
--   📺 Completed [I May Be a Guild Receptionist, but I’ll Solo Any Boss to Clock Out on Time](https://anilist.co/anime/167143) (18:43 28 March 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
