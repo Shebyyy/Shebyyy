@@ -32,10 +32,10 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Completed [One Piece Log: Fish-Man Island Saga](https://anilist.co/anime/183423) (07:40 30 March 2025)
+-   📺 Watched episode 1 - 21 of [One Piece Log: Fish-Man Island Saga](https://anilist.co/anime/183423) (07:39 30 March 2025)
 -   📺 Watched episode 1 - 10 of [Sound! Euphonium 2](https://anilist.co/anime/21460) (22:38 29 March 2025)
 -   📺 Completed [Solo Leveling Season 2 -Arise from the Shadow-](https://anilist.co/anime/176496) (18:01 29 March 2025)
 -   📺 Plans to watch [Medalist 2nd Season](https://anilist.co/anime/189275) (17:46 29 March 2025)
--   📺 Completed [Medalist](https://anilist.co/anime/165171) (17:38 29 March 2025)
--   📺 Watched episode 1 - 13 of [Medalist](https://anilist.co/anime/165171) (17:37 29 March 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
