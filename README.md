@@ -32,10 +32,10 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Plans to watch [Shangri-La Frontier 3rd Season](https://anilist.co/anime/189323) (10:23 30 March 2025)
+-   📺 Completed [Shangri-La Frontier Season 2](https://anilist.co/anime/176508) (10:23 30 March 2025)
+-   📺 Watched episode 1 - 25 of [Shangri-La Frontier Season 2](https://anilist.co/anime/176508) (10:23 30 March 2025)
 -   📺 Watched episode 11 - 20 of [Kekkaishi](https://anilist.co/anime/1606) (09:50 30 March 2025)
 -   📺 Completed [One Piece Log: Fish-Man Island Saga](https://anilist.co/anime/183423) (07:40 30 March 2025)
--   📺 Watched episode 1 - 21 of [One Piece Log: Fish-Man Island Saga](https://anilist.co/anime/183423) (07:39 30 March 2025)
--   📺 Watched episode 1 - 10 of [Sound! Euphonium 2](https://anilist.co/anime/21460) (22:38 29 March 2025)
--   📺 Completed [Solo Leveling Season 2 -Arise from the Shadow-](https://anilist.co/anime/176496) (18:01 29 March 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
