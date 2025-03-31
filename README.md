@@ -32,10 +32,10 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 of [Sword of the Demon Hunter: Kijin Gentosho](https://anilist.co/anime/143598) (13:38 31 March 2025)
 -   📺 Completed [Plus-Sized Elf](https://anilist.co/anime/173388) (13:01 31 March 2025)
 -   📺 Watched episode 1 - 12 of [Plus-Sized Elf](https://anilist.co/anime/173388) (13:01 31 March 2025)
 -   📺 Watched episode 1 of [The Unaware Atelier Meister](https://anilist.co/anime/183133) (06:38 31 March 2025)
 -   📺 Completed [Kekkaishi](https://anilist.co/anime/1606) (05:56 31 March 2025)
--   📺 Watched episode 11 - 51 of [Kekkaishi](https://anilist.co/anime/1606) (05:48 31 March 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
