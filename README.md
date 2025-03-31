@@ -32,10 +32,10 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Completed [Plus-Sized Elf](https://anilist.co/anime/173388) (13:01 31 March 2025)
+-   📺 Watched episode 1 - 12 of [Plus-Sized Elf](https://anilist.co/anime/173388) (13:01 31 March 2025)
 -   📺 Watched episode 1 of [The Unaware Atelier Meister](https://anilist.co/anime/183133) (06:38 31 March 2025)
 -   📺 Completed [Kekkaishi](https://anilist.co/anime/1606) (05:56 31 March 2025)
 -   📺 Watched episode 11 - 51 of [Kekkaishi](https://anilist.co/anime/1606) (05:48 31 March 2025)
--   📺 Plans to watch [Shangri-La Frontier 3rd Season](https://anilist.co/anime/189323) (10:23 30 March 2025)
--   📺 Completed [Shangri-La Frontier Season 2](https://anilist.co/anime/176508) (10:23 30 March 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
