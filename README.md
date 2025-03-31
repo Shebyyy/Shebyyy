@@ -32,10 +32,10 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Plans to watch [SAKAMOTO DAYS Part 2](https://anilist.co/anime/184237) (19:00 31 March 2025)
+-   📺 Plans to watch [Silent Witch: Chinmoku no Majo no Kakushigoto](https://anilist.co/anime/179966) (18:55 31 March 2025)
+-   📺 Plans to watch [I Was Reincarnated as the 7th Prince So I Can Take My Time Perfecting My Magical Ability Season 2](https://anilist.co/anime/178090) (18:54 31 March 2025)
+-   📺 Plans to watch [The Brilliant Healer's New Life in the Shadows](https://anilist.co/anime/175872) (18:54 31 March 2025)
 -   📺 Watched episode 1 of [The Beginning After the End](https://anilist.co/anime/183161) (13:58 31 March 2025)
--   📺 Watched episode 1 of [Sword of the Demon Hunter: Kijin Gentosho](https://anilist.co/anime/143598) (13:38 31 March 2025)
--   📺 Completed [Plus-Sized Elf](https://anilist.co/anime/173388) (13:01 31 March 2025)
--   📺 Watched episode 1 - 12 of [Plus-Sized Elf](https://anilist.co/anime/173388) (13:01 31 March 2025)
--   📺 Watched episode 1 of [The Unaware Atelier Meister](https://anilist.co/anime/183133) (06:38 31 March 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
