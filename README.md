@@ -32,10 +32,10 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 of [A Certain Scientific Railgun S](https://anilist.co/anime/16049) (13:14 01 April 2025)
 -   📺 Completed [A Certain Scientific Railgun](https://anilist.co/anime/6213) (12:42 01 April 2025)
 -   📺 Watched episode 0 of [A Certain Scientific Railgun T](https://anilist.co/anime/104462) (10:39 01 April 2025)
 -   📺 Plans to watch [A Certain Scientific Railgun T](https://anilist.co/anime/104462) (10:39 01 April 2025)
 -   📺 Completed [Shendao Dizun](https://anilist.co/anime/185794) (10:29 01 April 2025)
--   📺 Watched episode 1 - 48 of [Shendao Dizun](https://anilist.co/anime/185794) (10:29 01 April 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
