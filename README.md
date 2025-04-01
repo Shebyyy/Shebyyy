@@ -32,10 +32,10 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 0 of [A Certain Scientific Railgun T](https://anilist.co/anime/104462) (10:39 01 April 2025)
+-   📺 Plans to watch [A Certain Scientific Railgun T](https://anilist.co/anime/104462) (10:39 01 April 2025)
+-   📺 Completed [Shendao Dizun](https://anilist.co/anime/185794) (10:29 01 April 2025)
+-   📺 Watched episode 1 - 48 of [Shendao Dizun](https://anilist.co/anime/185794) (10:29 01 April 2025)
 -   📺 Watched episode 1 - 4 of [The Apothecary Diaries Season 2](https://anilist.co/anime/176301) (19:38 31 March 2025)
--   📺 Plans to watch [SAKAMOTO DAYS Part 2](https://anilist.co/anime/184237) (19:00 31 March 2025)
--   📺 Plans to watch [Silent Witch: Chinmoku no Majo no Kakushigoto](https://anilist.co/anime/179966) (18:55 31 March 2025)
--   📺 Plans to watch [I Was Reincarnated as the 7th Prince So I Can Take My Time Perfecting My Magical Ability Season 2](https://anilist.co/anime/178090) (18:54 31 March 2025)
--   📺 Plans to watch [The Brilliant Healer's New Life in the Shadows](https://anilist.co/anime/175872) (18:54 31 March 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
