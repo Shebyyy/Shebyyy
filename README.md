@@ -32,10 +32,10 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Completed [Wan Jie Duzun](https://anilist.co/anime/131929) (20:35 03 April 2025)
+-   📺 Watched episode 1 - 50 of [Wan Jie Duzun](https://anilist.co/anime/131929) (20:34 03 April 2025)
 -   📺 Watched episode 1 of [The Brilliant Healer's New Life in the Shadows](https://anilist.co/anime/175872) (18:24 03 April 2025)
 -   📺 Watched episode 1 of [WIND BREAKER Season 2](https://anilist.co/anime/178680) (17:46 03 April 2025)
 -   📺 Completed [The Daily Life of a Middle-Aged Online Shopper in Another World](https://anilist.co/anime/180292) (14:12 03 April 2025)
--   📺 Watched episode 1 - 13 of [The Daily Life of a Middle-Aged Online Shopper in Another World](https://anilist.co/anime/180292) (14:12 03 April 2025)
--   📺 Watched episode 1 of [Please Put Them On, Takamine-san](https://anilist.co/anime/179965) (14:01 03 April 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
