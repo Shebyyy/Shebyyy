@@ -32,10 +32,10 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 of [WIND BREAKER Season 2](https://anilist.co/anime/178680) (17:46 03 April 2025)
 -   📺 Completed [The Daily Life of a Middle-Aged Online Shopper in Another World](https://anilist.co/anime/180292) (14:12 03 April 2025)
 -   📺 Watched episode 1 - 13 of [The Daily Life of a Middle-Aged Online Shopper in Another World](https://anilist.co/anime/180292) (14:12 03 April 2025)
 -   📺 Watched episode 1 of [Please Put Them On, Takamine-san](https://anilist.co/anime/179965) (14:01 03 April 2025)
 -   📺 Watched episode 1 of [The Too-Perfect Saint: Tossed Aside by My Fiancé and Sold to Another Kingdom](https://anilist.co/anime/183275) (13:43 03 April 2025)
--   📺 Watched episode 1 of [Your Forma](https://anilist.co/anime/167142) (13:27 03 April 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
