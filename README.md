@@ -32,10 +32,10 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 of [Your Forma](https://anilist.co/anime/167142) (13:27 03 April 2025)
 -   📺 Completed [Ameku M.D.: Doctor Detective](https://anilist.co/anime/176642) (12:51 03 April 2025)
 -   📺 Watched episode 1 - 12 of [Ameku M.D.: Doctor Detective](https://anilist.co/anime/176642) (12:51 03 April 2025)
 -   📺 Watched episode 1 - 18 of [A Certain Scientific Railgun S](https://anilist.co/anime/16049) (15:21 01 April 2025)
 -   📺 Completed [A Certain Scientific Railgun](https://anilist.co/anime/6213) (12:42 01 April 2025)
--   📺 Watched episode 0 of [A Certain Scientific Railgun T](https://anilist.co/anime/104462) (10:39 01 April 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
