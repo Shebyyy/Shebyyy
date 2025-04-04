@@ -32,10 +32,10 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 0 - 10 of [A Certain Scientific Railgun T](https://anilist.co/anime/104462) (14:03 04 April 2025)
+-   📺 Completed [A Certain Scientific Railgun S](https://anilist.co/anime/16049) (13:51 04 April 2025)
 -   📺 Completed [Wan Jie Duzun](https://anilist.co/anime/131929) (20:35 03 April 2025)
 -   📺 Watched episode 1 - 50 of [Wan Jie Duzun](https://anilist.co/anime/131929) (20:34 03 April 2025)
 -   📺 Watched episode 1 of [The Brilliant Healer's New Life in the Shadows](https://anilist.co/anime/175872) (18:24 03 April 2025)
--   📺 Watched episode 1 of [WIND BREAKER Season 2](https://anilist.co/anime/178680) (17:46 03 April 2025)
--   📺 Completed [The Daily Life of a Middle-Aged Online Shopper in Another World](https://anilist.co/anime/180292) (14:12 03 April 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
