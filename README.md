@@ -32,7 +32,7 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Watched episode 0 - 10 of [A Certain Scientific Railgun T](https://anilist.co/anime/104462) (14:03 04 April 2025)
+-   📺 Watched episode 0 - 11 of [A Certain Scientific Railgun T](https://anilist.co/anime/104462) (14:42 04 April 2025)
 -   📺 Completed [A Certain Scientific Railgun S](https://anilist.co/anime/16049) (13:51 04 April 2025)
 -   📺 Completed [Wan Jie Duzun](https://anilist.co/anime/131929) (20:35 03 April 2025)
 -   📺 Watched episode 1 - 50 of [Wan Jie Duzun](https://anilist.co/anime/131929) (20:34 03 April 2025)
