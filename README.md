@@ -32,10 +32,10 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 of [Can a Boy-Girl Friendship Survive?](https://anilist.co/anime/153554) (20:07 04 April 2025)
+-   📺 Watched episode 1 of [Fire Force Season 3](https://anilist.co/anime/149118) (20:06 04 April 2025)
 -   📺 Completed [A Certain Scientific Railgun T](https://anilist.co/anime/104462) (15:25 04 April 2025)
 -   📺 Watched episode 0 - 22 of [A Certain Scientific Railgun T](https://anilist.co/anime/104462) (15:24 04 April 2025)
 -   📺 Completed [A Certain Scientific Railgun S](https://anilist.co/anime/16049) (13:51 04 April 2025)
--   📺 Completed [Wan Jie Duzun](https://anilist.co/anime/131929) (20:35 03 April 2025)
--   📺 Watched episode 1 - 50 of [Wan Jie Duzun](https://anilist.co/anime/131929) (20:34 03 April 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
