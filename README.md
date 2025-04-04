@@ -32,10 +32,10 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Watched episode 0 - 11 of [A Certain Scientific Railgun T](https://anilist.co/anime/104462) (14:42 04 April 2025)
+-   📺 Completed [A Certain Scientific Railgun T](https://anilist.co/anime/104462) (15:25 04 April 2025)
+-   📺 Watched episode 0 - 22 of [A Certain Scientific Railgun T](https://anilist.co/anime/104462) (15:24 04 April 2025)
 -   📺 Completed [A Certain Scientific Railgun S](https://anilist.co/anime/16049) (13:51 04 April 2025)
 -   📺 Completed [Wan Jie Duzun](https://anilist.co/anime/131929) (20:35 03 April 2025)
 -   📺 Watched episode 1 - 50 of [Wan Jie Duzun](https://anilist.co/anime/131929) (20:34 03 April 2025)
--   📺 Watched episode 1 of [The Brilliant Healer's New Life in the Shadows](https://anilist.co/anime/175872) (18:24 03 April 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
