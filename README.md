@@ -32,10 +32,10 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Completed [Tamako Market](https://anilist.co/anime/16417) (19:07 05 April 2025)
+-   📺 Watched episode 1 - 9 of [Tamako Market](https://anilist.co/anime/16417) (19:06 05 April 2025)
 -   📺 Watched episode 1095 - 1123 of [ONE PIECE](https://anilist.co/anime/21) (18:28 05 April 2025)
--   📺 Watched episode 1 - 2 of [Tamako Market](https://anilist.co/anime/16417) (17:46 05 April 2025)
 -   📺 Watched episode 1 of [I've Been Killing Slimes For 300 Years And Maxed Out My Level Season 2](https://anilist.co/anime/143337) (16:34 05 April 2025)
 -   📺 Completed [GOBLIN SLAYER II](https://anilist.co/anime/129188) (07:34 05 April 2025)
--   📺 Watched episode 3 - 12 of [GOBLIN SLAYER II](https://anilist.co/anime/129188) (07:34 05 April 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
