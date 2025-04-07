@@ -32,10 +32,10 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 - 5 of [The Apothecary Diaries Season 2](https://anilist.co/anime/176301) (10:56 07 April 2025)
 -   📺 Watched episode 1 of [Yandere Dark Elf: She Chased Me All the Way From Another World!](https://anilist.co/anime/180829) (08:55 07 April 2025)
 -   📺 Watched episode 1 of [Makina-san's a Love Bot?!](https://anilist.co/anime/177509) (08:49 07 April 2025)
 -   📺 Watched episode 1 of [Umamusume: Cinderella Gray](https://anilist.co/anime/180516) (20:22 06 April 2025)
 -   📺 Watched episode 1095 - 1124 of [ONE PIECE](https://anilist.co/anime/21) (19:55 06 April 2025)
--   📺 Watched episode 1 of [From Old Country Bumpkin to Master Swordsman](https://anilist.co/anime/179955) (09:22 06 April 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
