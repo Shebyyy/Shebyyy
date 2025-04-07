@@ -32,7 +32,7 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Watched episode 1 - 7 of [The Apothecary Diaries Season 2](https://anilist.co/anime/176301) (11:44 07 April 2025)
+-   📺 Watched episode 1 - 8 of [The Apothecary Diaries Season 2](https://anilist.co/anime/176301) (12:09 07 April 2025)
 -   📺 Watched episode 1 of [Yandere Dark Elf: She Chased Me All the Way From Another World!](https://anilist.co/anime/180829) (08:55 07 April 2025)
 -   📺 Watched episode 1 of [Makina-san's a Love Bot?!](https://anilist.co/anime/177509) (08:49 07 April 2025)
 -   📺 Watched episode 1 of [Umamusume: Cinderella Gray](https://anilist.co/anime/180516) (20:22 06 April 2025)
