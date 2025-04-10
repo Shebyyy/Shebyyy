@@ -32,10 +32,10 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 - 2 of [WIND BREAKER Season 2](https://anilist.co/anime/178680) (19:51 10 April 2025)
 -   📺 Watched episode 1 - 2 of [The Brilliant Healer's New Life in the Shadows](https://anilist.co/anime/175872) (17:38 10 April 2025)
 -   📺 Completed [Rascal Does Not Dream of a Dreaming Girl](https://anilist.co/anime/104157) (15:53 10 April 2025)
 -   📺 Watched episode 1 - 2 of [The Beginning After the End](https://anilist.co/anime/183161) (01:30 10 April 2025)
 -   📺 Watched episode 1 - 2 of [The Too-Perfect Saint: Tossed Aside by My Fiancé and Sold to Another Kingdom](https://anilist.co/anime/183275) (01:10 10 April 2025)
--   📺 Watched episode 1 of [The Shiunji Family Children](https://anilist.co/anime/174802) (12:21 09 April 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
