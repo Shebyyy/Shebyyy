@@ -32,10 +32,10 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 - 2 of [The Beginning After the End](https://anilist.co/anime/183161) (01:30 10 April 2025)
+-   📺 Watched episode 1 - 2 of [The Too-Perfect Saint: Tossed Aside by My Fiancé and Sold to Another Kingdom](https://anilist.co/anime/183275) (01:10 10 April 2025)
 -   📺 Watched episode 1 of [The Shiunji Family Children](https://anilist.co/anime/174802) (12:21 09 April 2025)
 -   📺 Watched episode 1 - 6 of [Seitokai Yakuindomo Season 2](https://anilist.co/anime/20448) (01:12 09 April 2025)
 -   📺 Watched episode 1 of [Chuuzenji-sensei Mononoke Kougiroku: Sensei ga Nazo wo Toiteshimau kara.](https://anilist.co/anime/182419) (11:55 08 April 2025)
--   📺 Watched episode 1 - 13 of [The Apothecary Diaries Season 2](https://anilist.co/anime/176301) (18:15 07 April 2025)
--   📺 Watched episode 1 of [Yandere Dark Elf: She Chased Me All the Way From Another World!](https://anilist.co/anime/180829) (08:55 07 April 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
