@@ -32,7 +32,7 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Watched episode 1 - 4 of [Kingdom Season 5](https://anilist.co/anime/155227) (15:52 11 April 2025)
+-   📺 Watched episode 1 - 6 of [Kingdom Season 5](https://anilist.co/anime/155227) (16:33 11 April 2025)
 -   📺 Watched episode 1 - 2 of [WIND BREAKER Season 2](https://anilist.co/anime/178680) (19:51 10 April 2025)
 -   📺 Watched episode 1 - 2 of [The Brilliant Healer's New Life in the Shadows](https://anilist.co/anime/175872) (17:38 10 April 2025)
 -   📺 Completed [Rascal Does Not Dream of a Dreaming Girl](https://anilist.co/anime/104157) (15:53 10 April 2025)
