@@ -32,10 +32,10 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 - 2 of [Please Put Them On, Takamine-san](https://anilist.co/anime/179965) (10:51 12 April 2025)
 -   📺 Watched episode 1 - 14 of [The Apothecary Diaries Season 2](https://anilist.co/anime/176301) (10:37 12 April 2025)
 -   📺 Watched episode 1 - 2 of [Fire Force Season 3](https://anilist.co/anime/149118) (04:06 12 April 2025)
 -   📺 Watched episode 1 - 13 of [Kingdom Season 5](https://anilist.co/anime/155227) (18:33 11 April 2025)
 -   📺 Watched episode 1 - 2 of [WIND BREAKER Season 2](https://anilist.co/anime/178680) (19:51 10 April 2025)
--   📺 Watched episode 1 - 2 of [The Brilliant Healer's New Life in the Shadows](https://anilist.co/anime/175872) (17:38 10 April 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
