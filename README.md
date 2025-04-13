@@ -32,10 +32,10 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1095 - 1125 of [ONE PIECE](https://anilist.co/anime/21) (17:20 13 April 2025)
+-   📺 Watched episode 1 - 3 of [The Unaware Atelier Meister](https://anilist.co/anime/183133) (17:02 13 April 2025)
 -   📺 Watched episode 1 - 2 of [Umamusume: Cinderella Gray](https://anilist.co/anime/180516) (16:46 13 April 2025)
 -   📺 Watched episode 1 - 19 of [Cang Yuan Tu 2](https://anilist.co/anime/185719) (09:35 13 April 2025)
 -   📺 Watched episode 1 - 13 of [I Left My A-Rank Party to Help My Former Students Reach the Dungeon Depths!](https://anilist.co/anime/180812) (04:01 13 April 2025)
--   📺 Watched episode 1 - 2 of [From Old Country Bumpkin to Master Swordsman](https://anilist.co/anime/179955) (03:33 13 April 2025)
--   📺 Watched episode 1 - 2 of [I've Been Killing Slimes For 300 Years And Maxed Out My Level Season 2](https://anilist.co/anime/143337) (19:52 12 April 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
