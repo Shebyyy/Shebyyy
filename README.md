@@ -32,10 +32,10 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 - 13 of [I Left My A-Rank Party to Help My Former Students Reach the Dungeon Depths!](https://anilist.co/anime/180812) (04:01 13 April 2025)
+-   📺 Watched episode 1 - 2 of [From Old Country Bumpkin to Master Swordsman](https://anilist.co/anime/179955) (03:33 13 April 2025)
 -   📺 Watched episode 1 - 2 of [I've Been Killing Slimes For 300 Years And Maxed Out My Level Season 2](https://anilist.co/anime/143337) (19:52 12 April 2025)
 -   📺 Watched episode 1 - 2 of [Please Put Them On, Takamine-san](https://anilist.co/anime/179965) (10:51 12 April 2025)
 -   📺 Watched episode 1 - 14 of [The Apothecary Diaries Season 2](https://anilist.co/anime/176301) (10:37 12 April 2025)
--   📺 Watched episode 1 - 2 of [Fire Force Season 3](https://anilist.co/anime/149118) (04:06 12 April 2025)
--   📺 Watched episode 1 - 13 of [Kingdom Season 5](https://anilist.co/anime/155227) (18:33 11 April 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
