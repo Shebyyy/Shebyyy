@@ -32,7 +32,7 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Watched episode 1 of [Aoharu x Machinegun](https://anilist.co/anime/21078) (18:45 14 April 2025)
+-   📺 Watched episode 1 - 2 of [Aoharu x Machinegun](https://anilist.co/anime/21078) (19:09 14 April 2025)
 -   📺 Completed [Touhai: Ura Rate Mahjong Touhai Roku](https://anilist.co/anime/173263) (12:12 14 April 2025)
 -   📺 Watched episode 1 - 25 of [Touhai: Ura Rate Mahjong Touhai Roku](https://anilist.co/anime/173263) (12:12 14 April 2025)
 -   📺 Watched episode 1095 - 1125 of [ONE PIECE](https://anilist.co/anime/21) (17:20 13 April 2025)
