@@ -32,10 +32,10 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Watched episode 1 - 24 of [Touhai: Ura Rate Mahjong Touhai Roku](https://anilist.co/anime/173263) (05:50 14 April 2025)
+-   📺 Completed [Touhai: Ura Rate Mahjong Touhai Roku](https://anilist.co/anime/173263) (12:12 14 April 2025)
+-   📺 Watched episode 1 - 25 of [Touhai: Ura Rate Mahjong Touhai Roku](https://anilist.co/anime/173263) (12:12 14 April 2025)
 -   📺 Watched episode 1095 - 1125 of [ONE PIECE](https://anilist.co/anime/21) (17:20 13 April 2025)
 -   📺 Watched episode 1 - 3 of [The Unaware Atelier Meister](https://anilist.co/anime/183133) (17:02 13 April 2025)
 -   📺 Watched episode 1 - 2 of [Umamusume: Cinderella Gray](https://anilist.co/anime/180516) (16:46 13 April 2025)
--   📺 Watched episode 1 - 19 of [Cang Yuan Tu 2](https://anilist.co/anime/185719) (09:35 13 April 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
