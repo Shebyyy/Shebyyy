@@ -32,10 +32,10 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 - 2 of [Chuuzenji-sensei Mononoke Kougiroku: Sensei ga Nazo wo Toiteshimau kara.](https://anilist.co/anime/182419) (16:07 15 April 2025)
 -   📺 Completed [Aoharu x Machinegun: This is a Battlefield for Beasts!](https://anilist.co/anime/21414) (11:49 15 April 2025)
 -   📺 Watched episode 1 of [Aoharu x Machinegun: This is a Battlefield for Beasts!](https://anilist.co/anime/21414) (11:49 15 April 2025)
 -   📺 Completed [Aoharu x Machinegun](https://anilist.co/anime/21078) (02:28 15 April 2025)
 -   📺 Watched episode 1 - 12 of [Aoharu x Machinegun](https://anilist.co/anime/21078) (02:28 15 April 2025)
--   📺 Completed [Touhai: Ura Rate Mahjong Touhai Roku](https://anilist.co/anime/173263) (12:12 14 April 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
