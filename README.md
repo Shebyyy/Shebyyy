@@ -32,10 +32,10 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 2 of [Steins;Gate](https://anilist.co/anime/9253) (15:17 16 April 2025)
 -   📺 Watched episode 1 - 46 of [Apotheosis 2](https://anilist.co/anime/174703) (01:07 16 April 2025)
 -   📺 Watched episode 1 - 2 of [Chuuzenji-sensei Mononoke Kougiroku: Sensei ga Nazo wo Toiteshimau kara.](https://anilist.co/anime/182419) (16:07 15 April 2025)
 -   📺 Completed [Aoharu x Machinegun: This is a Battlefield for Beasts!](https://anilist.co/anime/21414) (11:49 15 April 2025)
 -   📺 Watched episode 1 of [Aoharu x Machinegun: This is a Battlefield for Beasts!](https://anilist.co/anime/21414) (11:49 15 April 2025)
--   📺 Completed [Aoharu x Machinegun](https://anilist.co/anime/21078) (02:28 15 April 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
