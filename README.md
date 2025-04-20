@@ -32,7 +32,7 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Watched episode 1 - 6 of [Vinland Saga](https://anilist.co/anime/101348) (03:31 20 April 2025)
+-   📺 Watched episode 1 - 8 of [Vinland Saga](https://anilist.co/anime/101348) (04:12 20 April 2025)
 -   📺 Plans to watch [Vinland Saga](https://anilist.co/anime/101348) (02:01 20 April 2025)
 -   📺 Watched episode 1 - 14 of [I Left My A-Rank Party to Help My Former Students Reach the Dungeon Depths!](https://anilist.co/anime/180812) (17:09 19 April 2025)
 -   📺 Watched episode 1 - 3 of [From Old Country Bumpkin to Master Swordsman](https://anilist.co/anime/179955) (16:47 19 April 2025)
