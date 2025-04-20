@@ -32,10 +32,10 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 - 4 of [The Unaware Atelier Meister](https://anilist.co/anime/183133) (16:47 20 April 2025)
 -   📺 Watched episode 1 - 3 of [Umamusume: Cinderella Gray](https://anilist.co/anime/180516) (11:54 20 April 2025)
 -   📺 Watched episode 1 - 13 of [Vinland Saga](https://anilist.co/anime/101348) (10:22 20 April 2025)
 -   📺 Plans to watch [Vinland Saga](https://anilist.co/anime/101348) (02:01 20 April 2025)
 -   📺 Watched episode 1 - 14 of [I Left My A-Rank Party to Help My Former Students Reach the Dungeon Depths!](https://anilist.co/anime/180812) (17:09 19 April 2025)
--   📺 Watched episode 1 - 3 of [From Old Country Bumpkin to Master Swordsman](https://anilist.co/anime/179955) (16:47 19 April 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
