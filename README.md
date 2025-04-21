@@ -32,10 +32,10 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 - 3 of [Chuuzenji-sensei Mononoke Kougiroku: Sensei ga Nazo wo Toiteshimau kara.](https://anilist.co/anime/182419) (19:35 21 April 2025)
 -   📺 Watched episode 1095 - 1126 of [ONE PIECE](https://anilist.co/anime/21) (17:09 20 April 2025)
 -   📺 Watched episode 1 - 4 of [The Unaware Atelier Meister](https://anilist.co/anime/183133) (16:47 20 April 2025)
 -   📺 Watched episode 1 - 3 of [Umamusume: Cinderella Gray](https://anilist.co/anime/180516) (11:54 20 April 2025)
 -   📺 Watched episode 1 - 13 of [Vinland Saga](https://anilist.co/anime/101348) (10:22 20 April 2025)
--   📺 Plans to watch [Vinland Saga](https://anilist.co/anime/101348) (02:01 20 April 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
