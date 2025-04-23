@@ -32,10 +32,10 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 - 4 of [The Beginning After the End](https://anilist.co/anime/183161) (18:46 23 April 2025)
 -   📺 Completed [Nozo x Kimi](https://anilist.co/anime/20804) (17:43 23 April 2025)
 -   📺 Watched episode 1 - 3 of [Nozo x Kimi](https://anilist.co/anime/20804) (17:43 23 April 2025)
 -   📺 Watched episode 1 - 2 of [SHIROHIYO - Reincarnated as a Neglected Noble: Raising My Baby Brother With Memories From My Past Life](https://anilist.co/anime/179541) (17:05 23 April 2025)
 -   📺 Watched episode 1 - 4 of [The Too-Perfect Saint: Tossed Aside by My Fiancé and Sold to Another Kingdom](https://anilist.co/anime/183275) (15:58 23 April 2025)
--   📺 Watched episode 1 - 3 of [Can a Boy-Girl Friendship Survive?](https://anilist.co/anime/153554) (13:45 23 April 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
