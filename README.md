@@ -32,7 +32,7 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Watched episode 1 - 2 of [Can a Boy-Girl Friendship Survive?](https://anilist.co/anime/153554) (02:29 23 April 2025)
+-   📺 Watched episode 1 - 3 of [Can a Boy-Girl Friendship Survive?](https://anilist.co/anime/153554) (13:45 23 April 2025)
 -   📺 Watched episode 1 - 3 of [I've Been Killing Slimes For 300 Years And Maxed Out My Level Season 2](https://anilist.co/anime/143337) (17:07 22 April 2025)
 -   📺 Watched episode 1 - 14 of [Vinland Saga](https://anilist.co/anime/101348) (14:38 22 April 2025)
 -   📺 Watched episode 1 - 14 of [Vinland Saga](https://anilist.co/anime/101348) (14:38 22 April 2025)
