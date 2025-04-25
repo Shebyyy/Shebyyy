@@ -32,10 +32,10 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 - 4 of [Can a Boy-Girl Friendship Survive?](https://anilist.co/anime/153554) (16:14 25 April 2025)
 -   📺 Watched episode 1 - 4 of [WIND BREAKER Season 2](https://anilist.co/anime/178680) (01:38 25 April 2025)
 -   📺 Watched episode 1 - 4 of [The Brilliant Healer's New Life in the Shadows](https://anilist.co/anime/175872) (01:16 25 April 2025)
 -   📺 Watched episode 1 - 4 of [The Beginning After the End](https://anilist.co/anime/183161) (18:46 23 April 2025)
 -   📺 Completed [Nozo x Kimi](https://anilist.co/anime/20804) (17:43 23 April 2025)
--   📺 Watched episode 1 - 3 of [Nozo x Kimi](https://anilist.co/anime/20804) (17:43 23 April 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
