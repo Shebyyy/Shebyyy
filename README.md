@@ -32,10 +32,10 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 - 4 of [Fire Force Season 3](https://anilist.co/anime/149118) (01:27 26 April 2025)
 -   📺 Watched episode 1 - 16 of [The Apothecary Diaries Season 2](https://anilist.co/anime/176301) (01:07 26 April 2025)
 -   📺 Watched episode 1 - 4 of [Can a Boy-Girl Friendship Survive?](https://anilist.co/anime/153554) (16:14 25 April 2025)
 -   📺 Watched episode 1 - 4 of [WIND BREAKER Season 2](https://anilist.co/anime/178680) (01:38 25 April 2025)
 -   📺 Watched episode 1 - 4 of [The Brilliant Healer's New Life in the Shadows](https://anilist.co/anime/175872) (01:16 25 April 2025)
--   📺 Watched episode 1 - 4 of [The Beginning After the End](https://anilist.co/anime/183161) (18:46 23 April 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
