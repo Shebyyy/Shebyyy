@@ -32,10 +32,10 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 - 5 of [The Unaware Atelier Meister](https://anilist.co/anime/183133) (16:48 27 April 2025)
 -   📺 Watched episode 1 - 3 of [SHIROHIYO - Reincarnated as a Neglected Noble: Raising My Baby Brother With Memories From My Past Life](https://anilist.co/anime/179541) (14:25 27 April 2025)
 -   📺 Watched episode 1 - 4 of [Umamusume: Cinderella Gray](https://anilist.co/anime/180516) (08:58 27 April 2025)
 -   📺 Watched episode 1 - 4 of [I'm the Evil Lord of an Intergalactic Empire!](https://anilist.co/anime/183274) (08:36 27 April 2025)
 -   📺 Watched episode 1 - 4 of [To Be Hero X](https://anilist.co/anime/156092) (08:15 27 April 2025)
--   📺 Watched episode 1 - 15 of [I Left My A-Rank Party to Help My Former Students Reach the Dungeon Depths!](https://anilist.co/anime/180812) (02:08 27 April 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
