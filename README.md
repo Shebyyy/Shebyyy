@@ -32,10 +32,10 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 - 2 of [YOUR FORMA](https://anilist.co/anime/167142) (15:02 28 April 2025)
 -   📺 Watched episode 1095 - 1127 of [ONE PIECE](https://anilist.co/anime/21) (17:19 27 April 2025)
 -   📺 Watched episode 1 - 5 of [The Unaware Atelier Meister](https://anilist.co/anime/183133) (16:48 27 April 2025)
 -   📺 Watched episode 1 - 3 of [SHIROHIYO - Reincarnated as a Neglected Noble: Raising My Baby Brother With Memories From My Past Life](https://anilist.co/anime/179541) (14:25 27 April 2025)
 -   📺 Watched episode 1 - 4 of [Umamusume: Cinderella Gray](https://anilist.co/anime/180516) (08:58 27 April 2025)
--   📺 Watched episode 1 - 4 of [I'm the Evil Lord of an Intergalactic Empire!](https://anilist.co/anime/183274) (08:36 27 April 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
