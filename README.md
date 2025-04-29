@@ -32,10 +32,10 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 23 - 84 of [Tunshi Xingkong 4](https://anilist.co/anime/166219) (17:41 29 April 2025)
 -   📺 Plans to watch [Apocalypse Hotel](https://anilist.co/anime/180675) (16:23 29 April 2025)
 -   📺 Watched episode 1 - 4 of [Chuuzenji-sensei Mononoke Kougiroku: Sensei ga Nazo wo Toiteshimau kara.](https://anilist.co/anime/182419) (18:42 28 April 2025)
 -   📺 Watched episode 1 - 2 of [YOUR FORMA](https://anilist.co/anime/167142) (15:02 28 April 2025)
 -   📺 Watched episode 1095 - 1127 of [ONE PIECE](https://anilist.co/anime/21) (17:19 27 April 2025)
--   📺 Watched episode 1 - 5 of [The Unaware Atelier Meister](https://anilist.co/anime/183133) (16:48 27 April 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
