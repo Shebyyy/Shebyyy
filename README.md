@@ -32,10 +32,10 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 - 5 of [The Beginning After the End](https://anilist.co/anime/183161) (18:14 30 April 2025)
 -   📺 Watched episode 1 - 5 of [The Too-Perfect Saint: Tossed Aside by My Fiancé and Sold to Another Kingdom](https://anilist.co/anime/183275) (17:22 30 April 2025)
 -   📺 Watched episode 23 - 84 of [Tunshi Xingkong 4](https://anilist.co/anime/166219) (17:41 29 April 2025)
 -   📺 Plans to watch [Apocalypse Hotel](https://anilist.co/anime/180675) (16:23 29 April 2025)
 -   📺 Watched episode 1 - 4 of [Chuuzenji-sensei Mononoke Kougiroku: Sensei ga Nazo wo Toiteshimau kara.](https://anilist.co/anime/182419) (18:42 28 April 2025)
--   📺 Watched episode 1 - 2 of [YOUR FORMA](https://anilist.co/anime/167142) (15:02 28 April 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
