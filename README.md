@@ -32,10 +32,10 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 - 5 of [WIND BREAKER Season 2](https://anilist.co/anime/178680) (18:33 01 May 2025)
 -   📺 Completed [OVERLORD: The Sacred Kingdom](https://anilist.co/anime/133845) (18:10 01 May 2025)
 -   📺 Watched episode 1 - 5 of [The Brilliant Healer's New Life in the Shadows](https://anilist.co/anime/175872) (15:53 01 May 2025)
 -   📺 Watched episode 1 - 5 of [The Beginning After the End](https://anilist.co/anime/183161) (18:14 30 April 2025)
 -   📺 Watched episode 1 - 5 of [The Too-Perfect Saint: Tossed Aside by My Fiancé and Sold to Another Kingdom](https://anilist.co/anime/183275) (17:22 30 April 2025)
--   📺 Watched episode 23 - 84 of [Tunshi Xingkong 4](https://anilist.co/anime/166219) (17:41 29 April 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
