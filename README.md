@@ -32,7 +32,7 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Watched episode 1 - 7 of [Castle Town Dandelion](https://anilist.co/anime/20951) (21:16 01 May 2025)
+-   📺 Watched episode 1 - 8 of [Castle Town Dandelion](https://anilist.co/anime/20951) (21:39 01 May 2025)
 -   📺 Watched episode 1 - 5 of [WIND BREAKER Season 2](https://anilist.co/anime/178680) (18:33 01 May 2025)
 -   📺 Completed [OVERLORD: The Sacred Kingdom](https://anilist.co/anime/133845) (18:10 01 May 2025)
 -   📺 Watched episode 1 - 5 of [The Brilliant Healer's New Life in the Shadows](https://anilist.co/anime/175872) (15:53 01 May 2025)
