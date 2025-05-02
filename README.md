@@ -32,10 +32,10 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 - 17 of [The Apothecary Diaries Season 2](https://anilist.co/anime/176301) (19:04 02 May 2025)
 -   📺 Watched episode 1 of [Shen Yin Wangzuo 3](https://anilist.co/anime/185729) (09:35 02 May 2025)
 -   📺 Completed [Shen Yin Wangzuo 2](https://anilist.co/anime/153499) (09:34 02 May 2025)
 -   📺 Completed [Outbreak Company](https://anilist.co/anime/19369) (09:02 02 May 2025)
 -   📺 Watched episode 8 - 12 of [Outbreak Company](https://anilist.co/anime/19369) (09:02 02 May 2025)
--   📺 Completed [Castle Town Dandelion](https://anilist.co/anime/20951) (03:47 02 May 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
