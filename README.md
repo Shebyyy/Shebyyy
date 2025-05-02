@@ -32,10 +32,10 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Watched episode 8 - 11 of [Outbreak Company](https://anilist.co/anime/19369) (08:21 02 May 2025)
+-   📺 Completed [Outbreak Company](https://anilist.co/anime/19369) (09:02 02 May 2025)
+-   📺 Watched episode 8 - 12 of [Outbreak Company](https://anilist.co/anime/19369) (09:02 02 May 2025)
 -   📺 Completed [Castle Town Dandelion](https://anilist.co/anime/20951) (03:47 02 May 2025)
 -   📺 Watched episode 1 - 12 of [Castle Town Dandelion](https://anilist.co/anime/20951) (03:47 02 May 2025)
 -   📺 Watched episode 1 - 5 of [WIND BREAKER Season 2](https://anilist.co/anime/178680) (18:33 01 May 2025)
--   📺 Completed [OVERLORD: The Sacred Kingdom](https://anilist.co/anime/133845) (18:10 01 May 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
