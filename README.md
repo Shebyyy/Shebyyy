@@ -32,10 +32,10 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 - 5 of [Can a Boy-Girl Friendship Survive?](https://anilist.co/anime/153554) (12:28 03 May 2025)
 -   📺 Watched episode 1 - 5 of [Fire Force Season 3](https://anilist.co/anime/149118) (19:24 02 May 2025)
 -   📺 Watched episode 1 - 17 of [The Apothecary Diaries Season 2](https://anilist.co/anime/176301) (19:04 02 May 2025)
 -   📺 Watched episode 1 of [Shen Yin Wangzuo 3](https://anilist.co/anime/185729) (09:35 02 May 2025)
 -   📺 Completed [Shen Yin Wangzuo 2](https://anilist.co/anime/153499) (09:34 02 May 2025)
--   📺 Completed [Outbreak Company](https://anilist.co/anime/19369) (09:02 02 May 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
