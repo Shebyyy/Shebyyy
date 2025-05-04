@@ -32,7 +32,7 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Watched episode 1 - 8 of [SHOSHIMIN: How to Become Ordinary](https://anilist.co/anime/173295) (11:53 04 May 2025)
+-   📺 Watched episode 1 - 9 of [SHOSHIMIN: How to Become Ordinary](https://anilist.co/anime/173295) (13:42 04 May 2025)
 -   📺 Watched episode 1 - 5 of [Umamusume: Cinderella Gray](https://anilist.co/anime/180516) (09:25 04 May 2025)
 -   📺 Watched episode 1 - 5 of [I'm the Evil Lord of an Intergalactic Empire!](https://anilist.co/anime/183274) (02:59 04 May 2025)
 -   📺 Watched episode 1 - 16 of [I Left My A-Rank Party to Help My Former Students Reach the Dungeon Depths!](https://anilist.co/anime/180812) (02:40 04 May 2025)
