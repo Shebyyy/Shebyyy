@@ -32,10 +32,10 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 - 2 of [SHOSHIMIN: How to become Ordinary Season 2](https://anilist.co/anime/181182) (15:19 04 May 2025)
 -   📺 Watched episode 1 - 4 of [SHIROHIYO - Reincarnated as a Neglected Noble: Raising My Baby Brother With Memories From My Past Life](https://anilist.co/anime/179541) (14:31 04 May 2025)
 -   📺 Plans to watch [SHOSHIMIN: How to become Ordinary Season 2](https://anilist.co/anime/181182) (14:08 04 May 2025)
 -   📺 Completed [SHOSHIMIN: How to Become Ordinary](https://anilist.co/anime/173295) (14:08 04 May 2025)
 -   📺 Watched episode 1 - 10 of [SHOSHIMIN: How to Become Ordinary](https://anilist.co/anime/173295) (14:08 04 May 2025)
--   📺 Watched episode 1 - 5 of [Umamusume: Cinderella Gray](https://anilist.co/anime/180516) (09:25 04 May 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
