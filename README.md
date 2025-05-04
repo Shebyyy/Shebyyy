@@ -32,10 +32,10 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 - 3 of [SHOSHIMIN: How to Become Ordinary](https://anilist.co/anime/173295) (09:46 04 May 2025)
 -   📺 Watched episode 1 - 5 of [Umamusume: Cinderella Gray](https://anilist.co/anime/180516) (09:25 04 May 2025)
 -   📺 Watched episode 1 - 5 of [I'm the Evil Lord of an Intergalactic Empire!](https://anilist.co/anime/183274) (02:59 04 May 2025)
 -   📺 Watched episode 1 - 16 of [I Left My A-Rank Party to Help My Former Students Reach the Dungeon Depths!](https://anilist.co/anime/180812) (02:40 04 May 2025)
 -   📺 Watched episode 1 - 5 of [From Old Country Bumpkin to Master Swordsman](https://anilist.co/anime/179955) (02:20 04 May 2025)
--   📺 Watched episode 1 - 5 of [I've Been Killing Slimes For 300 Years And Maxed Out My Level Season 2](https://anilist.co/anime/143337) (14:52 03 May 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
