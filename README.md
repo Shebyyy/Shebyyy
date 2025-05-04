@@ -32,7 +32,7 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Watched episode 1 - 4 of [SHOSHIMIN: How to become Ordinary Season 2](https://anilist.co/anime/181182) (18:03 04 May 2025)
+-   📺 Watched episode 1 - 5 of [SHOSHIMIN: How to become Ordinary Season 2](https://anilist.co/anime/181182) (18:24 04 May 2025)
 -   📺 Watched episode 1095 - 1128 of [ONE PIECE](https://anilist.co/anime/21) (17:05 04 May 2025)
 -   📺 Watched episode 1 - 6 of [The Unaware Atelier Meister](https://anilist.co/anime/183133) (16:43 04 May 2025)
 -   📺 Watched episode 1 - 4 of [SHIROHIYO - Reincarnated as a Neglected Noble: Raising My Baby Brother With Memories From My Past Life](https://anilist.co/anime/179541) (14:31 04 May 2025)
