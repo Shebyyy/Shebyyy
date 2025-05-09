@@ -32,10 +32,10 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 - 6 of [The Brilliant Healer's New Life in the Shadows](https://anilist.co/anime/175872) (08:57 09 May 2025)
 -   📺 Watched episode 1 - 166 of [Xianwu Dizun](https://anilist.co/anime/132472) (15:25 06 May 2025)
 -   📺 Watched episode 1 - 5 of [Chuuzenji-sensei Mononoke Kougiroku: Sensei ga Nazo wo Toiteshimau kara.](https://anilist.co/anime/182419) (01:27 06 May 2025)
 -   📺 Plans to watch [Yofukashi no Uta Season 2](https://anilist.co/anime/175914) (16:36 05 May 2025)
 -   📺 Watched episode 1 - 2 of [SPY x FAMILY Season 2](https://anilist.co/anime/158927) (10:34 05 May 2025)
--   📺 Watched episode 1 - 5 of [To Be Hero X](https://anilist.co/anime/156092) (08:09 05 May 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
