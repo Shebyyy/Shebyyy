@@ -32,10 +32,10 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 - 6 of [The Beginning After the End](https://anilist.co/anime/183161) (16:11 09 May 2025)
 -   📺 Watched episode 1 - 6 of [WIND BREAKER Season 2](https://anilist.co/anime/178680) (15:40 09 May 2025)
 -   📺 Watched episode 1 - 6 of [The Too-Perfect Saint: Tossed Aside by My Fiancé and Sold to Another Kingdom](https://anilist.co/anime/183275) (15:15 09 May 2025)
 -   📺 Watched episode 1 - 6 of [The Brilliant Healer's New Life in the Shadows](https://anilist.co/anime/175872) (08:57 09 May 2025)
 -   📺 Watched episode 1 - 166 of [Xianwu Dizun](https://anilist.co/anime/132472) (15:25 06 May 2025)
--   📺 Watched episode 1 - 5 of [Chuuzenji-sensei Mononoke Kougiroku: Sensei ga Nazo wo Toiteshimau kara.](https://anilist.co/anime/182419) (01:27 06 May 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
