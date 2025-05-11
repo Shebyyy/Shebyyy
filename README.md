@@ -32,10 +32,10 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 - 2 of [The Gorilla God’s Go-To Girl](https://anilist.co/anime/182060) (18:38 11 May 2025)
 -   📺 Watched episode 1 - 7 of [The Unaware Atelier Meister](https://anilist.co/anime/183133) (15:24 11 May 2025)
 -   📺 Watched episode 1 - 5 of [SHIROHIYO - Reincarnated as a Neglected Noble: Raising My Baby Brother With Memories From My Past Life](https://anilist.co/anime/179541) (12:29 11 May 2025)
 -   📺 Watched episode 1 - 6 of [To Be Hero X](https://anilist.co/anime/156092) (10:32 11 May 2025)
 -   📺 Watched episode 1 - 6 of [Umamusume: Cinderella Gray](https://anilist.co/anime/180516) (09:24 11 May 2025)
--   📺 Watched episode 1 - 6 of [Fire Force Season 3](https://anilist.co/anime/149118) (09:02 11 May 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
