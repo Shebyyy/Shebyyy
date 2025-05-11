@@ -32,10 +32,10 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 - 6 of [To Be Hero X](https://anilist.co/anime/156092) (10:32 11 May 2025)
 -   📺 Watched episode 1 - 6 of [Umamusume: Cinderella Gray](https://anilist.co/anime/180516) (09:24 11 May 2025)
 -   📺 Watched episode 1 - 6 of [Fire Force Season 3](https://anilist.co/anime/149118) (09:02 11 May 2025)
 -   📺 Watched episode 1 - 6 of [SHOSHIMIN: How to become Ordinary Season 2](https://anilist.co/anime/181182) (08:16 11 May 2025)
 -   📺 Watched episode 1 - 6 of [I've Been Killing Slimes For 300 Years And Maxed Out My Level Season 2](https://anilist.co/anime/143337) (03:28 11 May 2025)
--   📺 Watched episode 1 - 6 of [I'm the Evil Lord of an Intergalactic Empire!](https://anilist.co/anime/183274) (03:04 11 May 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
