@@ -32,10 +32,10 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 - 6 of [I'm the Evil Lord of an Intergalactic Empire!](https://anilist.co/anime/183274) (03:04 11 May 2025)
+-   📺 Watched episode 1 - 17 of [I Left My A-Rank Party to Help My Former Students Reach the Dungeon Depths!](https://anilist.co/anime/180812) (02:43 11 May 2025)
+-   📺 Watched episode 1 - 6 of [From Old Country Bumpkin to Master Swordsman](https://anilist.co/anime/179955) (02:18 11 May 2025)
 -   📺 Watched episode 1 - 5 of [Our Last Crusade or the Rise of a New World Season 2](https://anilist.co/anime/139825) (16:30 09 May 2025)
 -   📺 Watched episode 1 - 6 of [The Beginning After the End](https://anilist.co/anime/183161) (16:11 09 May 2025)
--   📺 Watched episode 1 - 6 of [WIND BREAKER Season 2](https://anilist.co/anime/178680) (15:40 09 May 2025)
--   📺 Watched episode 1 - 6 of [The Too-Perfect Saint: Tossed Aside by My Fiancé and Sold to Another Kingdom](https://anilist.co/anime/183275) (15:15 09 May 2025)
--   📺 Watched episode 1 - 6 of [The Brilliant Healer's New Life in the Shadows](https://anilist.co/anime/175872) (08:57 09 May 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
