@@ -32,10 +32,10 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 - 41 of [Dou Po Cangqiong: Nian Fan 3](https://anilist.co/anime/168164) (01:17 13 May 2025)
+-   📺 Watched episode 42 - 53 of [Dou Po Cangqiong: Nian Fan 2](https://anilist.co/anime/168163) (01:17 13 May 2025)
 -   📺 Watched episode 1 - 305 of [Xianwu Dizun](https://anilist.co/anime/132472) (08:10 12 May 2025)
 -   📺 Watched episode 1 - 6 of [The Gorilla God’s Go-To Girl](https://anilist.co/anime/182060) (20:03 11 May 2025)
 -   📺 Watched episode 1 - 7 of [The Unaware Atelier Meister](https://anilist.co/anime/183133) (15:24 11 May 2025)
--   📺 Watched episode 1 - 5 of [SHIROHIYO - Reincarnated as a Neglected Noble: Raising My Baby Brother With Memories From My Past Life](https://anilist.co/anime/179541) (12:29 11 May 2025)
--   📺 Watched episode 1 - 6 of [To Be Hero X](https://anilist.co/anime/156092) (10:32 11 May 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
