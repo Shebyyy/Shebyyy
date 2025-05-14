@@ -32,10 +32,10 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 - 18 of [The Apothecary Diaries Season 2](https://anilist.co/anime/176301) (01:51 14 May 2025)
+-   📺 Watched episode 1 - 6 of [Can a Boy-Girl Friendship Survive?](https://anilist.co/anime/153554) (01:30 14 May 2025)
 -   📺 Watched episode 1 - 6 of [Chuuzenji-sensei Mononoke Kougiroku: Sensei ga Nazo wo Toiteshimau kara.](https://anilist.co/anime/182419) (14:15 13 May 2025)
 -   📺 Watched episode 1 - 41 of [Dou Po Cangqiong: Nian Fan 3](https://anilist.co/anime/168164) (01:17 13 May 2025)
 -   📺 Watched episode 42 - 53 of [Dou Po Cangqiong: Nian Fan 2](https://anilist.co/anime/168163) (01:17 13 May 2025)
--   📺 Watched episode 1 - 305 of [Xianwu Dizun](https://anilist.co/anime/132472) (08:10 12 May 2025)
--   📺 Watched episode 1 - 6 of [The Gorilla God’s Go-To Girl](https://anilist.co/anime/182060) (20:03 11 May 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
