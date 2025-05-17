@@ -32,10 +32,10 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 - 7 of [Fire Force Season 3](https://anilist.co/anime/149118) (01:38 17 May 2025)
 -   📺 Watched episode 1 - 100 of [Soul Land 2: The Peerless Tang Clan](https://anilist.co/anime/137683) (14:48 16 May 2025)
 -   📺 Watched episode 1 - 7 of [WIND BREAKER Season 2](https://anilist.co/anime/178680) (18:00 15 May 2025)
 -   📺 Watched episode 1 - 7 of [The Brilliant Healer's New Life in the Shadows](https://anilist.co/anime/175872) (16:10 15 May 2025)
 -   📺 Watched episode 1 - 4 of [Unnamed Memory Season 2](https://anilist.co/anime/178550) (13:55 15 May 2025)
--   📺 Watched episode 1 - 7 of [The Beginning After the End](https://anilist.co/anime/183161) (18:38 14 May 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
