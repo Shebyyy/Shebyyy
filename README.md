@@ -32,10 +32,10 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 - 7 of [Umamusume: Cinderella Gray](https://anilist.co/anime/180516) (10:31 18 May 2025)
 -   📺 Watched episode 1 - 7 of [I'm the Evil Lord of an Intergalactic Empire!](https://anilist.co/anime/183274) (09:46 18 May 2025)
 -   📺 Watched episode 1 - 18 of [I Left My A-Rank Party to Help My Former Students Reach the Dungeon Depths!](https://anilist.co/anime/180812) (02:11 18 May 2025)
 -   📺 Watched episode 1 - 7 of [From Old Country Bumpkin to Master Swordsman](https://anilist.co/anime/179955) (01:46 18 May 2025)
 -   📺 Watched episode 1 - 7 of [Fire Force Season 3](https://anilist.co/anime/149118) (01:38 17 May 2025)
--   📺 Watched episode 1 - 100 of [Soul Land 2: The Peerless Tang Clan](https://anilist.co/anime/137683) (14:48 16 May 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
