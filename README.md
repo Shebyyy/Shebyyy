@@ -32,10 +32,10 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Completed [0-saiji Start Dash Monogatari Season 2](https://anilist.co/anime/185462) (06:38 19 May 2025)
+-   📺 Watched episode 1 - 12 of [0-saiji Start Dash Monogatari Season 2](https://anilist.co/anime/185462) (06:38 19 May 2025)
 -   📺 Watched episode 1 - 101 of [Soul Land 2: The Peerless Tang Clan](https://anilist.co/anime/137683) (03:43 19 May 2025)
 -   📺 Watched episode 1 - 7 of [The Gorilla God’s Go-To Girl](https://anilist.co/anime/182060) (18:36 18 May 2025)
 -   📺 Watched episode 1095 - 1129 of [ONE PIECE](https://anilist.co/anime/21) (18:25 18 May 2025)
--   📺 Watched episode 1 - 6 of [SHIROHIYO - Reincarnated as a Neglected Noble: Raising My Baby Brother With Memories From My Past Life](https://anilist.co/anime/179541) (17:19 18 May 2025)
--   📺 Watched episode 1 - 8 of [The Unaware Atelier Meister](https://anilist.co/anime/183133) (16:57 18 May 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
