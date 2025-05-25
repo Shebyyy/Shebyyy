@@ -32,10 +32,10 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 - 8 of [The Gorilla God’s Go-To Girl](https://anilist.co/anime/182060) (17:38 25 May 2025)
 -   📺 Watched episode 1095 - 1130 of [ONE PIECE](https://anilist.co/anime/21) (17:28 25 May 2025)
 -   📺 Watched episode 1 - 9 of [The Unaware Atelier Meister](https://anilist.co/anime/183133) (17:12 25 May 2025)
 -   📺 Watched episode 1 - 7 of [SHIROHIYO - Reincarnated as a Neglected Noble: Raising My Baby Brother With Memories From My Past Life](https://anilist.co/anime/179541) (16:54 25 May 2025)
 -   📺 Watched episode 1 - 8 of [Umamusume: Cinderella Gray](https://anilist.co/anime/180516) (10:14 25 May 2025)
--   📺 Watched episode 1 - 19 of [I Left My A-Rank Party to Help My Former Students Reach the Dungeon Depths!](https://anilist.co/anime/180812) (03:19 25 May 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
