@@ -32,10 +32,10 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 - 19 of [I Left My A-Rank Party to Help My Former Students Reach the Dungeon Depths!](https://anilist.co/anime/180812) (03:19 25 May 2025)
+-   📺 Watched episode 1 - 8 of [I'm the Evil Lord of an Intergalactic Empire!](https://anilist.co/anime/183274) (02:59 25 May 2025)
+-   📺 Watched episode 1 - 8 of [From Old Country Bumpkin to Master Swordsman](https://anilist.co/anime/179955) (02:33 25 May 2025)
 -   📺 Watched episode 1 - 19 of [The Apothecary Diaries Season 2](https://anilist.co/anime/176301) (12:28 24 May 2025)
 -   📺 Watched episode 1 - 8 of [Fire Force Season 3](https://anilist.co/anime/149118) (11:51 24 May 2025)
--   📺 Watched episode 1 - 2 of [Shen Yin Wangzuo 3](https://anilist.co/anime/185729) (16:40 23 May 2025)
--   📺 Plans to watch [Mirage QUEEN Prefers Circus](https://anilist.co/anime/140765) (11:33 23 May 2025)
--   📺 Watched episode 1 - 8 of [WIND BREAKER Season 2](https://anilist.co/anime/178680) (01:55 23 May 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
