@@ -32,10 +32,10 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 - 9 of [The Too-Perfect Saint: Tossed Aside by My Fiancé and Sold to Another Kingdom](https://anilist.co/anime/183275) (17:22 28 May 2025)
 -   📺 Watched episode 3 - 6 of [Bottom-Tier Character Tomozaki 2nd Stage](https://anilist.co/anime/143866) (20:02 27 May 2025)
 -   📺 Watched episode 1 - 8 of [Chuuzenji-sensei Mononoke Kougiroku: Sensei ga Nazo wo Toiteshimau kara.](https://anilist.co/anime/182419) (01:45 27 May 2025)
 -   📺 Plans to watch [Aoashi 2nd Season](https://anilist.co/anime/191788) (12:39 26 May 2025)
 -   📺 Watched episode 1 - 8 of [The Gorilla God’s Go-To Girl](https://anilist.co/anime/182060) (17:38 25 May 2025)
--   📺 Watched episode 1095 - 1130 of [ONE PIECE](https://anilist.co/anime/21) (17:28 25 May 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
