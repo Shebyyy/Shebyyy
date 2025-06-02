@@ -32,10 +32,10 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 - 8 of [SHIROHIYO - Reincarnated as a Neglected Noble: Raising My Baby Brother With Memories From My Past Life](https://anilist.co/anime/179541) (04:51 02 June 2025)
 -   📺 Watched episode 1 - 9 of [Umamusume: Cinderella Gray](https://anilist.co/anime/180516) (04:25 02 June 2025)
 -   📺 Watched episode 1 - 8 of [SHOSHIMIN: How to become Ordinary Season 2](https://anilist.co/anime/181182) (07:39 01 June 2025)
 -   📺 Watched episode 1 - 9 of [I'm the Evil Lord of an Intergalactic Empire!](https://anilist.co/anime/183274) (20:08 31 May 2025)
 -   📺 Watched episode 1 - 20 of [I Left My A-Rank Party to Help My Former Students Reach the Dungeon Depths!](https://anilist.co/anime/180812) (19:40 31 May 2025)
--   📺 Watched episode 1 - 9 of [From Old Country Bumpkin to Master Swordsman](https://anilist.co/anime/179955) (19:19 31 May 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
