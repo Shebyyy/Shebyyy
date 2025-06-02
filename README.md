@@ -32,10 +32,10 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 - 9 of [Chuuzenji-sensei Mononoke Kougiroku: Sensei ga Nazo wo Toiteshimau kara.](https://anilist.co/anime/182419) (19:23 02 June 2025)
 -   📺 Watched episode 1 - 20 of [The Apothecary Diaries Season 2](https://anilist.co/anime/176301) (16:12 02 June 2025)
 -   📺 Watched episode 1095 - 1131 of [ONE PIECE](https://anilist.co/anime/21) (06:07 02 June 2025)
 -   📺 Watched episode 1 - 10 of [The Unaware Atelier Meister](https://anilist.co/anime/183133) (05:36 02 June 2025)
 -   📺 Watched episode 1 - 8 of [SHIROHIYO - Reincarnated as a Neglected Noble: Raising My Baby Brother With Memories From My Past Life](https://anilist.co/anime/179541) (04:51 02 June 2025)
--   📺 Watched episode 1 - 9 of [Umamusume: Cinderella Gray](https://anilist.co/anime/180516) (04:25 02 June 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
