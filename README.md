@@ -32,7 +32,7 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Watched episode 1 of [SKET Dance](https://anilist.co/anime/9863) (17:27 03 June 2025)
+-   📺 Watched episode 1 - 2 of [SKET Dance](https://anilist.co/anime/9863) (17:56 03 June 2025)
 -   📺 Plans to watch [SKET Dance](https://anilist.co/anime/9863) (17:03 03 June 2025)
 -   📺 Plans to watch [WITCH WATCH](https://anilist.co/anime/180367) (15:17 03 June 2025)
 -   📺 Watched episode 1 - 9 of [Chuuzenji-sensei Mononoke Kougiroku: Sensei ga Nazo wo Toiteshimau kara.](https://anilist.co/anime/182419) (19:23 02 June 2025)
