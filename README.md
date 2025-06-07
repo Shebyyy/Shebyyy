@@ -32,10 +32,10 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 - 10 of [Fire Force Season 3](https://anilist.co/anime/149118) (16:00 07 June 2025)
 -   📺 Watched episode 1 - 10 of [WIND BREAKER Season 2](https://anilist.co/anime/178680) (16:06 06 June 2025)
 -   📺 Watched episode 1 - 10 of [The Beginning After the End](https://anilist.co/anime/183161) (19:06 04 June 2025)
 -   📺 Watched episode 1 - 10 of [The Too-Perfect Saint: Tossed Aside by My Fiancé and Sold to Another Kingdom](https://anilist.co/anime/183275) (17:32 04 June 2025)
 -   📺 Watched episode 1 - 2 of [SKET Dance](https://anilist.co/anime/9863) (17:56 03 June 2025)
--   📺 Plans to watch [SKET Dance](https://anilist.co/anime/9863) (17:03 03 June 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
