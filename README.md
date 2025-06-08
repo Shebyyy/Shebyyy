@@ -32,10 +32,10 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 - 21 of [I Left My A-Rank Party to Help My Former Students Reach the Dungeon Depths!](https://anilist.co/anime/180812) (11:16 08 June 2025)
+-   📺 Watched episode 1 - 10 of [I'm the Evil Lord of an Intergalactic Empire!](https://anilist.co/anime/183274) (11:16 08 June 2025)
+-   📺 Watched episode 1 - 10 of [Umamusume: Cinderella Gray](https://anilist.co/anime/180516) (11:16 08 June 2025)
 -   📺 Watched episode 1 - 10 of [From Old Country Bumpkin to Master Swordsman](https://anilist.co/anime/179955) (17:12 07 June 2025)
 -   📺 Watched episode 1 - 10 of [Fire Force Season 3](https://anilist.co/anime/149118) (16:00 07 June 2025)
--   📺 Watched episode 1 - 10 of [WIND BREAKER Season 2](https://anilist.co/anime/178680) (16:06 06 June 2025)
--   📺 Watched episode 1 - 10 of [The Beginning After the End](https://anilist.co/anime/183161) (19:06 04 June 2025)
--   📺 Watched episode 1 - 10 of [The Too-Perfect Saint: Tossed Aside by My Fiancé and Sold to Another Kingdom](https://anilist.co/anime/183275) (17:32 04 June 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
