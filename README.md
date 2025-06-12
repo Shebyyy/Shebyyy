@@ -32,10 +32,10 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 - 11 of [The Beginning After the End](https://anilist.co/anime/183161) (10:35 12 June 2025)
 -   📺 Watched episode 1 - 11 of [The Too-Perfect Saint: Tossed Aside by My Fiancé and Sold to Another Kingdom](https://anilist.co/anime/183275) (09:51 12 June 2025)
 -   📺 Watched episode 1095 - 1132 of [ONE PIECE](https://anilist.co/anime/21) (08:13 09 June 2025)
 -   📺 Watched episode 1 - 3 of [SKET Dance](https://anilist.co/anime/9863) (18:23 08 June 2025)
 -   📺 Watched episode 1 - 11 of [The Unaware Atelier Meister](https://anilist.co/anime/183133) (15:46 08 June 2025)
--   📺 Watched episode 1 - 9 of [SHIROHIYO - Reincarnated as a Neglected Noble: Raising My Baby Brother With Memories From My Past Life](https://anilist.co/anime/179541) (15:46 08 June 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
