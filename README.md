@@ -32,10 +32,10 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 - 11 of [Umamusume: Cinderella Gray](https://anilist.co/anime/180516) (21:40 15 June 2025)
 -   📺 Watched episode 1 - 11 of [The Brilliant Healer's New Life in the Shadows](https://anilist.co/anime/175872) (01:40 13 June 2025)
 -   📺 Watched episode 1 - 11 of [WIND BREAKER Season 2](https://anilist.co/anime/178680) (01:21 13 June 2025)
 -   📺 Watched episode 1 - 11 of [The Beginning After the End](https://anilist.co/anime/183161) (10:35 12 June 2025)
 -   📺 Watched episode 1 - 11 of [The Too-Perfect Saint: Tossed Aside by My Fiancé and Sold to Another Kingdom](https://anilist.co/anime/183275) (09:51 12 June 2025)
--   📺 Watched episode 1095 - 1132 of [ONE PIECE](https://anilist.co/anime/21) (08:13 09 June 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
