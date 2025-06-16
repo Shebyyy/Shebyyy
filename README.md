@@ -32,10 +32,10 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Completed [The Unaware Atelier Meister](https://anilist.co/anime/183133) (08:09 16 June 2025)
+-   📺 Watched episode 1 - 12 of [The Unaware Atelier Meister](https://anilist.co/anime/183133) (08:09 16 June 2025)
 -   📺 Watched episode 1 - 10 of [SHIROHIYO - Reincarnated as a Neglected Noble: Raising My Baby Brother With Memories From My Past Life](https://anilist.co/anime/179541) (22:01 15 June 2025)
 -   📺 Watched episode 1 - 11 of [Umamusume: Cinderella Gray](https://anilist.co/anime/180516) (21:40 15 June 2025)
 -   📺 Watched episode 1 - 11 of [The Brilliant Healer's New Life in the Shadows](https://anilist.co/anime/175872) (01:40 13 June 2025)
--   📺 Watched episode 1 - 11 of [WIND BREAKER Season 2](https://anilist.co/anime/178680) (01:21 13 June 2025)
--   📺 Watched episode 1 - 11 of [The Beginning After the End](https://anilist.co/anime/183161) (10:35 12 June 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
