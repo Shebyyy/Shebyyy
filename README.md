@@ -32,10 +32,10 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Completed [The Too-Perfect Saint: Tossed Aside by My Fiancé and Sold to Another Kingdom](https://anilist.co/anime/183275) (16:48 18 June 2025)
+-   📺 Watched episode 1 - 12 of [The Too-Perfect Saint: Tossed Aside by My Fiancé and Sold to Another Kingdom](https://anilist.co/anime/183275) (16:47 18 June 2025)
 -   📺 Watched episode 1 - 11 of [I'm the Evil Lord of an Intergalactic Empire!](https://anilist.co/anime/183274) (10:14 18 June 2025)
 -   📺 Watched episode 1 - 11 of [Fire Force Season 3](https://anilist.co/anime/149118) (09:06 18 June 2025)
 -   📺 Watched episode 1 - 11 of [From Old Country Bumpkin to Master Swordsman](https://anilist.co/anime/179955) (08:23 18 June 2025)
--   📺 Watched episode 1095 - 1133 of [ONE PIECE](https://anilist.co/anime/21) (08:57 16 June 2025)
--   📺 Completed [The Unaware Atelier Meister](https://anilist.co/anime/183133) (08:09 16 June 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
