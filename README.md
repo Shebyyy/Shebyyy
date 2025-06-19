@@ -32,10 +32,10 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Completed [WIND BREAKER Season 2](https://anilist.co/anime/178680) (18:26 19 June 2025)
+-   📺 Watched episode 1 - 12 of [WIND BREAKER Season 2](https://anilist.co/anime/178680) (18:26 19 June 2025)
+-   📺 Completed [The Brilliant Healer's New Life in the Shadows](https://anilist.co/anime/175872) (18:01 19 June 2025)
+-   📺 Watched episode 1 - 12 of [The Brilliant Healer's New Life in the Shadows](https://anilist.co/anime/175872) (18:01 19 June 2025)
 -   📺 Completed [The Beginning After the End](https://anilist.co/anime/183161) (18:25 18 June 2025)
--   📺 Watched episode 1 - 12 of [The Beginning After the End](https://anilist.co/anime/183161) (18:25 18 June 2025)
--   📺 Completed [The Too-Perfect Saint: Tossed Aside by My Fiancé and Sold to Another Kingdom](https://anilist.co/anime/183275) (16:48 18 June 2025)
--   📺 Watched episode 1 - 12 of [The Too-Perfect Saint: Tossed Aside by My Fiancé and Sold to Another Kingdom](https://anilist.co/anime/183275) (16:47 18 June 2025)
--   📺 Watched episode 1 - 11 of [I'm the Evil Lord of an Intergalactic Empire!](https://anilist.co/anime/183274) (10:14 18 June 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
