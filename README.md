@@ -32,10 +32,10 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Plans to watch [Fire Force Season 3 Part 2](https://anilist.co/anime/179062) (01:31 21 June 2025)
+-   📺 Completed [Fire Force Season 3](https://anilist.co/anime/149118) (01:31 21 June 2025)
+-   📺 Watched episode 1 - 12 of [Fire Force Season 3](https://anilist.co/anime/149118) (01:30 21 June 2025)
 -   📺 Watched episode 1 - 11 of [Chuuzenji-sensei Mononoke Kougiroku: Sensei ga Nazo wo Toiteshimau kara.](https://anilist.co/anime/182419) (19:45 19 June 2025)
 -   📺 Completed [WIND BREAKER Season 2](https://anilist.co/anime/178680) (18:26 19 June 2025)
--   📺 Watched episode 1 - 12 of [WIND BREAKER Season 2](https://anilist.co/anime/178680) (18:26 19 June 2025)
--   📺 Completed [The Brilliant Healer's New Life in the Shadows](https://anilist.co/anime/175872) (18:01 19 June 2025)
--   📺 Watched episode 1 - 12 of [The Brilliant Healer's New Life in the Shadows](https://anilist.co/anime/175872) (18:01 19 June 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
