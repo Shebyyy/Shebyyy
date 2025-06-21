@@ -32,7 +32,7 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Watched episode 1 - 8 of [I've Been Killing Slimes For 300 Years And Maxed Out My Level Season 2](https://anilist.co/anime/143337) (13:54 21 June 2025)
+-   📺 Watched episode 1 - 9 of [I've Been Killing Slimes For 300 Years And Maxed Out My Level Season 2](https://anilist.co/anime/143337) (14:22 21 June 2025)
 -   📺 Watched episode 1 - 22 of [I Left My A-Rank Party to Help My Former Students Reach the Dungeon Depths!](https://anilist.co/anime/180812) (13:31 21 June 2025)
 -   📺 Plans to watch [Fire Force Season 3 Part 2](https://anilist.co/anime/179062) (01:31 21 June 2025)
 -   📺 Completed [Fire Force Season 3](https://anilist.co/anime/149118) (01:31 21 June 2025)
