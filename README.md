@@ -32,10 +32,10 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 - 12 of [Umamusume: Cinderella Gray](https://anilist.co/anime/180516) (09:12 22 June 2025)
 -   📺 Watched episode 1 - 23 of [I Left My A-Rank Party to Help My Former Students Reach the Dungeon Depths!](https://anilist.co/anime/180812) (03:15 22 June 2025)
 -   📺 Completed [I'm the Evil Lord of an Intergalactic Empire!](https://anilist.co/anime/183274) (02:59 22 June 2025)
 -   📺 Watched episode 1 - 12 of [I'm the Evil Lord of an Intergalactic Empire!](https://anilist.co/anime/183274) (02:59 22 June 2025)
 -   📺 Plans to watch [Katainaka no Ossan, Kensei ni Naru 2nd Season](https://anilist.co/anime/194829) (02:37 22 June 2025)
--   📺 Completed [From Old Country Bumpkin to Master Swordsman](https://anilist.co/anime/179955) (02:36 22 June 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
