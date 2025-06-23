@@ -32,10 +32,10 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 23 - 92 of [Tunshi Xingkong 4](https://anilist.co/anime/166219) (13:28 23 June 2025)
 -   📺 Plans to watch [Private Tutor to the Duke's Daughter](https://anilist.co/anime/170113) (18:36 22 June 2025)
 -   📺 Watched episode 1 - 4 of [LAZARUS](https://anilist.co/anime/167336) (18:34 22 June 2025)
 -   📺 Watched episode 1 - 11 of [SHIROHIYO - Reincarnated as a Neglected Noble: Raising My Baby Brother With Memories From My Past Life](https://anilist.co/anime/179541) (14:06 22 June 2025)
 -   📺 Watched episode 1 - 12 of [Umamusume: Cinderella Gray](https://anilist.co/anime/180516) (09:12 22 June 2025)
--   📺 Watched episode 1 - 23 of [I Left My A-Rank Party to Help My Former Students Reach the Dungeon Depths!](https://anilist.co/anime/180812) (03:15 22 June 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
