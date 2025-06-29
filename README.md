@@ -32,10 +32,10 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Plans to watch [Uma Musume: Cinderella Gray Part 2](https://anilist.co/anime/195240) (19:42 29 June 2025)
+-   📺 Completed [Umamusume: Cinderella Gray](https://anilist.co/anime/180516) (19:42 29 June 2025)
+-   📺 Watched episode 1 - 13 of [Umamusume: Cinderella Gray](https://anilist.co/anime/180516) (19:41 29 June 2025)
 -   📺 Watched episode 1 of [Private Tutor to the Duke's Daughter](https://anilist.co/anime/170113) (20:03 28 June 2025)
 -   📺 Watched episode 1 - 2 of [Lord of Mysteries](https://anilist.co/anime/137667) (17:04 28 June 2025)
--   📺 Completed [I Left My A-Rank Party to Help My Former Students Reach the Dungeon Depths!](https://anilist.co/anime/180812) (17:02 28 June 2025)
--   📺 Completed [Chuuzenji-sensei Mononoke Kougiroku: Sensei ga Nazo wo Toiteshimau kara.](https://anilist.co/anime/182419) (18:54 23 June 2025)
--   📺 Watched episode 1 - 12 of [Chuuzenji-sensei Mononoke Kougiroku: Sensei ga Nazo wo Toiteshimau kara.](https://anilist.co/anime/182419) (18:54 23 June 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
