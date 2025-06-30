@@ -32,10 +32,10 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Plans to watch [The Shy Hero and the Assassin Princesses](https://anilist.co/anime/186561) (10:22 30 June 2025)
+-   📺 Plans to watch [Fermat no Ryouri](https://anilist.co/anime/186003) (10:22 30 June 2025)
 -   📺 Completed [SHIROHIYO - Reincarnated as a Neglected Noble: Raising My Baby Brother With Memories From My Past Life](https://anilist.co/anime/179541) (20:03 29 June 2025)
 -   📺 Watched episode 1 - 12 of [SHIROHIYO - Reincarnated as a Neglected Noble: Raising My Baby Brother With Memories From My Past Life](https://anilist.co/anime/179541) (20:03 29 June 2025)
 -   📺 Plans to watch [Uma Musume: Cinderella Gray Part 2](https://anilist.co/anime/195240) (19:42 29 June 2025)
--   📺 Completed [Umamusume: Cinderella Gray](https://anilist.co/anime/180516) (19:42 29 June 2025)
--   📺 Watched episode 1 - 13 of [Umamusume: Cinderella Gray](https://anilist.co/anime/180516) (19:41 29 June 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
