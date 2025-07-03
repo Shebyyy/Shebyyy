@@ -32,10 +32,10 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 of [Reborn as a Vending Machine, I Now Wander the Dungeon Season 2](https://anilist.co/anime/169440) (15:03 03 July 2025)
 -   📺 Watched episode 1 - 48 of [Dou Po Cangqiong: Nian Fan 3](https://anilist.co/anime/168164) (19:27 30 June 2025)
 -   📺 Watched episode 23 - 93 of [Tunshi Xingkong 4](https://anilist.co/anime/166219) (19:08 30 June 2025)
 -   📺 Plans to watch [The Shy Hero and the Assassin Princesses](https://anilist.co/anime/186561) (10:22 30 June 2025)
 -   📺 Plans to watch [Fermat no Ryouri](https://anilist.co/anime/186003) (10:22 30 June 2025)
--   📺 Completed [SHIROHIYO - Reincarnated as a Neglected Noble: Raising My Baby Brother With Memories From My Past Life](https://anilist.co/anime/179541) (20:03 29 June 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
