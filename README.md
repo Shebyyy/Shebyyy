@@ -32,10 +32,10 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 - 2 of [Private Tutor to the Duke's Daughter](https://anilist.co/anime/170113) (23:34 05 July 2025)
 -   📺 Watched episode 1 of [Welcome to the Outcast's Restaurant!](https://anilist.co/anime/185544) (07:14 04 July 2025)
 -   📺 Watched episode 1 of [New Saga](https://anilist.co/anime/155838) (06:52 04 July 2025)
 -   📺 Watched episode 1 of [The Water Magician](https://anilist.co/anime/186052) (05:11 04 July 2025)
 -   📺 Watched episode 1 of [Reborn as a Vending Machine, I Now Wander the Dungeon Season 2](https://anilist.co/anime/169440) (15:03 03 July 2025)
--   📺 Watched episode 1 - 48 of [Dou Po Cangqiong: Nian Fan 3](https://anilist.co/anime/168164) (19:27 30 June 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
