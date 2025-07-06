@@ -32,10 +32,10 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Watched episode 1 - 5 of [RE-MAIN](https://anilist.co/anime/130549) (13:51 06 July 2025)
+-   📺 Watched episode 1 of [Apocalypse Bringer Mynoghra: World Conquest Starts with the Civilization of Ruin](https://anilist.co/anime/178433) (18:20 06 July 2025)
+-   📺 Completed [RE-MAIN](https://anilist.co/anime/130549) (17:58 06 July 2025)
+-   📺 Watched episode 1 - 12 of [RE-MAIN](https://anilist.co/anime/130549) (17:57 06 July 2025)
 -   📺 Watched episode 1 of [Call of the Night Season 2](https://anilist.co/anime/175914) (07:11 06 July 2025)
 -   📺 Watched episode 1 - 2 of [9-nine- Shihaisha no Oukan](https://anilist.co/anime/177761) (06:54 06 July 2025)
--   📺 Watched episode 1 of [The Fragrant Flower Blooms With Dignity](https://anilist.co/anime/181444) (06:16 06 July 2025)
--   📺 Watched episode 1 of [My Dress-Up Darling Season 2](https://anilist.co/anime/154768) (05:51 06 July 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
