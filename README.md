@@ -32,10 +32,10 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 of [My Dress-Up Darling Season 2](https://anilist.co/anime/154768) (05:51 06 July 2025)
 -   📺 Watched episode 1 of [Fermat no Ryouri](https://anilist.co/anime/186003) (00:52 06 July 2025)
 -   📺 Plans to watch [The Summer Hikaru Died](https://anilist.co/anime/177689) (00:28 06 July 2025)
 -   📺 Watched episode 1 of [The Shy Hero and the Assassin Princesses](https://anilist.co/anime/186561) (00:11 06 July 2025)
 -   📺 Watched episode 1 of [Scooped Up by an S-Rank Adventurer!](https://anilist.co/anime/179885) (23:51 05 July 2025)
--   📺 Watched episode 1 - 2 of [Private Tutor to the Duke's Daughter](https://anilist.co/anime/170113) (23:34 05 July 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
