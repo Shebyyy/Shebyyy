@@ -32,10 +32,10 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 of [Fermat no Ryouri](https://anilist.co/anime/186003) (00:52 06 July 2025)
+-   📺 Plans to watch [The Summer Hikaru Died](https://anilist.co/anime/177689) (00:28 06 July 2025)
+-   📺 Watched episode 1 of [The Shy Hero and the Assassin Princesses](https://anilist.co/anime/186561) (00:11 06 July 2025)
+-   📺 Watched episode 1 of [Scooped Up by an S-Rank Adventurer!](https://anilist.co/anime/179885) (23:51 05 July 2025)
 -   📺 Watched episode 1 - 2 of [Private Tutor to the Duke's Daughter](https://anilist.co/anime/170113) (23:34 05 July 2025)
--   📺 Watched episode 1 of [Welcome to the Outcast's Restaurant!](https://anilist.co/anime/185544) (07:14 04 July 2025)
--   📺 Watched episode 1 of [New Saga](https://anilist.co/anime/155838) (06:52 04 July 2025)
--   📺 Watched episode 1 of [The Water Magician](https://anilist.co/anime/186052) (05:11 04 July 2025)
--   📺 Watched episode 1 of [Reborn as a Vending Machine, I Now Wander the Dungeon Season 2](https://anilist.co/anime/169440) (15:03 03 July 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
