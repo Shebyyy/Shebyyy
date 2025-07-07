@@ -32,10 +32,10 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 of [Gachiakuta](https://anilist.co/anime/178025) (11:42 07 July 2025)
 -   📺 Watched episode 1 of [Apocalypse Bringer Mynoghra: World Conquest Starts with the Civilization of Ruin](https://anilist.co/anime/178433) (18:20 06 July 2025)
 -   📺 Completed [RE-MAIN](https://anilist.co/anime/130549) (17:58 06 July 2025)
 -   📺 Watched episode 1 - 12 of [RE-MAIN](https://anilist.co/anime/130549) (17:57 06 July 2025)
 -   📺 Watched episode 1 of [Call of the Night Season 2](https://anilist.co/anime/175914) (07:11 06 July 2025)
--   📺 Watched episode 1 - 2 of [9-nine- Shihaisha no Oukan](https://anilist.co/anime/177761) (06:54 06 July 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
