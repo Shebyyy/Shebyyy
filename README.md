@@ -32,10 +32,10 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 of [I Was Reincarnated as the 7th Prince So I Can Take My Time Perfecting My Magical Ability Season 2](https://anilist.co/anime/178090) (16:34 09 July 2025)
 -   📺 Watched episode 1 - 2 of [Reborn as a Vending Machine, I Now Wander the Dungeon Season 2](https://anilist.co/anime/169440) (16:06 09 July 2025)
 -   📺 Watched episode 1 of [The Rising of the Shield Hero Season 4](https://anilist.co/anime/173780) (15:38 09 July 2025)
 -   📺 Watched episode 1 of [Clevatess](https://anilist.co/anime/178869) (12:10 07 July 2025)
 -   📺 Watched episode 1 of [Gachiakuta](https://anilist.co/anime/178025) (11:42 07 July 2025)
--   📺 Watched episode 1 of [Apocalypse Bringer Mynoghra: World Conquest Starts with the Civilization of Ruin](https://anilist.co/anime/178433) (18:20 06 July 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
