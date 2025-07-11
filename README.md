@@ -32,10 +32,10 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Plans to watch [With Vengeance, Sincerely, Your Broken Saintess](https://anilist.co/anime/195209) (02:05 11 July 2025)
+-   📺 Watched episode 1 - 2 of [Welcome to the Outcast's Restaurant!](https://anilist.co/anime/185544) (02:02 11 July 2025)
+-   📺 Watched episode 1 - 2 of [The Water Magician](https://anilist.co/anime/186052) (01:43 11 July 2025)
 -   📺 Watched episode 1 - 2 of [New Saga](https://anilist.co/anime/155838) (14:18 10 July 2025)
 -   📺 Watched episode 1 - 2 of [Clevatess](https://anilist.co/anime/178869) (17:00 09 July 2025)
--   📺 Watched episode 1 of [I Was Reincarnated as the 7th Prince so I Can Take My Time Perfecting My Magical Ability Season 2](https://anilist.co/anime/178090) (16:34 09 July 2025)
--   📺 Watched episode 1 - 2 of [Reborn as a Vending Machine, I Now Wander the Dungeon Season 2](https://anilist.co/anime/169440) (16:06 09 July 2025)
--   📺 Watched episode 1 of [The Rising of the Shield Hero Season 4](https://anilist.co/anime/173780) (15:38 09 July 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
