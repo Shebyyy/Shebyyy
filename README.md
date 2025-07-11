@@ -32,7 +32,7 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Watched episode 1 of [Secrets of the Silent Witch](https://anilist.co/anime/179966) (14:29 11 July 2025)
+-   📺 Watched episode 1 - 2 of [Secrets of the Silent Witch](https://anilist.co/anime/179966) (17:35 11 July 2025)
 -   📺 Plans to watch [With Vengeance, Sincerely, Your Broken Saintess](https://anilist.co/anime/195209) (02:05 11 July 2025)
 -   📺 Watched episode 1 - 2 of [Welcome to the Outcast's Restaurant!](https://anilist.co/anime/185544) (02:02 11 July 2025)
 -   📺 Watched episode 1 - 2 of [The Water Magician](https://anilist.co/anime/186052) (01:43 11 July 2025)
