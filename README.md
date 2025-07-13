@@ -32,10 +32,10 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 - 2 of [The Fragrant Flower Blooms With Dignity](https://anilist.co/anime/181444) (03:17 13 July 2025)
+-   📺 Watched episode 1 - 2 of [Scooped Up by an S-Rank Adventurer!](https://anilist.co/anime/179885) (02:55 13 July 2025)
 -   📺 Watched episode 1 - 3 of [Private Tutor to the Duke's Daughter](https://anilist.co/anime/170113) (02:30 13 July 2025)
 -   📺 Watched episode 1 - 2 of [Fermat no Ryouri](https://anilist.co/anime/186003) (19:50 12 July 2025)
 -   📺 Watched episode 1 of [TOUGEN ANKI](https://anilist.co/anime/177474) (02:46 12 July 2025)
--   📺 Watched episode 1 - 2 of [Secrets of the Silent Witch](https://anilist.co/anime/179966) (17:35 11 July 2025)
--   📺 Plans to watch [With Vengeance, Sincerely, Your Broken Saintess](https://anilist.co/anime/195209) (02:05 11 July 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
