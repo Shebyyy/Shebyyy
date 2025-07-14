@@ -32,10 +32,10 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 - 2 of [Gachiakuta](https://anilist.co/anime/178025) (12:41 14 July 2025)
 -   📺 Watched episode 1 - 2 of [The Shy Hero and the Assassin Princesses](https://anilist.co/anime/186561) (02:48 14 July 2025)
 -   📺 Watched episode 1 - 2 of [Apocalypse Bringer Mynoghra: World Conquest Starts with the Civilization of Ruin](https://anilist.co/anime/178433) (15:36 13 July 2025)
 -   📺 Watched episode 1 - 2 of [My Dress-Up Darling Season 2](https://anilist.co/anime/154768) (09:08 13 July 2025)
 -   📺 Watched episode 1 - 2 of [The Fragrant Flower Blooms With Dignity](https://anilist.co/anime/181444) (03:17 13 July 2025)
--   📺 Watched episode 1 - 2 of [Scooped Up by an S-Rank Adventurer!](https://anilist.co/anime/179885) (02:55 13 July 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
