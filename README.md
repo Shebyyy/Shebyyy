@@ -32,10 +32,10 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 - 2 of [I Was Reincarnated as the 7th Prince so I Can Take My Time Perfecting My Magical Ability Season 2](https://anilist.co/anime/178090) (17:12 16 July 2025)
 -   📺 Watched episode 1 - 3 of [Clevatess](https://anilist.co/anime/178869) (16:44 16 July 2025)
 -   📺 Completed [Ling Cage](https://anilist.co/anime/110459) (14:58 15 July 2025)
 -   📺 Watched episode 1 of [Ling Cage](https://anilist.co/anime/110459) (18:50 14 July 2025)
 -   📺 Plans to watch [Ling Cage](https://anilist.co/anime/110459) (18:02 14 July 2025)
--   📺 Watched episode 1 - 2 of [SAKAMOTO DAYS Part 2](https://anilist.co/anime/184237) (16:09 14 July 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
