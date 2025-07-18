@@ -32,10 +32,10 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 - 3 of [Welcome to the Outcast's Restaurant!](https://anilist.co/anime/185544) (10:31 18 July 2025)
 -   📺 Watched episode 1 - 3 of [The Water Magician](https://anilist.co/anime/186052) (01:18 18 July 2025)
 -   📺 Watched episode 1 - 3 of [Reborn as a Vending Machine, I Now Wander the Dungeon Season 2](https://anilist.co/anime/169440) (17:51 16 July 2025)
 -   📺 Watched episode 1 - 2 of [The Rising of the Shield Hero Season 4](https://anilist.co/anime/173780) (17:32 16 July 2025)
 -   📺 Watched episode 1 - 2 of [I Was Reincarnated as the 7th Prince so I Can Take My Time Perfecting My Magical Ability Season 2](https://anilist.co/anime/178090) (17:12 16 July 2025)
--   📺 Watched episode 1 - 3 of [Clevatess](https://anilist.co/anime/178869) (16:44 16 July 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
