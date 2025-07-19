@@ -32,7 +32,7 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Watched episode 1 - 2 of [Betrothed to My Sister's Ex](https://anilist.co/anime/179879) (12:32 19 July 2025)
+-   📺 Watched episode 1 - 3 of [Betrothed to My Sister's Ex](https://anilist.co/anime/179879) (12:55 19 July 2025)
 -   📺 Watched episode 1 - 3 of [Secrets of the Silent Witch](https://anilist.co/anime/179966) (02:09 19 July 2025)
 -   📺 Watched episode 1 - 2 of [TOUGEN ANKI](https://anilist.co/anime/177474) (22:09 18 July 2025)
 -   📺 Watched episode 1 - 3 of [Welcome to the Outcast's Restaurant!](https://anilist.co/anime/185544) (10:31 18 July 2025)
