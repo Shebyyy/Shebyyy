@@ -32,10 +32,10 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Plans to watch [Nukitashi THE ANIMATION](https://anilist.co/anime/174188) (09:02 20 July 2025)
+-   📺 Watched episode 1 - 3 of [New Saga](https://anilist.co/anime/155838) (08:59 20 July 2025)
 -   📺 Watched episode 1 - 3 of [My Dress-Up Darling Season 2](https://anilist.co/anime/154768) (02:49 20 July 2025)
 -   📺 Watched episode 1 - 3 of [The Fragrant Flower Blooms With Dignity](https://anilist.co/anime/181444) (02:27 20 July 2025)
 -   📺 Watched episode 1 - 4 of [Private Tutor to the Duke's Daughter](https://anilist.co/anime/170113) (21:02 19 July 2025)
--   📺 Watched episode 1 - 3 of [Scooped Up by an S-Rank Adventurer!](https://anilist.co/anime/179885) (20:40 19 July 2025)
--   📺 Watched episode 1 - 3 of [Fermat no Ryouri](https://anilist.co/anime/186003) (20:19 19 July 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
