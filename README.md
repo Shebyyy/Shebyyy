@@ -32,10 +32,10 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 - 3 of [The Rising of the Shield Hero Season 4](https://anilist.co/anime/173780) (13:49 23 July 2025)
 -   📺 Watched episode 1 - 3 of [SAKAMOTO DAYS Part 2](https://anilist.co/anime/184237) (16:49 21 July 2025)
 -   📺 Watched episode 1 - 3 of [Apocalypse Bringer Mynoghra: World Conquest Starts with the Civilization of Ruin](https://anilist.co/anime/178433) (14:30 20 July 2025)
 -   📺 Plans to watch [Nukitashi THE ANIMATION](https://anilist.co/anime/174188) (09:02 20 July 2025)
 -   📺 Watched episode 1 - 3 of [New Saga](https://anilist.co/anime/155838) (08:59 20 July 2025)
--   📺 Watched episode 1 - 3 of [My Dress-Up Darling Season 2](https://anilist.co/anime/154768) (02:49 20 July 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
