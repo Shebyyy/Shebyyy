@@ -32,10 +32,10 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 - 4 of [New Saga](https://anilist.co/anime/155838) (12:32 24 July 2025)
 -   📺 Watched episode 1 - 3 of [I Was Reincarnated as the 7th Prince so I Can Take My Time Perfecting My Magical Ability Season 2](https://anilist.co/anime/178090) (21:57 23 July 2025)
 -   📺 Watched episode 1 - 4 of [Clevatess](https://anilist.co/anime/178869) (14:09 23 July 2025)
 -   📺 Watched episode 1 - 3 of [The Rising of the Shield Hero Season 4](https://anilist.co/anime/173780) (13:49 23 July 2025)
 -   📺 Watched episode 1 - 3 of [SAKAMOTO DAYS Part 2](https://anilist.co/anime/184237) (16:49 21 July 2025)
--   📺 Watched episode 1 - 3 of [Apocalypse Bringer Mynoghra: World Conquest Starts with the Civilization of Ruin](https://anilist.co/anime/178433) (14:30 20 July 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
