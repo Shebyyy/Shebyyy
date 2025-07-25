@@ -32,10 +32,10 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 of [Dr. STONE SCIENCE FUTURE](https://anilist.co/anime/172019) (15:25 25 July 2025)
 -   📺 Completed [Dr. STONE New World Part 2](https://anilist.co/anime/162670) (14:40 25 July 2025)
 -   📺 Watched episode 1 - 5 of [Dr. STONE New World Part 2](https://anilist.co/anime/162670) (03:17 25 July 2025)
 -   📺 Watched episode 1 - 4 of [The Water Magician](https://anilist.co/anime/186052) (20:26 24 July 2025)
 -   📺 Watched episode 1 - 4 of [Welcome to the Outcast's Restaurant!](https://anilist.co/anime/185544) (18:19 24 July 2025)
--   📺 Watched episode 1 - 4 of [New Saga](https://anilist.co/anime/155838) (12:32 24 July 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
