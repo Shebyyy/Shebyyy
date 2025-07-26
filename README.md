@@ -32,10 +32,10 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Watched episode 1 - 9 of [Dr. STONE SCIENCE FUTURE](https://anilist.co/anime/172019) (13:41 26 July 2025)
+-   📺 Completed [Dr. STONE SCIENCE FUTURE](https://anilist.co/anime/172019) (15:47 26 July 2025)
+-   📺 Watched episode 1 - 12 of [Dr. STONE SCIENCE FUTURE](https://anilist.co/anime/172019) (15:47 26 July 2025)
 -   📺 Watched episode 1 - 4 of [Betrothed to My Sister's Ex](https://anilist.co/anime/179879) (02:00 26 July 2025)
 -   📺 Watched episode 1 - 4 of [Secrets of the Silent Witch](https://anilist.co/anime/179966) (01:38 26 July 2025)
 -   📺 Watched episode 1 - 3 of [TOUGEN ANKI](https://anilist.co/anime/177474) (16:37 25 July 2025)
--   📺 Completed [Dr. STONE New World Part 2](https://anilist.co/anime/162670) (14:40 25 July 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
