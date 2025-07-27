@@ -32,7 +32,7 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Watched episode 1 - 23 of [The Apothecary Diaries Season 2](https://anilist.co/anime/176301) (11:25 27 July 2025)
+-   📺 Watched episode 1 - 24 of [The Apothecary Diaries Season 2](https://anilist.co/anime/176301) (11:43 27 July 2025)
 -   📺 Watched episode 1 - 2 of [Kaiju No. 8 Season 2](https://anilist.co/anime/178754) (03:15 27 July 2025)
 -   📺 Watched episode 1 - 4 of [The Fragrant Flower Blooms With Dignity](https://anilist.co/anime/181444) (02:52 27 July 2025)
 -   📺 Watched episode 1 - 4 of [My Dress-Up Darling Season 2](https://anilist.co/anime/154768) (02:28 27 July 2025)
