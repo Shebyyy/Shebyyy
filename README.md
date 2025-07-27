@@ -32,10 +32,10 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 - 4 of [My Dress-Up Darling Season 2](https://anilist.co/anime/154768) (02:28 27 July 2025)
+-   📺 Watched episode 1 - 4 of [Reborn as a Vending Machine, I Now Wander the Dungeon Season 2](https://anilist.co/anime/169440) (02:08 27 July 2025)
 -   📺 Watched episode 1 - 5 of [Private Tutor to the Duke's Daughter](https://anilist.co/anime/170113) (18:35 26 July 2025)
 -   📺 Watched episode 1 - 4 of [Scooped Up by an S-Rank Adventurer!](https://anilist.co/anime/179885) (18:33 26 July 2025)
 -   📺 Watched episode 1 - 4 of [Fermat no Ryouri](https://anilist.co/anime/186003) (18:11 26 July 2025)
--   📺 Watched episode 1 - 3 of [Dr. STONE SCIENCE FUTURE Cour 2](https://anilist.co/anime/189117) (17:43 26 July 2025)
--   📺 Completed [Dr. STONE SCIENCE FUTURE](https://anilist.co/anime/172019) (15:47 26 July 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
