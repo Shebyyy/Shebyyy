@@ -32,10 +32,10 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 - 4 of [Apocalypse Bringer Mynoghra: World Conquest Starts with the Civilization of Ruin](https://anilist.co/anime/178433) (15:02 27 July 2025)
 -   📺 Watched episode 1 - 4 of [Private Tutor to the Duke's Daughter](https://anilist.co/anime/170113) (13:23 27 July 2025)
 -   📺 Watched episode 1095 - 1136 of [ONE PIECE](https://anilist.co/anime/21) (13:17 27 July 2025)
 -   📺 Watched episode 1 - 24 of [The Apothecary Diaries Season 2](https://anilist.co/anime/176301) (11:43 27 July 2025)
 -   📺 Watched episode 1 - 2 of [Kaiju No. 8 Season 2](https://anilist.co/anime/178754) (03:15 27 July 2025)
--   📺 Watched episode 1 - 4 of [The Fragrant Flower Blooms With Dignity](https://anilist.co/anime/181444) (02:52 27 July 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
