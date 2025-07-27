@@ -32,10 +32,10 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 - 21 of [The Apothecary Diaries Season 2](https://anilist.co/anime/176301) (09:58 27 July 2025)
 -   📺 Watched episode 1 - 2 of [Kaiju No. 8 Season 2](https://anilist.co/anime/178754) (03:15 27 July 2025)
 -   📺 Watched episode 1 - 4 of [The Fragrant Flower Blooms With Dignity](https://anilist.co/anime/181444) (02:52 27 July 2025)
 -   📺 Watched episode 1 - 4 of [My Dress-Up Darling Season 2](https://anilist.co/anime/154768) (02:28 27 July 2025)
 -   📺 Watched episode 1 - 4 of [Reborn as a Vending Machine, I Now Wander the Dungeon Season 2](https://anilist.co/anime/169440) (02:08 27 July 2025)
--   📺 Watched episode 1 - 5 of [Private Tutor to the Duke's Daughter](https://anilist.co/anime/170113) (18:35 26 July 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
