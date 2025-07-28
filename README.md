@@ -32,10 +32,10 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Plans to watch [Kusuriya no Hitorigoto (Zoku-hen)](https://anilist.co/anime/195516) (14:14 28 July 2025)
+-   📺 Completed [The Apothecary Diaries Season 2](https://anilist.co/anime/176301) (14:13 28 July 2025)
 -   📺 Watched episode 1 - 3 of [Gachiakuta](https://anilist.co/anime/178025) (03:23 28 July 2025)
 -   📺 Watched episode 1095 - 1137 of [ONE PIECE](https://anilist.co/anime/21) (03:01 28 July 2025)
 -   📺 Watched episode 1 - 4 of [Apocalypse Bringer Mynoghra: World Conquest Starts with the Civilization of Ruin](https://anilist.co/anime/178433) (15:02 27 July 2025)
--   📺 Watched episode 1 - 4 of [Private Tutor to the Duke's Daughter](https://anilist.co/anime/170113) (13:23 27 July 2025)
--   📺 Watched episode 1 - 24 of [The Apothecary Diaries Season 2](https://anilist.co/anime/176301) (11:43 27 July 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
