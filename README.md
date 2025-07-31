@@ -32,10 +32,10 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 - 5 of [Clevatess](https://anilist.co/anime/178869) (17:32 31 July 2025)
 -   📺 Completed [Assassination Classroom 2](https://anilist.co/anime/21170) (17:02 31 July 2025)
 -   📺 Watched episode 1 - 4 of [The Rising of the Shield Hero Season 4](https://anilist.co/anime/173780) (12:15 31 July 2025)
 -   📺 Watched episode 1 - 4 of [SAKAMOTO DAYS Part 2](https://anilist.co/anime/184237) (17:32 28 July 2025)
 -   📺 Plans to watch [Kusuriya no Hitorigoto (Zoku-hen)](https://anilist.co/anime/195516) (14:14 28 July 2025)
--   📺 Completed [The Apothecary Diaries Season 2](https://anilist.co/anime/176301) (14:13 28 July 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
