@@ -32,10 +32,10 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 - 4 of [Dr. STONE SCIENCE FUTURE Cour 2](https://anilist.co/anime/189117) (19:08 31 July 2025)
 -   📺 Watched episode 1 - 5 of [Welcome to the Outcast's Restaurant!](https://anilist.co/anime/185544) (18:48 31 July 2025)
 -   📺 Watched episode 1 - 5 of [New Saga](https://anilist.co/anime/155838) (18:27 31 July 2025)
 -   📺 Watched episode 1 - 4 of [I Was Reincarnated as the 7th Prince so I Can Take My Time Perfecting My Magical Ability Season 2](https://anilist.co/anime/178090) (17:53 31 July 2025)
 -   📺 Watched episode 1 - 5 of [Clevatess](https://anilist.co/anime/178869) (17:32 31 July 2025)
--   📺 Completed [Assassination Classroom 2](https://anilist.co/anime/21170) (17:02 31 July 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
