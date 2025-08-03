@@ -32,10 +32,10 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 of [Dou Po Cangqiong: Nian Fan 4](https://anilist.co/anime/196613) (04:10 03 August 2025)
+-   📺 Completed [Dou Po Cangqiong: Nian Fan 3](https://anilist.co/anime/168164) (04:10 03 August 2025)
 -   📺 Watched episode 1 - 7 of [Lord of Mysteries](https://anilist.co/anime/137667) (14:16 02 August 2025)
 -   📺 Watched episode 1 - 4 of [TOUGEN ANKI](https://anilist.co/anime/177474) (14:15 02 August 2025)
 -   📺 Watched episode 1 - 5 of [Secrets of the Silent Witch](https://anilist.co/anime/179966) (14:14 02 August 2025)
--   📺 Watched episode 1 - 5 of [Betrothed to My Sister's Ex](https://anilist.co/anime/179879) (14:14 02 August 2025)
--   📺 Watched episode 1 - 5 of [Reborn as a Vending Machine, I Now Wander the Dungeon Season 2](https://anilist.co/anime/169440) (01:49 01 August 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
