@@ -32,10 +32,10 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 - 3 of [Kaiju No. 8 Season 2](https://anilist.co/anime/178754) (09:45 03 August 2025)
+-   📺 Watched episode 1 - 5 of [My Dress-Up Darling Season 2](https://anilist.co/anime/154768) (09:45 03 August 2025)
+-   📺 Watched episode 1 - 5 of [Scooped Up by an S-Rank Adventurer!](https://anilist.co/anime/179885) (09:45 03 August 2025)
+-   📺 Watched episode 1 - 5 of [Private Tutor to the Duke's Daughter](https://anilist.co/anime/170113) (09:45 03 August 2025)
 -   📺 Watched episode 1 of [Dou Po Cangqiong: Nian Fan 4](https://anilist.co/anime/196613) (04:10 03 August 2025)
--   📺 Completed [Dou Po Cangqiong: Nian Fan 3](https://anilist.co/anime/168164) (04:10 03 August 2025)
--   📺 Watched episode 1 - 7 of [Lord of Mysteries](https://anilist.co/anime/137667) (14:16 02 August 2025)
--   📺 Watched episode 1 - 4 of [TOUGEN ANKI](https://anilist.co/anime/177474) (14:15 02 August 2025)
--   📺 Watched episode 1 - 5 of [Secrets of the Silent Witch](https://anilist.co/anime/179966) (14:14 02 August 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
