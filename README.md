@@ -32,10 +32,10 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 - 5 of [Apocalypse Bringer Mynoghra: World Conquest Starts with the Civilization of Ruin](https://anilist.co/anime/178433) (17:27 03 August 2025)
 -   📺 Watched episode 1 - 112 of [Soul Land 2: The Peerless Tang Clan](https://anilist.co/anime/137683) (13:11 03 August 2025)
 -   📺 Watched episode 1 - 5 of [The Fragrant Flower Blooms With Dignity](https://anilist.co/anime/181444) (10:13 03 August 2025)
 -   📺 Watched episode 1 - 3 of [Kaiju No. 8 Season 2](https://anilist.co/anime/178754) (09:45 03 August 2025)
 -   📺 Watched episode 1 - 5 of [My Dress-Up Darling Season 2](https://anilist.co/anime/154768) (09:45 03 August 2025)
--   📺 Watched episode 1 - 5 of [Scooped Up by an S-Rank Adventurer!](https://anilist.co/anime/179885) (09:45 03 August 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
