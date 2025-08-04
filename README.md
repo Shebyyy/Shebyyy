@@ -32,10 +32,10 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 - 5 of [SAKAMOTO DAYS Part 2](https://anilist.co/anime/184237) (16:43 04 August 2025)
 -   📺 Plans to watch [Kimi ni Todoke: From Me to You Season 3](https://anilist.co/anime/168872) (10:20 04 August 2025)
 -   📺 Plans to watch [Tensei Shitara Slime Datta Ken 4th Season](https://anilist.co/anime/182205) (10:20 04 August 2025)
 -   📺 Plans to watch [Nageki no Bourei wa Intai shitai 2](https://anilist.co/anime/185801) (10:20 04 August 2025)
 -   📺 Plans to watch [Ao no Miburo: Serizawa Ansatsu-hen](https://anilist.co/anime/189258) (10:20 04 August 2025)
--   📺 Plans to watch [Ao no Hako 2nd Season](https://anilist.co/anime/189123) (10:19 04 August 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
