@@ -32,10 +32,10 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Plans to watch [GJ Club](https://anilist.co/anime/14811) (05:25 04 August 2025)
--   📺 Watched episode 1095 - 1138 of [ONE PIECE](https://anilist.co/anime/21) (18:22 03 August 2025)
--   📺 Watched episode 1 - 4 of [Gachiakuta](https://anilist.co/anime/178025) (18:08 03 August 2025)
--   📺 Watched episode 1 - 5 of [Apocalypse Bringer Mynoghra: World Conquest Starts with the Civilization of Ruin](https://anilist.co/anime/178433) (17:27 03 August 2025)
--   📺 Watched episode 1 - 112 of [Soul Land 2: The Peerless Tang Clan](https://anilist.co/anime/137683) (13:11 03 August 2025)
+-   📺 Plans to watch [Kimi ni Todoke: From Me to You Season 3](https://anilist.co/anime/168872) (10:20 04 August 2025)
+-   📺 Plans to watch [Tensei Shitara Slime Datta Ken 4th Season](https://anilist.co/anime/182205) (10:20 04 August 2025)
+-   📺 Plans to watch [Nageki no Bourei wa Intai shitai 2](https://anilist.co/anime/185801) (10:20 04 August 2025)
+-   📺 Plans to watch [Ao no Miburo: Serizawa Ansatsu-hen](https://anilist.co/anime/189258) (10:20 04 August 2025)
+-   📺 Plans to watch [Ao no Hako 2nd Season](https://anilist.co/anime/189123) (10:19 04 August 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
