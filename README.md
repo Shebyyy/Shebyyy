@@ -32,10 +32,10 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 - 8 of [Unnamed Memory Season 2](https://anilist.co/anime/178550) (02:36 06 August 2025)
 -   📺 Completed [LAZARUS](https://anilist.co/anime/167336) (13:34 05 August 2025)
 -   📺 Watched episode 1 - 5 of [SAKAMOTO DAYS Part 2](https://anilist.co/anime/184237) (16:43 04 August 2025)
 -   📺 Plans to watch [Kimi ni Todoke: From Me to You Season 3](https://anilist.co/anime/168872) (10:20 04 August 2025)
 -   📺 Plans to watch [Tensei Shitara Slime Datta Ken 4th Season](https://anilist.co/anime/182205) (10:20 04 August 2025)
--   📺 Plans to watch [Nageki no Bourei wa Intai shitai 2](https://anilist.co/anime/185801) (10:20 04 August 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
