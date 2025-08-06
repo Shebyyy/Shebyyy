@@ -32,10 +32,10 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 - 6 of [New Saga](https://anilist.co/anime/155838) (18:44 06 August 2025)
 -   📺 Watched episode 1 - 5 of [I Was Reincarnated as the 7th Prince so I Can Take My Time Perfecting My Magical Ability Season 2](https://anilist.co/anime/178090) (18:22 06 August 2025)
 -   📺 Watched episode 1 - 6 of [Reborn as a Vending Machine, I Now Wander the Dungeon Season 2](https://anilist.co/anime/169440) (15:04 06 August 2025)
 -   📺 Watched episode 1 - 6 of [Clevatess](https://anilist.co/anime/178869) (14:32 06 August 2025)
 -   📺 Watched episode 1 - 5 of [The Rising of the Shield Hero Season 4](https://anilist.co/anime/173780) (14:08 06 August 2025)
--   📺 Completed [Unnamed Memory Season 2](https://anilist.co/anime/178550) (12:57 06 August 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
