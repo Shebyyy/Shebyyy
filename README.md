@@ -32,10 +32,10 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 - 6 of [Clevatess](https://anilist.co/anime/178869) (14:32 06 August 2025)
 -   📺 Watched episode 1 - 5 of [The Rising of the Shield Hero Season 4](https://anilist.co/anime/173780) (14:08 06 August 2025)
 -   📺 Completed [Unnamed Memory Season 2](https://anilist.co/anime/178550) (12:57 06 August 2025)
 -   📺 Watched episode 1 - 8 of [Unnamed Memory Season 2](https://anilist.co/anime/178550) (02:36 06 August 2025)
 -   📺 Completed [LAZARUS](https://anilist.co/anime/167336) (13:34 05 August 2025)
--   📺 Watched episode 1 - 5 of [SAKAMOTO DAYS Part 2](https://anilist.co/anime/184237) (16:43 04 August 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
