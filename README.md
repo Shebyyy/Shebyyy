@@ -32,10 +32,10 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Plans to watch [My Hero Academia FINAL SEASON](https://anilist.co/anime/182896) (14:02 07 August 2025)
+-   📺 Completed [My Hero Academia Season 7](https://anilist.co/anime/163139) (14:01 07 August 2025)
 -   📺 Watched episode 1 - 16 of [My Hero Academia Season 7](https://anilist.co/anime/163139) (03:09 07 August 2025)
 -   📺 Watched episode 1 - 6 of [New Saga](https://anilist.co/anime/155838) (18:44 06 August 2025)
 -   📺 Watched episode 1 - 5 of [I Was Reincarnated as the 7th Prince so I Can Take My Time Perfecting My Magical Ability Season 2](https://anilist.co/anime/178090) (18:22 06 August 2025)
--   📺 Watched episode 1 - 6 of [Reborn as a Vending Machine, I Now Wander the Dungeon Season 2](https://anilist.co/anime/169440) (15:04 06 August 2025)
--   📺 Watched episode 1 - 6 of [Clevatess](https://anilist.co/anime/178869) (14:32 06 August 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
