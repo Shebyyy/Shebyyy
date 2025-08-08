@@ -32,10 +32,10 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 - 4 of [Dead Mount Death Play Part 2](https://anilist.co/anime/162803) (14:18 08 August 2025)
 -   📺 Watched episode 1 - 6 of [Welcome to the Outcast's Restaurant!](https://anilist.co/anime/185544) (20:44 07 August 2025)
 -   📺 Plans to watch [My Hero Academia FINAL SEASON](https://anilist.co/anime/182896) (14:02 07 August 2025)
 -   📺 Completed [My Hero Academia Season 7](https://anilist.co/anime/163139) (14:01 07 August 2025)
 -   📺 Watched episode 1 - 16 of [My Hero Academia Season 7](https://anilist.co/anime/163139) (03:09 07 August 2025)
--   📺 Watched episode 1 - 6 of [New Saga](https://anilist.co/anime/155838) (18:44 06 August 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
