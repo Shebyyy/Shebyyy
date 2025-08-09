@@ -32,10 +32,10 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 - 6 of [Scooped Up by an S-Rank Adventurer!](https://anilist.co/anime/179885) (20:25 09 August 2025)
+-   📺 Watched episode 1 - 5 of [Fermat no Ryouri](https://anilist.co/anime/186003) (20:11 09 August 2025)
 -   📺 Watched episode 1 - 4 of [Kaiju No. 8 Season 2](https://anilist.co/anime/178754) (15:16 09 August 2025)
 -   📺 Completed [Dead Mount Death Play Part 2](https://anilist.co/anime/162803) (11:14 09 August 2025)
 -   📺 Watched episode 1 - 5 of [Dr. STONE SCIENCE FUTURE Cour 2](https://anilist.co/anime/189117) (02:23 09 August 2025)
--   📺 Watched episode 1 - 5 of [TOUGEN ANKI](https://anilist.co/anime/177474) (02:02 09 August 2025)
--   📺 Watched episode 1 - 6 of [Betrothed to My Sister's Ex](https://anilist.co/anime/179879) (01:42 09 August 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
