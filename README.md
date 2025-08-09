@@ -32,10 +32,10 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Completed [Dead Mount Death Play Part 2](https://anilist.co/anime/162803) (11:14 09 August 2025)
 -   📺 Watched episode 1 - 5 of [Dr. STONE SCIENCE FUTURE Cour 2](https://anilist.co/anime/189117) (02:23 09 August 2025)
 -   📺 Watched episode 1 - 5 of [TOUGEN ANKI](https://anilist.co/anime/177474) (02:02 09 August 2025)
 -   📺 Watched episode 1 - 6 of [Betrothed to My Sister's Ex](https://anilist.co/anime/179879) (01:42 09 August 2025)
 -   📺 Watched episode 1 - 6 of [Secrets of the Silent Witch](https://anilist.co/anime/179966) (01:20 09 August 2025)
--   📺 Watched episode 1 - 4 of [Dead Mount Death Play Part 2](https://anilist.co/anime/162803) (14:18 08 August 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
