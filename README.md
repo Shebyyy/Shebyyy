@@ -32,10 +32,10 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 - 5 of [Gachiakuta](https://anilist.co/anime/178025) (15:30 10 August 2025)
 -   📺 Watched episode 1 - 6 of [Apocalypse Bringer Mynoghra: World Conquest Starts with the Civilization of Ruin](https://anilist.co/anime/178433) (14:30 10 August 2025)
 -   📺 Watched episode 1 - 6 of [The Fragrant Flower Blooms With Dignity](https://anilist.co/anime/181444) (02:44 10 August 2025)
 -   📺 Watched episode 1 - 6 of [Private Tutor to the Duke's Daughter](https://anilist.co/anime/170113) (22:07 09 August 2025)
 -   📺 Watched episode 1 - 6 of [My Dress-Up Darling Season 2](https://anilist.co/anime/154768) (21:40 09 August 2025)
--   📺 Watched episode 1 - 6 of [Scooped Up by an S-Rank Adventurer!](https://anilist.co/anime/179885) (20:25 09 August 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
