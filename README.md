@@ -32,10 +32,10 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 - 7 of [Clevatess](https://anilist.co/anime/178869) (15:14 13 August 2025)
+-   📺 Watched episode 1 - 6 of [The Rising of the Shield Hero Season 4](https://anilist.co/anime/173780) (14:57 13 August 2025)
 -   📺 Completed [My Happy Marriage Season 2](https://anilist.co/anime/169441) (12:48 13 August 2025)
 -   📺 Watched episode 1 - 6 of [SAKAMOTO DAYS Part 2](https://anilist.co/anime/184237) (16:10 11 August 2025)
 -   📺 Watched episode 1095 - 1139 of [ONE PIECE](https://anilist.co/anime/21) (16:21 10 August 2025)
--   📺 Watched episode 1 - 5 of [Gachiakuta](https://anilist.co/anime/178025) (15:30 10 August 2025)
--   📺 Watched episode 1 - 6 of [Apocalypse Bringer Mynoghra: World Conquest Starts with the Civilization of Ruin](https://anilist.co/anime/178433) (14:30 10 August 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
