@@ -32,10 +32,10 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 - 4 of [MONOGATARI Series: OFF & MONSTER Season](https://anilist.co/anime/173533) (02:38 14 August 2025)
 -   📺 Watched episode 1 - 7 of [New Saga](https://anilist.co/anime/155838) (18:29 13 August 2025)
 -   📺 Watched episode 1 - 6 of [I Was Reincarnated as the 7th Prince so I Can Take My Time Perfecting My Magical Ability Season 2](https://anilist.co/anime/178090) (18:10 13 August 2025)
 -   📺 Watched episode 1 - 7 of [Clevatess](https://anilist.co/anime/178869) (15:14 13 August 2025)
 -   📺 Watched episode 1 - 6 of [The Rising of the Shield Hero Season 4](https://anilist.co/anime/173780) (14:57 13 August 2025)
--   📺 Completed [My Happy Marriage Season 2](https://anilist.co/anime/169441) (12:48 13 August 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
