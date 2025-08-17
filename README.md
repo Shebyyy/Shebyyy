@@ -32,10 +32,10 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 - 7 of [Private Tutor to the Duke's Daughter](https://anilist.co/anime/170113) (03:28 17 August 2025)
+-   📺 Watched episode 1 - 5 of [Kaiju No. 8 Season 2](https://anilist.co/anime/178754) (03:04 17 August 2025)
+-   📺 Watched episode 1 - 7 of [Scooped Up by an S-Rank Adventurer!](https://anilist.co/anime/179885) (02:37 17 August 2025)
 -   📺 Watched episode 1 - 6 of [Fermat Kitchen](https://anilist.co/anime/186003) (19:43 16 August 2025)
 -   📺 Watched episode 1 - 6 of [TOUGEN ANKI](https://anilist.co/anime/177474) (22:48 15 August 2025)
--   📺 Watched episode 1 - 7 of [Betrothed to My Sister's Ex](https://anilist.co/anime/179879) (22:18 15 August 2025)
--   📺 Watched episode 1 - 7 of [Secrets of the Silent Witch](https://anilist.co/anime/179966) (21:57 15 August 2025)
--   📺 Watched episode 1 - 7 of [Welcome to the Outcast's Restaurant!](https://anilist.co/anime/185544) (05:15 15 August 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
