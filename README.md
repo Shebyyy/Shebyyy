@@ -32,10 +32,10 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 - 7 of [My Dress-Up Darling Season 2](https://anilist.co/anime/154768) (03:50 17 August 2025)
 -   📺 Watched episode 1 - 7 of [Private Tutor to the Duke's Daughter](https://anilist.co/anime/170113) (03:28 17 August 2025)
 -   📺 Watched episode 1 - 5 of [Kaiju No. 8 Season 2](https://anilist.co/anime/178754) (03:04 17 August 2025)
 -   📺 Watched episode 1 - 7 of [Scooped Up by an S-Rank Adventurer!](https://anilist.co/anime/179885) (02:37 17 August 2025)
 -   📺 Watched episode 1 - 6 of [Fermat Kitchen](https://anilist.co/anime/186003) (19:43 16 August 2025)
--   📺 Watched episode 1 - 6 of [TOUGEN ANKI](https://anilist.co/anime/177474) (22:48 15 August 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
