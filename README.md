@@ -1,41 +1,44 @@
-<div align="center">
+# 👋 Hi, I'm SHEBY  
 
-# Welcome
-<a href="https://github.com/kawarimidoll/typograssy">
-    <img alt="typograssy" src="https://typograssy.deno.dev/api?text=%E3%82%88%E3%81%86%E3%81%93%E3%81%9D%E3%81%BF%E3%81%AA%E3%81%95%E3%82%93%20-%20Sheby--&&l0=none&l1=82d9d0&l2=027353&l3=038c4c&l4=01402e&bg=none&frame=none&speed=100&comment=" width="421.99">
-</a>
+💻 **Computer Faculty | Tech Explorer | Anime Enthusiast**  
 
-</div>
+---
 
-<div align="center">
+### 👨‍🏫 About Me  
+- 📚 Working as a **Computer Faculty**  
+- 🧾 Teaching **TallyPrime, MS Office, Advanced Excel, SAP FICO, Zoho Books & Accounts**  
+- 🖥️ Not a developer, but I love **testing apps** across **Windows, Android & Linux**  
+- 🎭 Anime addict — more into exploring & testing **anime-related apps**  
 
-# Social Media Profiles
+---
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/612532963938271232)](https://discord.com/users/612532963938271232)
+### 🛠️ What I Do  
+- ✅ Guide students in **Accounts & ERP software**  
+- ✅ Help people get hands-on with **Office Tools & Excel tricks**  
+- ✅ Test & explore **new apps** (especially anime-related)  
+- ✅ Share my experiences and learn while doing so  
 
+---
 
-<a href="https://www.snapchat.com/add/a.sheby" title="Snapchat Profile">
-    <img src="https://www.freepnglogos.com/uploads/snapchat-logo-png-0.png" width="35" alt="Snapchat Logo" />
+### 🌱 Currently Learning / Exploring  
+- SAP FICO  
+- Zoho Books  
+- Anime/Manga related tools & apps  
 
+---
 
-<a href="https://t.me/ASheby" title="Telegram Profile">
-    <img src="https://www.freepnglogos.com/uploads/telegram-logo-png-0.png" width="30" alt="Telegram Logo" />
+### 🎌 Fun Side of Me  
+- Anime is life 🎬  
+- Tech keeps me curious ⚡  
+- Love to explore new things, even outside my main field 🚀  
 
+---
 
-</div>
+### 📫 Connect with Me  
+- 📱 [Telegram](https://t.me/ASheby)  
+- 👻 [Snapchat](https://www.snapchat.com/add/a.sheby)  
+- 🎮 [Discord](https://discord.com/users/612532963938271232)  
 
-<div align="center">
+---
 
-# Anilist Activity
-
-</div>
-
-<!-- ANILIST_ACTIVITY:start -->
-
--   📺 Watched episode 1 - 6 of [Gachiakuta](https://anilist.co/anime/178025) (17:59 17 August 2025)
--   📺 Watched episode 1095 - 1140 of [ONE PIECE](https://anilist.co/anime/21) (17:12 17 August 2025)
--   📺 Watched episode 1 - 7 of [Apocalypse Bringer Mynoghra: World Conquest Starts with the Civilization of Ruin](https://anilist.co/anime/178433) (14:21 17 August 2025)
--   📺 Watched episode 1 - 7 of [The Fragrant Flower Blooms With Dignity](https://anilist.co/anime/181444) (13:36 17 August 2025)
--   📺 Watched episode 1 - 7 of [My Dress-Up Darling Season 2](https://anilist.co/anime/154768) (03:50 17 August 2025)
-
-<!-- ANILIST_ACTIVITY:end -->
+⭐ _“I may not be a developer, but I’m always exploring, learning, and testing in the tech + anime world!”_
